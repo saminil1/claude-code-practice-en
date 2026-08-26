@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "deny": ["Write(./regulations/**)", "Write(./evidence/**)", "Bash(rm *)"],
+    "allow": ["Read(./**)", "Write(./work/**)"],
+    "ask": ["WebFetch", "Bash(*)"]
+  }
+}

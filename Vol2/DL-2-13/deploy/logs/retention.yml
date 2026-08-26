@@ -1,0 +1,5 @@
+retention:
+  app: 90d
+  access: 365d
+  audit: 1095d
+immutable: true

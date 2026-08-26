@@ -1,0 +1,4 @@
+APP_ENV=production
+LOG_LEVEL=info
+DB_HOST=db.internal
+DB_PASSWORD=  # from the secret store, never here

@@ -1,0 +1,4 @@
+Asset,Risk,Likelihood,Impact,Treatment,Owner
+Chatbot,personal data in a prompt,mid,high,masking rule,Gen Affairs
+Summariser,hallucinated citation,high,mid,source check,Planning
+Classifier,drift after retraining,mid,mid,monthly review,IT

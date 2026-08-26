@@ -1,0 +1,4 @@
+flags:
+  new_dashboard: false
+  export_v2: true
+  debug_panel: true   # left on since 2026-02

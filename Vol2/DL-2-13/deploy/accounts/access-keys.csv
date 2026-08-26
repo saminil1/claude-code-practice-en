@@ -1,0 +1,4 @@
+Key id,Account,Created,Last rotated,Status
+AKIA-SAMPLE-0001,svc-deploy,2025-11-02,2026-05-02,active
+AKIA-SAMPLE-0002,admin-02,2024-08-15,2024-08-15,active
+AKIA-SAMPLE-0003,svc-backup,2026-01-09,2026-07-09,active

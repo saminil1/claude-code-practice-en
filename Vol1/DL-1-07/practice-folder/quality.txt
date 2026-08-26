@@ -1,0 +1,3 @@
+Quality check — August
+Samples 20, pass 19, hold 1.
+Hold: carton print misaligned.

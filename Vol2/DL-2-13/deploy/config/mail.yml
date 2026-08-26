@@ -1,0 +1,3 @@
+smtp: mail.internal
+port: 25
+tls: false

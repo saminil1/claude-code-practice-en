@@ -1,0 +1,7 @@
+sources:
+  - name: app
+    path: /var/log/app/*.log
+  - name: access
+    path: /var/log/nginx/access.log
+destination: central
+format: json

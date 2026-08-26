@@ -1,0 +1,21 @@
+# A-2. The settings.json permission skeleton — Vol.2 Appendix A-2
+# A shape to understand, not a file to paste as is.
+
+```
+// A conceptual example — check the release docs for the real format
+
+Read allowed:  (material) (evidence) (working folder)
+Write allowed: (working folder)  ← one place only
+Write denied:  (material) (evidence)
+
+Run denied:    all delete commands · file moves · outbound sends
+
+Approval:      handling N or more files at once
+               overwriting an existing file
+               reaching an external network
+
+// The three design principles
+//  1) Deny by default — only what you opened works
+//  2) Write to one place only
+//  3) If you cannot undo it, approve it
+```

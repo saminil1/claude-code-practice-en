@@ -1,0 +1,10 @@
+rules:
+  - name: root login
+    match: user == "root"
+    severity: high
+  - name: policy change
+    match: action == "PutPolicy"
+    severity: high
+  - name: key created
+    match: action == "CreateAccessKey"
+    severity: mid

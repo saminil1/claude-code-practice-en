@@ -1,0 +1,7 @@
+Recovery test record — July 2026
+
+Sample: groupware database, 2026-07-08 backup
+Restored to: test instance
+Elapsed: 41 minutes
+Result: restored and verified against row counts
+Open point: the file-share backup was not sampled this month

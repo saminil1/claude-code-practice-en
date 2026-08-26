@@ -1,0 +1,3 @@
+cron:
+  database: "0 2 * * *"
+  object-store: "30 2 * * *"

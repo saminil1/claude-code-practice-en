@@ -1,0 +1,6 @@
+Account,Type,Owner,MFA,Last used
+svc-deploy,service,IT,n/a,2026-08-08
+admin-01,human,IT,on,2026-08-07
+admin-02,human,IT,off,2026-02-14
+readonly-audit,human,Audit,on,2026-08-01
+svc-backup,service,IT,n/a,2026-08-08

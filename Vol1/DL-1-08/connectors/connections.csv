@@ -1,0 +1,4 @@
+Service,Scope,Granted
+Drive,read,2026-08-01
+Mail,read,2026-08-01
+Calendar,read write,2026-08-05

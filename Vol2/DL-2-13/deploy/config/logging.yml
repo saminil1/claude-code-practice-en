@@ -1,0 +1,2 @@
+level: debug   # production runs at debug
+format: json

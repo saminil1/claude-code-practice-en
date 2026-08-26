@@ -1,0 +1,5 @@
+Asset,Type,Owner,Location,Class
+Groupware,service,Gen Affairs,cloud,internal
+ERP,service,Finance,cloud,confidential
+File server,hardware,IT,server room,confidential
+CRM,service,Sales 1,cloud,confidential
