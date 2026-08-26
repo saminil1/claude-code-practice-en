@@ -4,29 +4,29 @@
 
 ## Article 1 (Operating procedures)
 
-Each system carries a written operating procedure covering start-up, shutdown, routine checks, and what to do when something goes wrong, kept somewhere the operators can reach it without having to ask anyone. The procedure is reviewed when the system it covers changes.
+Each system carries a written operating procedure covering start-up, shutdown, routine checks, and what to do when something goes wrong, kept somewhere the operators can reach it without having to ask anyone. The procedure is reviewed whenever the system it covers changes.
 
-## Article 2 (Change management)
-
-A change to a production system is requested, reviewed, and approved before it is made. The request records what changes, the reason for it, the expected effect, and the way it is rolled back.
-
-An emergency change may be made first and approved afterwards, but the record for it is written on the same day rather than at the next review.
-
-## Article 3 (Separating environments)
-
-Development, test, and production are kept apart from one another. Production data is not used in test without masking, and any approval for an exception is recorded together with its reason and a date on which it lapses.
-
-## Article 4 (Backup)
+## Article 2 (Backup)
 
 **Data classified as important is backed up once a day.** What is backed up, where the copy is held, and how long it is kept are all set out in the backup plan, which is reviewed whenever a system changes.
 
 **A recovery test is run once a month against a sample of the backups and the result is recorded.** A test that fails is put right before the next monthly cycle comes round, and the fix is confirmed by a second test.
 
-## Article 5 (Logging)
+## Article 3 (Logging)
 
-System, application, and access logs are collected and held for the period that the law and the contracts require, and the logs themselves are protected against any alteration.
+System, application, and access logs are collected, and the logs themselves are protected against any alteration. Logs are kept for six months or more.
 
-Logs are reviewed on a set schedule, and anything unusual is passed to the information security team rather than being judged by the operator on their own account.
+Logs are reviewed on a set schedule that is written down, and anything unusual is passed to the information security team rather than being judged by the operator on their own account.
+
+## Article 4 (Change management)
+
+A change to a production system is requested, reviewed, and approved before it is made. The request records what changes, the reason for it, the expected effect, and the way it is rolled back.
+
+An emergency change may be made first and approved afterwards, but the record for it is written on the same day rather than at the next review.
+
+## Article 5 (Separating environments)
+
+Development, test, and production are kept apart from one another. Production data is not used in test without masking, and any approval for an exception is recorded together with its reason and a date on which it lapses.
 
 ## Article 6 (Malware)
 

@@ -6,11 +6,11 @@
 
 This guideline applies to the accounts and rights on every information system the company runs or uses. An outside service is covered too where it holds company information.
 
-## Article 2 (Granting rights)
+## Article 2 (Reviewing rights)
 
-Rights are granted only to the least extent the role actually needs, and wide rights are never granted in advance for the sake of convenience. Granting runs through a request from the department head and an approval by the information security team, and neither step is skipped for urgency.
+**Whether granted access rights are still appropriate is reviewed twice a year.** Each department head reviews their own people and submits the result.
 
-The request records the person, the system, the rights, the reason, and the period. A right with an end date is withdrawn automatically when that date passes.
+Rights found to be unnecessary are withdrawn at once, and the withdrawal is recorded with its reason.
 
 ## Article 3 (Managing accounts)
 
@@ -18,11 +18,11 @@ One account belongs to one person and shared accounts are not created. Where equ
 
 An account used only between systems is registered with its purpose and owner, and interactive login is blocked. An unused account is disabled without delay.
 
-## Article 4 (Reviewing rights)
+## Article 4 (Granting rights)
 
-**Whether granted access rights are still appropriate is reviewed twice a year.** Each department head reviews their own people and submits the result.
+Rights are granted only to the least extent the role actually needs, and wide rights are never granted in advance for the sake of convenience. Granting runs through a request from the department head and an approval by the information security team, and neither step is skipped for urgency.
 
-Rights found to be unnecessary are withdrawn at once, and the withdrawal is recorded with its reason.
+The request records the person, the system, the rights, the reason, and the period. A right with an end date is withdrawn automatically when that date passes.
 
 ## Article 5 (Joiners, movers, and leavers)
 

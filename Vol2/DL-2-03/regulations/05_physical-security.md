@@ -8,9 +8,9 @@ The workplace is divided into a public zone, a work zone, and a controlled zone,
 
 ## Article 2 (Entry control)
 
-Entry to the work zone is by identity card. Entry to the controlled zone needs approval in advance and is recorded with the time of entry and of exit, so that presence can be reconstructed afterwards.
+Entry to the work zone is by identity card. Entry to the controlled zone needs approval in advance and is recorded with the time of entry and of exit. Entry records are kept for one year.
 
-A visitor is registered at reception, wears a visitor card while inside, and is accompanied throughout the visit by the person who invited them.
+A visitor is registered at reception, wears a visitor card while inside the building, and is accompanied throughout the visit by the person who invited them.
 
 ## Article 3 (Equipment)
 

@@ -1,28 +1,28 @@
 # 09. Supplier Management Guideline
 
-**Purpose** — Sets how a supplier that reaches company information is selected, contracted with, and then checked while the engagement runs.
+**Purpose** — Sets how a supplier that reaches company information is selected, contracted with, and checked.
 
-## Article 1 (Scope)
+## Article 1 (Scope and selection)
 
-This guideline covers any supplier that reaches company information or connects to a company system, whether the work is development, operation, or the supply of a service. A short engagement is covered on exactly the same terms as a long one.
+This guideline covers any supplier that reaches company information or connects to a company system. A short engagement is covered on the same terms as a long one.
 
-## Article 2 (Selection)
+Before a supplier is engaged, the way it protects information is assessed against the sensitivity of what it will hold, and the assessment is recorded with the decision and the approver.
 
-Before a supplier is engaged, the way it protects information is assessed against the sensitivity of what it will hold, and that assessment is recorded together with the decision and with the person who approved it.
+Where an engagement is urgent, the assessment may follow the decision, but it is made within one month.
 
-## Article 3 (The contract)
+## Article 2 (The contract)
 
 The contract sets out the security duties, what may be done with the information, whether the work may be passed on, and the right to check, along with what happens on termination and how long the duties last afterwards.
 
-A supplier that passes work on to another party does so only with written consent given in advance, and the same duties bind whoever ends up taking that work on.
+A supplier passes work on to another party only with written consent given in advance, and the same duties bind whoever takes it on.
 
-## Article 4 (Checks while engaged)
+Where the supplier holds personal data, the processing terms the law requires are attached to the contract rather than agreed by mail.
 
-**Whether a supplier keeps to its security duties is checked once a year.** The check may be made by document, by questionnaire, or on site, according to the risk that is involved, and the result is recorded.
+## Article 3 (Checks and closing off)
 
-## Article 5 (Ending the engagement)
+**Whether a supplier keeps to its security duties is checked once a year.** The check may be made by document, by questionnaire, or on site, according to the risk, and the result is recorded.
 
-On termination, access is withdrawn, the information held is returned or destroyed, and the fact of it is confirmed in writing by the supplier before the file is closed off.
+On termination, access is withdrawn, the information held is returned or destroyed, and the supplier confirms the fact of it in writing before the file is closed off.
 
 ---
 
