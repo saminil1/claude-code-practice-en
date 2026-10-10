@@ -1,0 +1,6 @@
+No,Grade,Control,Control name,Finding,Due,Closed,Evidence,Verification,Verified on
+2025-NC-01,Major,A.5.18,Access rights,Review not recorded,2025-12-31,2025-12-20,evidence/2026/04_access-review_2025H2.xlsx,Verified,2026-01-08
+2025-NC-02,Minor,A.8.13,Information backup,Recovery test cycle,2026-03-31,2026-01-31,evidence/2026/10_recovery-test_2026-01.pdf,Verified,2026-02-10
+2025-NC-03,Minor,A.5.9,Inventory of assets,Asset list not done,2026-03-31,2026-03-31,evidence/2026/03_asset-list_2026Q1.xlsx,Verified,2026-04-07
+2025-OB-01,Observation,A.6.3,Training,New joiner training,2026-06-30,,,Not verified,
+2025-OB-02,Observation,A.8.15,Logging,Log retention vague,2026-06-30,2026-08-08,regulations/06_operations-security.md revised,Not verified,

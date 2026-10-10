@@ -15,9 +15,9 @@ volumes share is included in each bundle.
 
 | You bought | Take | Size |
 |---|---|---|
-| **Volume 1 — Foundations** | `zips/Vol1-complete.zip` | 169 KB |
-| **Volume 2 — In Practice** | `zips/Vol2-complete.zip` | 95 KB |
-| **Both** | the green **Code ▾ → Download ZIP** at the top right | 1.3 MB |
+| **Volume 1 — Foundations** | `zips/Vol1-complete.zip` | 170 KB |
+| **Volume 2 — In Practice** | `zips/Vol2-complete.zip` | 1.4 MB |
+| **Both** | the green **Code ▾ → Download ZIP** at the top right | 2.1 MB |
 | **A single chapter** | one pack, such as `zips/DL-2-01.zip` | a few KB |
 
 In `zips/`, click the file name, then the **Download** button on the right.

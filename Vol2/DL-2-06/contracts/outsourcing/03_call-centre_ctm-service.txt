@@ -1,0 +1,45 @@
+PERSONAL INFORMATION PROCESSING OUTSOURCING CONTRACT
+
+Controller   Example Commerce Co., Ltd.
+Processor    CTM Service Co., Ltd.
+Work         Customer service and order taking
+Term         2025-07-01 ~ 2027-06-30
+
+Processor contact  CS Operations Division, Team Leader Doran Quellby
+Contact            010-0000-1303 / d.quellby@ctm-service.example.com
+
+──────────────────────────────────────────────────────────────
+
+Art. 1 (Purpose) This contract sets out what is needed when the controller
+        outsources personal information processing work to the processor.
+
+Art. 2 (Purpose and scope of the outsourced work)
+        The processor shall process personal information only within the scope of customer
+        service and order taking.
+
+Art. 6 (Limits on sub-outsourcing)
+        The processor shall in no case sub-outsource without the written approval of the
+        controller.
+
+Art. 7 (Security measures for personal information)
+        The processor shall encrypt call recordings, separate agent rights, and control removable
+        media.
+
+Art. 9 (Management and supervision of the processor)
+        The controller shall carry out an on-site inspection once every half-year, and the
+        processor shall cooperate.
+
+Art. 11 (Liability including damages)
+        Where a leak arises from the intent or negligence of the processor, the processor shall
+        compensate for the damage.
+
+Art. 14 (Term and handling at termination)
+        Within 15 days of the end of the contract the processor shall destroy the personal
+        information and report the result.
+
+──────────────────────────────────────────────────────────────
+In witness of this contract, two copies are made and each party keeps one.
+
+○ ○ 2026
+
+Controller  Example Commerce Co., Ltd.        Processor  CTM Service Co., Ltd.

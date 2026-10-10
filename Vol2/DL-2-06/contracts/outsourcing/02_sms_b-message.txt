@@ -1,0 +1,32 @@
+PERSONAL INFORMATION PROCESSING OUTSOURCING CONTRACT
+
+Controller   Example Commerce Co., Ltd.
+Processor    B-Message Co., Ltd.
+Work         Sending notification text messages and messenger alerts
+Term         2026-03-01 ~ 2027-02-28
+
+Processor contact  Service Operations Team, Assistant Manager Arel Nimbrook
+Contact            010-0000-1202 / a.nimbrook@b-message.example.com
+
+──────────────────────────────────────────────────────────────
+
+Art. 1 (Purpose) This contract sets out what is needed when the controller
+        outsources personal information processing work to the processor.
+
+Art. 4 (Purpose and scope of the outsourced work)
+        The processor shall use the recipient information entrusted to it only to send
+        notifications.
+
+Art. 7 (Security measures for personal information)
+        The processor takes necessary security measures to protect personal information.
+
+Art. 9 (Liability including damages)
+        Where damage arises from a breach of contract, the party at fault shall compensate,
+        and the limit of compensation is the total contract value.
+
+──────────────────────────────────────────────────────────────
+In witness of this contract, two copies are made and each party keeps one.
+
+○ ○ 2026
+
+Controller  Example Commerce Co., Ltd.        Processor  B-Message Co., Ltd.

@@ -1,0 +1,28 @@
+PERSONAL INFORMATION PROCESSING OUTSOURCING CONTRACT
+
+Controller   Example Commerce Co., Ltd.
+Processor    E-Printing Co., Ltd.
+Work         Printing and sealing of postal mailings
+Term         2026-05-01 ~ 2027-04-30
+
+Processor contact  Production Team, Head Sorrel Pyke
+Contact            010-0000-1505 / s.pyke@e-printing.example.com
+
+──────────────────────────────────────────────────────────────
+
+Art. 1 (Purpose) This contract sets out what is needed when the controller
+        outsources personal information processing work to the processor.
+
+Art. 2 (Purpose and scope of the outsourced work)
+        The processor shall use recipient information only to the extent needed for printing and
+        sealing.
+
+Art. 11 (Liability including damages)
+        Where damage arises, liability is set by mutual agreement.
+
+──────────────────────────────────────────────────────────────
+In witness of this contract, two copies are made and each party keeps one.
+
+○ ○ 2026
+
+Controller  Example Commerce Co., Ltd.        Processor  E-Printing Co., Ltd.

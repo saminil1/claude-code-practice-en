@@ -1,0 +1,421 @@
+Account,Dept,Rights,Last login,Status,MFA
+u0001,Sales 1,User,2026-08-07,Active,Y
+u0002,Gen Aff,Admin,2026-07-22,Active,N
+u0003,Dev,User,2026-03-11,Left,Y
+u0004,Sales 1,User,2026-07-20,Active,N
+u0005,Gen Aff,User,2026-05-30,Active,Y
+u0006,HR,User,2026-06-10,Active,Y
+u0007,HR,User,2026-06-30,Active,Y
+u0008,Finance,User,2026-07-20,Active,N
+u0009,Sales 2,User,2026-07-25,Active,Y
+u0010,Sales 2,User,2026-08-05,Active,Y
+u0011,Sales 2,User,2026-05-26,Left,Y
+u0012,Sales 1,User,2026-03-05,Active,Y
+u0013,HR,User,2026-07-28,Active,Y
+u0014,Logistics,User,2026-08-04,Active,Y
+u0015,Finance,User,2026-05-24,Active,Y
+u0016,HR,User,2026-06-12,Active,Y
+u0017,Logistics,User,2026-07-31,Active,N
+u0018,Dev,User,2026-08-09,Active,N
+u0019,Sales 2,Admin,2026-08-03,Active,Y
+u0020,InfoSec,User,2026-07-21,Active,Y
+u0021,HR,Admin,2026-07-22,Active,Y
+u0022,Finance,User,2026-08-04,Active,Y
+u0023,Dev,User,2026-06-02,Active,Y
+u0024,HR,User,2026-07-21,Active,Y
+u0025,Sales 1,User,2026-08-08,Active,Y
+u0026,Logistics,User,2026-06-01,Active,Y
+u0027,Gen Aff,User,2026-07-29,Active,Y
+u0028,Sales 2,User,2026-05-13,Active,Y
+u0029,Sales 2,User,2026-08-03,Active,N
+u0030,Gen Aff,User,2026-08-04,Active,Y
+u0031,Gen Aff,User,2026-04-29,Active,Y
+u0032,Dev,User,2026-08-09,Active,Y
+u0033,Dev,User,2025-10-19,Active,Y
+u0034,Sales 1,User,2026-06-17,Active,N
+u0035,InfoSec,User,2026-06-24,Active,N
+u0036,Logistics,User,2026-08-08,Active,Y
+u0037,Logistics,User,2026-08-09,Active,Y
+u0038,Sales 2,User,2026-05-17,Active,Y
+u0039,Finance,User,2026-05-29,Active,N
+u0040,Sales 1,User,2026-08-06,Left,N
+u0041,Sales 2,User,2026-07-02,Active,Y
+u0042,Sales 1,User,2026-08-03,Active,Y
+u0043,InfoSec,User,2026-07-17,Active,Y
+u0044,Dev,User,2026-07-18,Active,N
+u0045,HR,User,2026-07-06,Active,Y
+u0046,Finance,User,2026-05-11,Left,Y
+u0047,Dev,User,2026-08-05,Active,N
+u0048,Logistics,User,2026-07-11,Active,Y
+u0049,Finance,User,2026-05-31,Active,Y
+u0050,Dev,User,2026-07-26,Active,Y
+u0051,Gen Aff,User,2026-08-01,Active,Y
+u0052,Gen Aff,User,2026-02-25,Active,Y
+u0053,InfoSec,User,2026-06-24,Active,Y
+u0054,Gen Aff,User,2026-06-14,Active,Y
+u0055,HR,User,2026-07-24,Active,Y
+u0056,Gen Aff,User,2026-06-08,Active,Y
+u0057,Logistics,User,2026-07-16,Active,N
+u0058,Logistics,User,2026-06-28,Active,N
+u0059,InfoSec,User,2026-06-28,Active,N
+u0060,Sales 2,User,2026-05-09,Active,N
+u0061,InfoSec,User,2026-06-20,Left,Y
+u0062,Sales 1,User,2026-07-09,Active,Y
+u0063,Sales 1,User,2026-05-21,Active,Y
+u0064,InfoSec,User,2026-05-02,Active,N
+u0065,Finance,User,2026-07-13,Active,Y
+u0066,HR,User,2026-07-08,Active,Y
+u0067,Gen Aff,User,2026-05-27,Active,Y
+u0068,Logistics,User,2026-05-20,Active,Y
+u0069,Gen Aff,User,2026-07-11,Active,Y
+u0070,Sales 2,User,2026-07-03,Left,N
+u0071,Logistics,User,2026-02-09,Active,Y
+u0072,Gen Aff,Admin,2026-07-10,Active,N
+u0073,Logistics,User,2026-07-15,Active,Y
+u0074,Finance,User,2026-08-05,Active,Y
+u0075,Dev,User,2026-06-10,Left,Y
+u0076,HR,Admin,2026-07-27,Active,Y
+u0077,Finance,User,2026-06-18,Active,Y
+u0078,Dev,User,2026-06-22,Active,Y
+u0079,Logistics,User,2026-07-02,Active,N
+u0080,HR,User,2026-05-25,Active,N
+u0081,HR,User,2026-07-01,Active,Y
+u0082,InfoSec,User,2026-08-01,Active,Y
+u0083,Sales 2,User,2026-07-30,Active,Y
+u0084,Sales 2,User,2026-04-18,Active,Y
+u0085,HR,User,2026-06-24,Left,Y
+u0086,InfoSec,User,2026-03-24,Active,Y
+u0087,InfoSec,User,2026-06-24,Active,Y
+u0088,Sales 2,Admin,2026-06-13,Active,N
+u0089,Finance,User,2026-08-01,Active,N
+u0090,Dev,User,2026-08-05,Active,N
+u0091,Finance,Admin,2026-08-05,Active,Y
+u0092,InfoSec,User,2026-07-04,Left,Y
+u0093,HR,User,2026-07-16,Active,Y
+u0094,HR,User,2026-08-06,Active,Y
+u0095,Sales 2,User,2026-06-22,Active,Y
+u0096,Logistics,User,2026-08-01,Active,Y
+u0097,Dev,User,2026-08-05,Active,Y
+u0098,Logistics,User,2026-07-24,Active,Y
+u0099,Logistics,User,2026-07-20,Active,Y
+u0100,InfoSec,User,2026-08-05,Active,N
+u0101,Sales 1,User,2026-04-16,Active,Y
+u0102,Logistics,User,2026-07-10,Active,N
+u0103,HR,User,2026-06-13,Active,Y
+u0104,Sales 2,User,2026-07-29,Active,Y
+u0105,HR,User,2026-08-09,Active,Y
+u0106,InfoSec,User,2026-07-12,Active,Y
+u0107,Sales 2,User,2026-06-04,Active,Y
+u0108,Sales 1,User,2026-04-20,Active,N
+u0109,Finance,User,2026-07-04,Active,Y
+u0110,Dev,User,2026-07-04,Active,Y
+u0111,Dev,User,2026-07-27,Active,Y
+u0112,Sales 1,User,2026-07-05,Active,Y
+u0113,Logistics,Admin,2026-07-25,Active,Y
+u0114,InfoSec,Admin,2026-05-07,Active,Y
+u0115,HR,Admin,2026-08-05,Active,N
+u0116,Gen Aff,User,2026-06-03,Active,Y
+u0117,Logistics,User,2026-07-31,Left,Y
+u0118,Sales 2,User,2026-08-03,Active,Y
+u0119,Logistics,User,2026-06-16,Active,Y
+u0120,Dev,User,2026-07-30,Active,N
+u0121,InfoSec,User,2026-07-03,Active,Y
+u0122,HR,User,2026-06-15,Active,Y
+u0123,HR,User,2026-08-08,Active,Y
+u0124,Logistics,Admin,2026-08-08,Active,Y
+u0125,Sales 2,User,2026-08-02,Active,N
+u0126,Finance,User,2026-07-31,Active,N
+u0127,Sales 2,User,2026-07-17,Active,N
+u0128,HR,User,2026-06-15,Active,Y
+u0129,Gen Aff,User,2026-02-09,Active,Y
+u0130,Gen Aff,User,2026-07-22,Active,N
+u0131,Sales 2,User,2026-07-18,Active,N
+u0132,Finance,User,2026-06-11,Active,Y
+u0133,Sales 2,User,2026-07-13,Active,Y
+u0134,Gen Aff,User,2026-06-28,Active,N
+u0135,InfoSec,User,2026-07-07,Active,N
+u0136,Dev,User,2026-06-06,Active,Y
+u0137,Logistics,User,2026-06-18,Active,Y
+u0138,InfoSec,Admin,2026-06-25,Active,N
+u0139,InfoSec,User,2026-07-09,Active,Y
+u0140,Gen Aff,Admin,2026-07-16,Active,N
+u0141,HR,User,2026-07-09,Active,N
+u0142,Logistics,Admin,2026-07-09,Active,Y
+u0143,Sales 2,User,2026-08-05,Active,Y
+u0144,Gen Aff,User,2026-06-03,Active,Y
+u0145,Finance,User,2026-07-11,Active,Y
+u0146,InfoSec,User,2026-07-24,Active,Y
+u0147,Sales 2,User,2026-05-03,Active,N
+u0148,InfoSec,User,2026-06-05,Active,N
+u0149,Sales 1,User,2026-06-21,Active,Y
+u0150,Logistics,User,2026-07-29,Active,Y
+u0151,Gen Aff,User,2026-07-21,Active,Y
+u0152,Sales 1,User,2026-06-18,Active,Y
+u0153,Gen Aff,User,2026-06-15,Left,Y
+u0154,Sales 1,User,2026-08-01,Active,Y
+u0155,Finance,User,2026-07-30,Active,Y
+u0156,Gen Aff,User,2026-04-21,Active,N
+u0157,Finance,User,2026-07-14,Active,N
+u0158,Sales 2,User,2026-07-31,Left,N
+u0159,Logistics,User,2026-06-07,Active,N
+u0160,Sales 1,User,2026-07-30,Left,Y
+u0161,InfoSec,User,2026-07-29,Active,N
+u0162,Logistics,User,2026-07-25,Active,N
+u0163,Gen Aff,User,2026-01-22,Active,Y
+u0164,Gen Aff,User,2026-08-02,Active,N
+u0165,Gen Aff,User,2026-08-06,Active,Y
+u0166,Sales 2,User,2026-06-23,Active,N
+u0167,Dev,Admin,2026-08-01,Active,Y
+u0168,Finance,User,2026-07-09,Active,Y
+u0169,Dev,User,2026-07-20,Active,N
+u0170,Sales 2,User,2026-06-24,Active,Y
+u0171,Finance,User,2026-06-09,Active,Y
+u0172,Logistics,User,2026-07-15,Active,Y
+u0173,Sales 1,User,2026-05-27,Active,N
+u0174,Gen Aff,User,2026-07-22,Active,Y
+u0175,InfoSec,User,2026-07-08,Active,Y
+u0176,Logistics,User,2026-07-25,Active,Y
+u0177,InfoSec,User,2026-07-21,Active,Y
+u0178,Gen Aff,User,2026-06-21,Active,Y
+u0179,Finance,User,2026-08-06,Active,Y
+u0180,Sales 2,User,2026-06-12,Active,N
+u0181,Gen Aff,User,2026-06-12,Active,Y
+u0182,InfoSec,User,2026-07-01,Active,Y
+u0183,InfoSec,User,2026-06-08,Active,Y
+u0184,Sales 1,User,2026-08-01,Active,Y
+u0185,Logistics,User,2026-07-24,Active,Y
+u0186,Gen Aff,User,2026-07-10,Active,Y
+u0187,Gen Aff,User,2026-08-01,Active,N
+u0188,HR,User,2026-08-08,Active,N
+u0189,Gen Aff,User,2026-07-06,Active,Y
+u0190,InfoSec,User,2026-05-16,Active,N
+u0191,HR,User,2026-07-09,Active,Y
+u0192,Dev,User,2026-06-16,Active,Y
+u0193,Gen Aff,User,2026-06-01,Active,N
+u0194,HR,User,2026-07-22,Active,Y
+u0195,Sales 2,User,2026-07-20,Active,N
+u0196,Gen Aff,User,2026-06-26,Active,Y
+u0197,Sales 1,User,2026-07-19,Left,Y
+u0198,Sales 2,User,2026-08-02,Active,Y
+u0199,InfoSec,Admin,2026-06-09,Active,N
+u0200,Logistics,User,2026-07-04,Active,Y
+u0201,Logistics,User,2026-07-14,Active,N
+u0202,Logistics,User,2026-08-05,Active,N
+u0203,InfoSec,User,2026-07-18,Active,Y
+u0204,Sales 1,User,2026-07-02,Active,Y
+u0205,InfoSec,User,2026-07-26,Active,Y
+u0206,Sales 2,User,2026-07-29,Active,N
+u0207,Finance,User,2026-07-11,Active,Y
+u0208,Logistics,User,2026-05-17,Active,N
+u0209,InfoSec,User,2026-07-19,Active,Y
+u0210,Logistics,User,2026-05-08,Active,N
+u0211,Sales 2,User,2026-07-06,Active,Y
+u0212,Dev,Admin,2026-08-02,Active,Y
+u0213,Logistics,User,2026-06-23,Active,Y
+u0214,Finance,User,2026-07-26,Active,N
+u0215,Finance,User,2026-07-31,Active,Y
+u0216,Sales 1,User,2026-05-29,Active,Y
+u0217,Gen Aff,User,2026-06-23,Active,Y
+u0218,HR,User,2026-05-17,Left,Y
+u0219,InfoSec,User,2026-07-28,Active,N
+u0220,InfoSec,User,2026-04-20,Active,Y
+u0221,HR,User,2026-08-04,Active,Y
+u0222,HR,User,2026-07-26,Active,N
+u0223,Sales 2,User,2026-07-30,Active,N
+u0224,HR,User,2026-06-30,Active,N
+u0225,Finance,User,2026-08-06,Active,Y
+u0226,Dev,User,2026-07-18,Active,Y
+u0227,HR,User,2026-07-27,Active,Y
+u0228,Gen Aff,User,2026-08-08,Active,N
+u0229,Logistics,Admin,2026-05-02,Active,Y
+u0230,InfoSec,User,2026-07-14,Left,Y
+u0231,Gen Aff,User,2026-06-11,Active,Y
+u0232,Finance,User,2026-07-29,Active,N
+u0233,Dev,User,2026-07-30,Active,Y
+u0234,Sales 1,User,2026-03-21,Left,Y
+u0235,Gen Aff,User,2026-07-03,Active,N
+u0236,Finance,User,2026-05-24,Left,Y
+u0237,Gen Aff,User,2026-07-09,Active,Y
+u0238,HR,User,2026-07-12,Active,N
+u0239,Dev,User,2026-07-13,Active,Y
+u0240,Logistics,User,2026-08-03,Active,N
+u0241,Finance,Admin,2026-07-19,Active,Y
+u0242,Sales 1,User,2026-06-14,Active,Y
+u0243,Finance,User,2026-02-21,Left,Y
+u0244,Gen Aff,User,2026-07-08,Active,N
+u0245,Sales 1,User,2026-06-20,Active,Y
+u0246,Dev,User,2026-07-08,Active,Y
+u0247,HR,User,2026-07-24,Active,Y
+u0248,Sales 1,User,2026-07-05,Active,N
+u0249,Gen Aff,User,2026-07-21,Active,Y
+u0250,Sales 1,User,2026-07-23,Active,Y
+u0251,Gen Aff,User,2026-07-20,Active,N
+u0252,Finance,User,2026-01-21,Active,N
+u0253,HR,User,2026-07-19,Left,Y
+u0254,Dev,User,2026-07-11,Active,Y
+u0255,HR,User,2026-07-23,Active,N
+u0256,InfoSec,User,2026-07-29,Active,Y
+u0257,InfoSec,User,2026-07-17,Active,Y
+u0258,Dev,User,2026-07-11,Left,Y
+u0259,HR,User,2026-08-01,Active,Y
+u0260,HR,User,2026-07-18,Active,Y
+u0261,Dev,User,2026-07-16,Active,N
+u0262,Dev,User,2026-07-17,Active,Y
+u0263,InfoSec,User,2026-07-27,Active,Y
+u0264,Sales 1,User,2026-06-16,Active,Y
+u0265,Dev,User,2026-08-07,Active,Y
+u0266,InfoSec,User,2026-04-07,Active,Y
+u0267,Dev,Admin,2026-07-18,Active,Y
+u0268,Logistics,User,2026-07-27,Active,Y
+u0269,Logistics,User,2026-06-12,Active,Y
+u0270,Sales 2,User,2026-05-06,Active,Y
+u0271,Dev,User,2026-07-08,Active,Y
+u0272,Logistics,User,2026-05-05,Active,Y
+u0273,Logistics,User,2026-07-05,Active,Y
+u0274,Dev,Admin,2026-08-08,Active,Y
+u0275,Dev,User,2026-06-26,Active,Y
+u0276,InfoSec,User,2026-07-22,Active,N
+u0277,Sales 2,User,2026-07-02,Active,Y
+u0278,Dev,Admin,2026-07-16,Active,N
+u0279,Logistics,Admin,2026-08-04,Active,Y
+u0280,InfoSec,User,2026-08-09,Active,Y
+u0281,Dev,User,2026-07-30,Left,Y
+u0282,Logistics,Admin,2026-07-09,Active,N
+u0283,Sales 2,User,2026-07-08,Active,N
+u0284,InfoSec,User,2026-08-05,Left,N
+u0285,HR,User,2026-06-24,Active,N
+u0286,Gen Aff,User,2026-06-24,Active,Y
+u0287,Logistics,User,2026-06-15,Active,Y
+u0288,HR,User,2026-06-22,Active,N
+u0289,Sales 2,User,2026-06-02,Active,Y
+u0290,Finance,User,2026-06-25,Left,Y
+u0291,Logistics,User,2026-08-07,Active,Y
+u0292,Logistics,User,2026-06-30,Active,Y
+u0293,Gen Aff,User,2026-06-14,Active,N
+u0294,Logistics,User,2026-08-04,Active,Y
+u0295,Gen Aff,User,2026-07-22,Active,Y
+u0296,Gen Aff,User,2026-07-15,Active,N
+u0297,Gen Aff,User,2026-07-28,Active,Y
+u0298,Logistics,User,2026-02-11,Left,Y
+u0299,Sales 2,User,2026-08-01,Active,Y
+u0300,Sales 2,User,2026-05-07,Active,N
+u0301,Gen Aff,User,2026-07-26,Active,N
+u0302,Dev,User,2026-06-19,Active,Y
+u0303,Logistics,User,2026-07-31,Active,N
+u0304,Finance,User,2026-08-05,Active,Y
+u0305,Finance,User,2026-08-03,Active,Y
+u0306,Gen Aff,User,2026-07-20,Active,Y
+u0307,HR,User,2026-07-28,Left,Y
+u0308,Dev,User,2026-08-09,Active,Y
+u0309,HR,User,2026-07-19,Left,Y
+u0310,Logistics,User,2026-07-31,Active,N
+u0311,Dev,User,2026-04-20,Active,N
+u0312,Finance,User,2026-04-18,Left,N
+u0313,Gen Aff,User,2026-06-26,Active,Y
+u0314,Dev,Admin,2026-07-15,Active,Y
+u0315,InfoSec,Admin,2026-07-11,Active,N
+u0316,Finance,User,2026-06-06,Active,N
+u0317,Sales 2,User,2026-07-14,Active,Y
+u0318,Sales 1,Admin,2026-08-03,Active,N
+u0319,Dev,User,2026-07-22,Active,Y
+u0320,Dev,Admin,2026-06-28,Active,Y
+u0321,HR,User,2026-07-31,Active,Y
+u0322,HR,User,2026-08-05,Active,Y
+u0323,Logistics,Admin,2026-07-20,Left,Y
+u0324,HR,Admin,2026-08-02,Active,Y
+u0325,InfoSec,User,2026-03-31,Active,Y
+u0326,Gen Aff,User,2026-08-07,Active,N
+u0327,Gen Aff,User,2026-07-11,Left,N
+u0328,Logistics,User,2026-08-07,Active,Y
+u0329,Finance,User,2026-07-01,Active,Y
+u0330,Sales 2,User,2026-06-17,Active,Y
+u0331,Finance,User,2026-07-21,Active,Y
+u0332,Sales 1,User,2026-08-08,Active,Y
+u0333,Sales 1,User,2026-04-24,Active,Y
+u0334,Dev,User,2026-07-25,Active,N
+u0335,Logistics,Admin,2026-03-25,Active,N
+u0336,Sales 2,User,2026-05-28,Active,N
+u0337,Sales 2,User,2026-07-12,Active,Y
+u0338,Sales 1,User,2026-07-29,Active,Y
+u0339,Sales 1,User,2026-08-01,Active,Y
+u0340,Sales 2,User,2026-07-17,Active,N
+u0341,Sales 2,User,2026-05-24,Active,Y
+u0342,Sales 2,User,2026-08-03,Active,Y
+u0343,Sales 1,User,2026-04-07,Active,Y
+u0344,Logistics,User,2026-07-21,Active,Y
+u0345,Finance,Admin,2026-02-14,Active,Y
+u0346,HR,User,2026-01-14,Active,N
+u0347,InfoSec,User,2026-04-15,Active,Y
+u0348,HR,User,2026-08-04,Active,Y
+u0349,Gen Aff,User,2026-07-29,Active,Y
+u0350,Dev,User,2026-01-11,Active,N
+u0351,InfoSec,User,2026-06-12,Active,Y
+u0352,Dev,User,2026-06-02,Active,Y
+u0353,Sales 2,User,2026-07-23,Active,Y
+u0354,Sales 2,User,2026-05-19,Active,N
+u0355,Finance,User,2026-07-15,Active,Y
+u0356,HR,User,2026-08-07,Active,Y
+u0357,Finance,User,2026-07-28,Active,Y
+u0358,HR,Admin,2026-07-22,Active,N
+u0359,Logistics,User,2026-07-24,Active,N
+u0360,Sales 2,User,2026-08-05,Active,Y
+u0361,InfoSec,Admin,2026-08-08,Active,Y
+u0362,Sales 1,User,2026-08-03,Active,Y
+u0363,InfoSec,User,2026-06-28,Active,Y
+u0364,Sales 1,User,2026-07-20,Active,Y
+u0365,Sales 2,User,2026-08-07,Active,Y
+u0366,HR,User,2026-07-05,Active,N
+u0367,Logistics,User,2026-06-07,Left,N
+u0368,Dev,User,2026-03-22,Active,N
+u0369,Logistics,User,2026-08-09,Active,N
+u0370,Sales 1,User,2026-07-19,Active,N
+u0371,Sales 2,User,2026-07-12,Active,Y
+u0372,Gen Aff,User,2026-07-12,Active,Y
+u0373,HR,User,2026-07-19,Left,Y
+u0374,Finance,User,2026-08-05,Active,N
+u0375,Gen Aff,User,2026-07-07,Active,Y
+u0376,Sales 2,User,2026-08-09,Active,N
+u0377,Logistics,User,2026-07-10,Left,Y
+u0378,Dev,User,2026-07-09,Active,N
+u0379,Logistics,User,2026-08-06,Active,Y
+u0380,Logistics,User,2026-07-14,Active,N
+u0381,Gen Aff,User,2026-07-13,Active,Y
+u0382,Dev,User,2026-07-04,Active,Y
+u0383,Finance,User,2026-06-29,Active,Y
+u0384,Dev,User,2026-08-07,Active,Y
+u0385,Logistics,User,2026-06-26,Active,Y
+u0386,InfoSec,User,2026-07-30,Active,Y
+u0387,Sales 1,User,2026-07-05,Active,Y
+u0388,InfoSec,User,2026-07-22,Active,Y
+u0389,Dev,User,2026-06-13,Left,Y
+u0390,Sales 2,User,2026-06-14,Left,Y
+u0391,Dev,User,2026-06-05,Active,Y
+u0392,InfoSec,User,2026-07-27,Active,Y
+u0393,HR,User,2026-07-25,Active,N
+u0394,Dev,User,2026-08-07,Active,Y
+u0395,Sales 2,User,2026-04-27,Active,Y
+u0396,HR,User,2026-08-09,Active,Y
+u0397,Sales 2,User,2026-08-06,Active,Y
+u0398,Finance,User,2026-06-06,Active,N
+u0399,Sales 2,User,2026-04-06,Active,N
+u0400,Sales 2,User,2026-07-20,Active,Y
+u0401,Sales 2,User,2026-07-31,Active,Y
+u0402,Sales 2,User,2026-07-28,Active,N
+u0403,Logistics,User,2026-06-22,Active,Y
+u0404,Logistics,User,2026-07-14,Active,N
+u0405,InfoSec,User,2026-07-23,Active,Y
+u0406,Logistics,User,2026-07-05,Active,N
+u0407,Gen Aff,User,2026-03-05,Active,Y
+u0408,HR,User,2026-07-23,Active,Y
+u0409,Sales 2,User,2026-07-29,Active,Y
+u0410,Sales 2,User,2026-06-23,Active,Y
+u0411,Finance,User,2026-08-01,Active,Y
+u0412,Gen Aff,Admin,2026-03-14,Active,Y
+u0413,InfoSec,User,2026-07-17,Active,Y
+u0414,Dev,User,2026-06-09,Active,Y
+u0415,InfoSec,User,2026-06-13,Active,N
+u0416,InfoSec,User,2026-07-22,Active,Y
+u0417,Dev,User,2026-05-30,Active,Y
+u0418,InfoSec,Admin,2026-07-10,Active,Y
+u0419,Dev,User,2026-07-28,Active,Y
+u0420,Dev,User,2026-08-03,Active,N

@@ -1,0 +1,45 @@
+PERSONAL INFORMATION PROCESSING OUTSOURCING CONTRACT
+
+Controller   Example Commerce Co., Ltd.
+Processor    D-Storage Co., Ltd.
+Work         Storage and backup of customer data
+Term         2026-02-01 ~ 2028-01-31
+
+Processor contact  Technical Support Team, Deputy General Manager Wren Halloway
+Contact            010-0000-1404 / w.halloway@d-storage.example.com
+
+──────────────────────────────────────────────────────────────
+
+Art. 1 (Purpose) This contract sets out what is needed when the controller
+        outsources personal information processing work to the processor.
+
+Art. 3 (Purpose and scope of the outsourced work)
+        The processor shall process personal information within the scope of data storage and
+        backup.
+
+Art. 5 (Limits on sub-outsourcing)
+        The processor may sub-outsource only after giving the controller prior notice and
+        obtaining approval.
+
+Art. 7 (Security measures for personal information)
+        The processor shall encrypt stored data, apply access control, and verify backup
+        integrity.
+
+Art. 9 (Management and supervision of the processor)
+        The controller may review periodically the personal information protection measures of
+        the processor.
+
+Art. 12 (Liability including damages)
+        In the event of a data leak the processor shall notify without delay and compensate for
+        the damage.
+
+Art. 15 (Term and handling at termination)
+        At the end of the contract the processor shall delete the stored data by a method that
+        cannot be recovered.
+
+──────────────────────────────────────────────────────────────
+In witness of this contract, two copies are made and each party keeps one.
+
+○ ○ 2026
+
+Controller  Example Commerce Co., Ltd.        Processor  D-Storage Co., Ltd.

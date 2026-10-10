@@ -1,0 +1,45 @@
+PERSONAL INFORMATION PROCESSING OUTSOURCING CONTRACT
+
+Controller   Example Commerce Co., Ltd.
+Processor    A-Logis Co., Ltd.
+Work         Delivery of goods and collection of returns
+Term         2026-01-01 ~ 2026-12-31
+
+Processor contact  Delivery Management Team, Manager Corin Vashby
+Contact            010-0000-1101 / c.vashby@a-logis.example.com
+
+──────────────────────────────────────────────────────────────
+
+Art. 1 (Purpose) This contract sets out what is needed when the controller
+        outsources personal information processing work to the processor.
+
+Art. 3 (Purpose and scope of the outsourced work)
+        The processor shall not process the personal information entrusted to it for any
+        purpose other than delivery and the collection of returns.
+
+Art. 5 (Limits on sub-outsourcing)
+        The processor shall not sub-outsource to a third party without the prior written
+        consent of the controller.
+
+Art. 6 (Security measures for personal information)
+        The processor shall apply access rights management, retention of access logs for
+        6 months, and encryption in transit.
+
+Art. 8 (Management and supervision of the processor)
+        The controller shall inspect the processor's handling of personal information at
+        least once a year.
+
+Art. 10 (Liability including damages)
+        Where a data subject suffers damage through the fault of the processor, the processor
+        shall be liable for compensation.
+
+Art. 12 (Term and handling at termination)
+        At the end of the contract the processor shall destroy the personal information within
+        30 days and submit a certificate of destruction.
+
+──────────────────────────────────────────────────────────────
+In witness of this contract, two copies are made and each party keeps one.
+
+○ ○ 2026
+
+Controller  Example Commerce Co., Ltd.        Processor  A-Logis Co., Ltd.
