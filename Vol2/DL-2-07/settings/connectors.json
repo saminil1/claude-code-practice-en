@@ -1,6 +1,0 @@
-{
-  "connectors": [
-    {"name": "drive", "scope": "read"},
-    {"name": "mail", "scope": "read"}
-  ]
-}

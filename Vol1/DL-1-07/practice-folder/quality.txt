@@ -1,3 +1,23 @@
-Quality check — August
-Samples 20, pass 19, hold 1.
-Hold: carton print misaligned.
+[Quality check sheet — August]
+Checked by : Production Control Team
+Check date : 2026-08-07
+Scope      : week 1 Aug deliveries
+
+No  Check item                       Standard        Result   Notes
+-------------------------------------------------------------------------
+01  Profile cut-face squareness      ±0.5mm          Pass
+02  Surface anodizing thickness      10μm or more    Pass
+03  Connector fastening torque       12N·m           Pass
+04  Anti-vibration pad hardness      Shore A 60      Fail     3 lots retest
+05  Bolt tensile strength            Grade 8.8       Pass
+06  Tape insulation resistance       100MΩ or more   Pass
+07  Tray paint adhesion              Class 1         Pass
+08  End cap fit clearance            0.2mm or less   Hold     jig being recalibrated
+------------------------------------------------------------------------
+
+Verdict : conditional pass
+- The 3 failed lots of item 04 are held at receiving; a retest was requested.
+- Item 08 will be measured again on 12 August after the jig is recalibrated.
+- The other 6 items met the standard.
+
+Next check : 2026-08-14

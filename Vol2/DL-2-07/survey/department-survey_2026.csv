@@ -1,0 +1,15 @@
+Dept,Tool,Use,Formally adopted,Personal data
+Marketing,personal-account chatbot,copy drafts,no,no
+Design,image generation tool,design mock-ups,no,no
+HR,CV summary feature,CV screening support,no,yes
+Sales Planning,ERP revenue forecast,demand forecasting,no,no
+All staff,mail spam auto-sorting,spam blocking,no,yes
+Admin,document sorting script,filing documents,no,needs checking
+Information Security,log anomaly detection,security monitoring,no,needs checking
+Logistics,stock forecast script,order forecasting,no,no
+CS,enquiry auto-sorting,ticket sorting,yes,yes
+Legal,document summary,contract review support,yes,needs checking
+Development,coding support,writing code,yes,no
+Overseas Sales,translation,document translation,yes,needs checking
+All staff,minutes auto-writing,meeting minutes,yes,yes
+Information Security,audit automation tool,ISMS audit preparation,yes,no

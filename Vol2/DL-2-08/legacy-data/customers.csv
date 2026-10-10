@@ -1,0 +1,1483 @@
+Customer code,Company name,Business reg no,Address,Contact mobile,Sales rep,Last transaction,Notes
+V00001,Mirae 215,750-46-72796,OO City OO District 244,,Jung Taehyun,2026-05-20,History of late payment
+V00002,(ju) Jeongwoo 2,4798466123,OO City OO District 119,,Kim Youngsoo,2025-12-23,The owner likes golf
+V00003,(ju) Dongbang 227,436-79-75215,OO City OO District 189,010-0000-0003,Kim Youngsoo,2026-06-17,
+V00004,jusikhoesa Daehan 83,5107229804,OO City OO District,,Park Jihyun,2026-07-09,
+V00005,(ju) Jeongwoo 298,225-81-72432,OO City OO District 175,,Jung Taehyun,2026-01-11,
+V00006,Daehan 257,4257260671,OO City OO District 82,,Choi Mina,2026-08-08,
+V00007,㈜Shinkwang 268,685-87-51764,OO City OO District 93,,Lee Junho,2024-08-22,
+V00008,㈜Hansol 157,205-31-18604,OO City OO District 220,010-0000-0008,Kim Youngsoo,2025-05-16,The owner likes golf
+V00009,㈜Jeongwoo 209,859-85-11869,OO City OO District 193,,Park Jihyun,2026-05-31,
+V00010,Daehan 209,158-46-16838,OO City OO District 18,010-0000-0010,Park Jihyun,2026-01-21,
+V00011,㈜Hansol 75,8637116475,OO City OO District 270,,Choi Mina,2026-07-29,
+V00012,jusikhoesa Hansol 79,715-64-73498,OO City OO District 158,010-0000-0012,Jung Taehyun,2026-04-02,
+V00013,㈜Hanbit Trading 196,832-13-44658,OO City OO District 300,010-0000-0013,Choi Mina,2025-01-29,
+V00014,㈜Mirae 69,1976022312,OO City OO District 73,010-0000-0014,Kim Youngsoo,2025-06-09,
+V00015,jusikhoesa Sejong 276,505-73-38784,OO City OO District 194,010-0000-0015,Jung Taehyun,2025-01-21,History of late payment
+V00016,(ju) Shinkwang 30,496-69-18321,OO City OO District 120,010-0000-0016,Jung Taehyun,2026-03-12,
+V00017,㈜Jeongwoo 200,416-47-75945,OO City OO District 294,010-0000-0017,Jung Taehyun,2026-07-16,History of late payment
+V00018,jusikhoesa Hansol 265,398-99-91884,OO City OO District 33,010-0000-0018,Lee Junho,2022-06-25,
+V00019,Daesung Tech 163,2101995421,OO City OO District 230,010-0000-0019,Kim Youngsoo,2025-05-11,The owner likes golf
+V00020,Daehan 242,9966119221,OO City OO District 223,010-0000-0020,Lee Junho,2025-04-09,
+V00021,Dongbang 219,916-40-62289,OO City OO District 44,010-0000-0021,Park Jihyun,2025-11-12,The owner likes golf
+V00022,Woori 111,741-90-91201,OO City OO District 135,010-0000-0022,Choi Mina,2026-01-26,History of late payment
+V00023,(ju) Dongbang 269,2655036481,OO City OO District 75,010-0000-0023,Park Jihyun,2026-07-07,
+V00024,Woori 193,2103166790,OO City OO District 298,,Lee Junho,2026-07-06,
+V00025,jusikhoesa Hansol 264,965-29-99281,OO City OO District 143,,Park Jihyun,2023-07-06,Contact person is difficult — take care
+V00026,Dongbang 224,731-95-46782,OO City OO District 140,010-0000-0026,Park Jihyun,2026-07-27,
+V00027,(ju) Hansol 10,613-84-15147,OO City OO District 231,010-0000-0027,Kim Youngsoo,2023-07-01,
+V00028,㈜Daesung Tech 159,565-57-10392,OO City OO District 222,010-0000-0028,Kim Youngsoo,2026-03-15,Contact person is difficult — take care
+V00029,㈜Dongbang 283,330-83-86626,OO City OO District 10,,Kim Youngsoo,2026-07-07,
+V00030,(ju) Jeongwoo 78,609-77-89497,OO City OO District 174,010-0000-0030,Park Jihyun,2026-02-16,
+V00031,(ju) Hanbit Trading 37,290-75-22865,OO City OO District 139,010-0000-0031,Park Jihyun,2026-07-25,Contact person is difficult — take care
+V00032,㈜Sejong 205,133-23-40497,OO City OO District 210,010-0000-0032,Park Jihyun,2025-03-07,History of late payment
+V00033,jusikhoesa Dongbang 41,947-38-38012,OO City OO District 273,,Park Jihyun,2026-08-01,
+V00034,㈜Daehan 245,984-66-12467,OO City OO District 112,,Jung Taehyun,2025-10-09,
+V00035,㈜Sejong 200,5759958099,OO City OO District 136,010-0000-0035,Choi Mina,2025-06-19,
+V00036,Mirae 275,311-38-77457,OO City OO District 186,,Park Jihyun,2026-01-13,
+V00037,jusikhoesa Hansol 277,686-26-13538,OO City OO District 14,,Park Jihyun,2025-02-14,
+V00038,jusikhoesa Shinkwang 268,6264726101,OO City OO District 238,,Park Jihyun,2025-06-15,
+V00039,Mirae 221,3277272547,OO City OO District 235,010-0000-0039,Lee Junho,2025-08-21,
+V00040,㈜Sejong 72,262-58-28650,OO City OO District,,Jung Taehyun,2026-03-22,
+V00041,Daehan 101,332-80-73286,OO City OO District,,Park Jihyun,2025-11-05,Contact person is difficult — take care
+V00042,Hansol 200,712-98-19270,OO City OO District 192,,Choi Mina,2024-11-18,
+V00043,(ju) Woori 171,863-49-42599,OO City OO District 136,010-0000-0043,Jung Taehyun,2026-03-22,
+V00044,㈜Shinkwang 106,6097338555,OO City OO District 268,010-0000-0044,Park Jihyun,2024-07-30,
+V00045,Hanbit Trading 135,161-25-88887,OO City OO District,,Jung Taehyun,2025-04-09,Contact person is difficult — take care
+V00046,jusikhoesa Shinkwang 276,542-91-12791,OO City OO District 178,010-0000-0046,Choi Mina,2025-07-02,Contact person is difficult — take care
+V00047,Shinkwang 115,908-39-12605,OO City OO District 114,,Jung Taehyun,2025-02-02,
+V00048,㈜Daehan 80,113-44-52852,OO City OO District 25,010-0000-0048,Park Jihyun,2026-06-05,History of late payment
+V00049,㈜Mirae 79,664-24-31850,OO City OO District 208,010-0000-0049,Kim Youngsoo,2026-05-11,The owner likes golf
+V00050,(ju) Jeongwoo 276,187-41-38780,OO City OO District 105,010-0000-0050,Jung Taehyun,2025-04-17,
+V00051,jusikhoesa Hanbit Trading 205,425-97-56860,OO City OO District 296,010-0000-0051,Choi Mina,2024-12-27,History of late payment
+V00052,(ju) Daehan 94,755-20-43673,OO City OO District 272,,Lee Junho,2026-02-24,The owner likes golf
+V00053,Daehan 136,9204717001,OO City OO District 250,010-0000-0053,Park Jihyun,2025-01-26,
+V00054,Sejong 158,214-44-96757,OO City OO District 26,010-0000-0054,Choi Mina,2025-10-26,
+V00055,jusikhoesa Daehan 112,843-35-16124,OO City OO District 170,010-0000-0055,Kim Youngsoo,2025-12-31,
+V00056,㈜Mirae 17,3193154154,OO City OO District 231,010-0000-0056,Lee Junho,2025-10-13,Contact person is difficult — take care
+V00057,㈜Jeongwoo 144,8085772930,OO City OO District 75,010-0000-0057,Kim Youngsoo,2024-04-17,
+V00058,Sejong 168,9403161830,OO City OO District 137,010-0000-0058,Jung Taehyun,2025-01-04,
+V00059,㈜Daesung Tech 13,943-58-34870,OO City OO District 264,010-0000-0059,Park Jihyun,2025-06-10,Contact person is difficult — take care
+V00060,㈜Dongbang 151,6315916344,OO City OO District,010-0000-0060,Choi Mina,2026-06-23,Contact person is difficult — take care
+V00061,jusikhoesa Hanbit Trading 39,213-32-76893,OO City OO District 150,010-0000-0061,Choi Mina,2023-04-21,History of late payment
+V00062,jusikhoesa Daesung Tech 143,105-99-63647,OO City OO District 132,010-0000-0062,Lee Junho,2024-04-09,
+V00063,jusikhoesa Hansol 70,7679056189,OO City OO District 47,010-0000-0063,Park Jihyun,2026-08-08,
+V00064,jusikhoesa Hanbit Trading 86,8093776142,OO City OO District 89,010-0000-0064,Jung Taehyun,2026-04-26,
+V00065,㈜Hansol 87,199-32-50419,OO City OO District 203,010-0000-0065,Lee Junho,2025-02-07,The owner likes golf
+V00066,jusikhoesa Hanbit Trading 125,428-39-49875,OO City OO District 97,,Kim Youngsoo,2025-07-21,Contact person is difficult — take care
+V00067,㈜Daehan 94,836-88-67443,OO City OO District 250,010-0000-0067,Jung Taehyun,2025-11-16,
+V00068,(ju) Shinkwang 62,839-13-50578,OO City OO District 1,,Kim Youngsoo,2024-05-11,Contact person is difficult — take care
+V00069,Daesung Tech 294,472-87-62220,OO City OO District 136,010-0000-0069,Lee Junho,2025-06-28,
+V00070,㈜Sejong 36,2636295688,OO City OO District 181,010-0000-0070,Kim Youngsoo,2026-02-07,History of late payment
+V00071,㈜Hanbit Trading 41,346-68-54765,OO City OO District 124,,Choi Mina,2026-03-31,
+V00072,jusikhoesa Woori 162,730-85-73358,OO City OO District 136,010-0000-0072,Park Jihyun,2022-06-25,History of late payment
+V00073,㈜Mirae 49,371-71-65506,OO City OO District 258,010-0000-0073,Jung Taehyun,2025-06-23,The owner likes golf
+V00074,(ju) Daesung Tech 151,308-78-32317,OO City OO District 284,010-0000-0074,Park Jihyun,2025-06-26,The owner likes golf
+V00075,jusikhoesa Dongbang 204,732-98-33614,OO City OO District,010-0000-0075,Choi Mina,2026-01-05,The owner likes golf
+V00076,Sejong 204,3898540274,OO City OO District 192,,Jung Taehyun,2025-12-29,
+V00077,㈜Sejong 83,9843323539,OO City OO District 116,010-0000-0077,Jung Taehyun,2026-05-26,History of late payment
+V00078,(ju) Shinkwang 44,152-96-73043,OO City OO District 94,010-0000-0078,Choi Mina,2026-02-01,
+V00079,㈜Daehan 22,249-33-86807,OO City OO District 85,010-0000-0079,Choi Mina,2026-02-23,The owner likes golf
+V00080,㈜Jeongwoo 264,2012454136,OO City OO District 173,010-0000-0080,Choi Mina,2026-04-04,
+V00081,jusikhoesa Dongbang 28,250-55-77686,OO City OO District 52,010-0000-0081,Choi Mina,2025-06-08,
+V00082,(ju) Daehan 145,521-41-94454,OO City OO District 295,010-0000-0082,Choi Mina,2026-04-09,History of late payment
+V00083,㈜Shinkwang 219,899-65-59823,OO City OO District 98,010-0000-0083,Lee Junho,2025-01-22,
+V00084,(ju) Daehan 14,3801897068,OO City OO District 241,010-0000-0084,Choi Mina,2026-03-03,
+V00085,(ju) Shinkwang 133,901-27-33203,OO City OO District 103,010-0000-0085,Choi Mina,2025-10-12,History of late payment
+V00086,(ju) Dongbang 252,628-28-21391,OO City OO District 253,010-0000-0086,Park Jihyun,2026-04-28,
+V00087,㈜Jeongwoo 10,7643516730,OO City OO District 102,010-0000-0087,Choi Mina,2026-03-30,
+V00088,(ju) Woori 138,804-41-73566,OO City OO District 32,010-0000-0088,Choi Mina,2025-02-12,
+V00089,㈜Hanbit Trading 11,133-72-82319,OO City OO District 238,,Kim Youngsoo,2025-08-27,
+V00090,jusikhoesa Hanbit Trading 135,4143315484,OO City OO District 87,010-0000-0090,Lee Junho,2025-10-27,
+V00091,㈜Dongbang 268,9091320862,OO City OO District 45,,Lee Junho,2026-01-30,Contact person is difficult — take care
+V00092,Sejong 37,748-53-41953,OO City OO District 1,010-0000-0092,Choi Mina,2025-04-05,The owner likes golf
+V00093,㈜Dongbang 298,101-77-11973,OO City OO District 37,010-0000-0093,Lee Junho,2024-09-01,
+V00094,Woori 115,7539136422,OO City OO District 248,010-0000-0094,Park Jihyun,2026-06-15,
+V00095,jusikhoesa Sejong 215,405-56-60563,OO City OO District 94,,Lee Junho,2024-05-08,
+V00096,jusikhoesa Sejong 126,751-79-85720,OO City OO District 162,010-0000-0096,Jung Taehyun,2026-08-06,History of late payment
+V00097,(ju) Hanbit Trading 294,918-68-30550,OO City OO District 269,010-0000-0097,Jung Taehyun,2025-12-23,The owner likes golf
+V00098,(ju) Jeongwoo 76,449-71-25608,OO City OO District 219,010-0000-0098,Choi Mina,2023-08-04,
+V00099,㈜Hanbit Trading 135,4127098282,OO City OO District 237,,Lee Junho,2025-12-18,The owner likes golf
+V00100,Dongbang 184,3279377118,OO City OO District 125,,Choi Mina,2024-06-14,
+V00101,(ju) Dongbang 88,461-29-68401,OO City OO District 283,,Choi Mina,2026-01-27,
+V00102,Daesung Tech 102,417-83-90395,OO City OO District 166,010-0000-0102,Jung Taehyun,2024-11-10,History of late payment
+V00103,(ju) Hanbit Trading 89,4974868551,OO City OO District 87,,Kim Youngsoo,2026-07-28,
+V00104,Dongbang 37,2628936686,OO City OO District,010-0000-0104,Choi Mina,2026-01-13,
+V00105,Mirae 248,704-35-28059,OO City OO District 30,010-0000-0105,Lee Junho,2026-06-15,
+V00106,(ju) Sejong 264,404-32-63896,OO City OO District 133,,Jung Taehyun,2025-12-12,
+V00107,㈜Hanbit Trading 223,152-26-49944,OO City OO District 236,,Lee Junho,2025-06-19,
+V00108,Shinkwang 180,829-90-79688,OO City OO District 19,010-0000-0108,Choi Mina,2026-04-09,Contact person is difficult — take care
+V00109,(ju) Daesung Tech 189,967-29-54433,OO City OO District 73,,Lee Junho,2026-06-17,Contact person is difficult — take care
+V00110,jusikhoesa Daesung Tech 74,161-35-28724,OO City OO District 229,010-0000-0110,Lee Junho,2025-12-16,History of late payment
+V00111,(ju) Mirae 74,915-56-19814,OO City OO District 192,,Kim Youngsoo,2026-05-05,
+V00112,Woori 257,4323373453,OO City OO District 93,010-0000-0112,Park Jihyun,2025-12-28,Contact person is difficult — take care
+V00113,jusikhoesa Hanbit Trading 142,299-59-90890,OO City OO District 82,,Park Jihyun,2026-07-05,
+V00114,jusikhoesa Daehan 231,838-68-26287,OO City OO District 155,,Lee Junho,2026-05-10,The owner likes golf
+V00115,㈜Daesung Tech 34,1039291077,OO City OO District 239,,Jung Taehyun,2024-10-04,History of late payment
+V00116,(ju) Shinkwang 261,958-37-49350,OO City OO District 225,010-0000-0116,Jung Taehyun,2025-07-11,
+V00117,Daehan 68,128-41-77577,OO City OO District 101,010-0000-0117,Park Jihyun,2026-04-03,
+V00118,㈜Jeongwoo 72,405-57-34153,OO City OO District 251,,Jung Taehyun,2026-06-18,
+V00119,(ju) Dongbang 292,5572357060,OO City OO District 257,010-0000-0119,Jung Taehyun,2025-05-26,Contact person is difficult — take care
+V00120,jusikhoesa Mirae 62,140-84-15768,OO City OO District,,Park Jihyun,2026-08-06,
+V00121,jusikhoesa Mirae 149,396-52-88825,OO City OO District 75,,Jung Taehyun,2026-04-02,The owner likes golf
+V00122,(ju) Dongbang 268,481-13-88989,OO City OO District 213,010-0000-0122,Kim Youngsoo,2025-08-07,
+V00123,jusikhoesa Daesung Tech 167,136-75-69405,OO City OO District 114,010-0000-0123,Park Jihyun,2026-07-29,
+V00124,Daesung Tech 17,833-68-95846,OO City OO District 205,,Choi Mina,2024-09-09,The owner likes golf
+V00125,(ju) Mirae 77,680-35-79859,OO City OO District 128,010-0000-0125,Park Jihyun,2026-05-01,
+V00126,Hanbit Trading 37,3285861375,OO City OO District 167,010-0000-0126,Choi Mina,2024-11-08,
+V00127,(ju) Mirae 80,564-65-91842,OO City OO District,010-0000-0127,Kim Youngsoo,2026-06-22,Contact person is difficult — take care
+V00128,(ju) Daehan 47,714-73-16238,OO City OO District,,Kim Youngsoo,2026-04-29,The owner likes golf
+V00129,jusikhoesa Mirae 52,410-94-79047,OO City OO District 35,010-0000-0129,Choi Mina,2026-03-30,The owner likes golf
+V00130,Woori 243,673-37-98638,OO City OO District 293,010-0000-0130,Lee Junho,2026-04-06,Contact person is difficult — take care
+V00131,Hansol 290,9871529183,OO City OO District 44,,Lee Junho,2026-06-02,
+V00132,(ju) Shinkwang 279,191-81-60981,OO City OO District 149,010-0000-0132,Lee Junho,2025-07-20,History of late payment
+V00133,(ju) Hanbit Trading 93,290-58-12947,OO City OO District 43,,Choi Mina,2026-02-22,Contact person is difficult — take care
+V00134,㈜Woori 213,5711726283,OO City OO District 204,,Lee Junho,2023-07-25,
+V00135,(ju) Daesung Tech 124,9473317059,OO City OO District 182,010-0000-0135,Lee Junho,2024-03-16,The owner likes golf
+V00136,㈜Hansol 39,578-98-31636,OO City OO District 93,,Kim Youngsoo,2025-02-12,Contact person is difficult — take care
+V00137,(ju) Hanbit Trading 232,2408023063,OO City OO District 255,,Kim Youngsoo,2025-04-15,
+V00138,Mirae 103,735-94-83999,OO City OO District 195,,Lee Junho,2026-07-31,
+V00139,(ju) Daesung Tech 258,153-65-48290,OO City OO District 87,010-0000-0139,Jung Taehyun,2026-06-03,Contact person is difficult — take care
+V00140,Mirae 270,882-33-56890,OO City OO District 64,010-0000-0140,Jung Taehyun,2023-04-16,The owner likes golf
+V00141,(ju) Woori 213,1532439164,OO City OO District 179,010-0000-0141,Kim Youngsoo,2025-06-25,
+V00142,(ju) Sejong 195,8842026488,OO City OO District 88,,Lee Junho,2026-06-30,
+V00143,jusikhoesa Mirae 297,1528730032,OO City OO District 61,010-0000-0143,Jung Taehyun,2026-02-22,The owner likes golf
+V00144,Daesung Tech 218,9887543037,OO City OO District 16,,Park Jihyun,2023-10-29,
+V00145,㈜Daesung Tech 85,436-62-34792,OO City OO District 125,,Choi Mina,2026-04-09,
+V00146,Mirae 289,734-27-56466,OO City OO District 184,010-0000-0146,Jung Taehyun,2026-01-02,Contact person is difficult — take care
+V00147,㈜Hansol 67,6518634985,OO City OO District 233,,Park Jihyun,2025-05-23,
+V00148,(ju) Jeongwoo 225,706-83-92142,OO City OO District,010-0000-0148,Choi Mina,2026-05-31,The owner likes golf
+V00149,Jeongwoo 216,3555361976,OO City OO District 117,010-0000-0149,Kim Youngsoo,2025-02-13,The owner likes golf
+V00150,jusikhoesa Dongbang 136,7048836325,OO City OO District 77,010-0000-0150,Kim Youngsoo,2023-12-23,
+V00151,jusikhoesa Woori 267,279-66-83582,OO City OO District 16,010-0000-0151,Park Jihyun,2025-09-21,
+V00152,Mirae 247,9718345176,OO City OO District 170,010-0000-0152,Jung Taehyun,2024-06-04,History of late payment
+V00153,㈜Shinkwang 7,775-88-48615,OO City OO District 243,010-0000-0153,Jung Taehyun,2026-05-28,
+V00154,(ju) Daesung Tech 233,545-30-54957,OO City OO District 164,,Jung Taehyun,2026-05-31,
+V00155,Daesung Tech 235,871-61-86856,OO City OO District 87,010-0000-0155,Park Jihyun,2026-02-26,History of late payment
+V00156,jusikhoesa Hansol 255,445-31-59345,OO City OO District 73,,Lee Junho,2024-11-05,History of late payment
+V00157,㈜Shinkwang 246,253-50-84842,OO City OO District 51,,Choi Mina,2026-03-06,The owner likes golf
+V00158,jusikhoesa Hanbit Trading 171,516-72-86868,OO City OO District 280,,Choi Mina,2026-06-21,
+V00159,㈜Shinkwang 276,3074934269,OO City OO District 147,010-0000-0159,Kim Youngsoo,2021-09-24,
+V00160,㈜Daehan 270,639-44-38798,OO City OO District 51,010-0000-0160,Lee Junho,2026-05-22,
+V00161,㈜Dongbang 211,3513288718,OO City OO District 107,,Jung Taehyun,2025-12-31,
+V00162,(ju) Hansol 266,469-20-76072,OO City OO District 226,010-0000-0162,Lee Junho,2026-01-22,
+V00163,jusikhoesa Hanbit Trading 12,728-28-70075,OO City OO District 231,010-0000-0163,Park Jihyun,2026-02-26,
+V00164,(ju) Mirae 242,499-20-61787,OO City OO District 57,010-0000-0164,Park Jihyun,2025-01-04,
+V00165,(ju) Daehan 52,382-84-87182,OO City OO District 45,,Lee Junho,2025-03-28,History of late payment
+V00166,(ju) Hansol 162,1452345739,OO City OO District 150,010-0000-0166,Jung Taehyun,2025-09-30,
+V00167,㈜Shinkwang 24,3336047395,OO City OO District,,Lee Junho,2024-02-12,The owner likes golf
+V00168,jusikhoesa Mirae 142,388-25-79259,OO City OO District 86,010-0000-0168,Lee Junho,2024-06-05,Contact person is difficult — take care
+V00169,Dongbang 27,8473319612,OO City OO District 241,,Choi Mina,2023-10-18,
+V00170,jusikhoesa Dongbang 211,366-66-82876,OO City OO District 19,,Kim Youngsoo,2025-09-05,The owner likes golf
+V00171,Jeongwoo 57,5949215811,OO City OO District 121,,Park Jihyun,2026-07-05,Contact person is difficult — take care
+V00172,jusikhoesa Jeongwoo 190,714-17-44658,OO City OO District 82,,Choi Mina,2026-01-18,History of late payment
+V00173,㈜Daesung Tech 275,3677022082,OO City OO District 22,010-0000-0173,Kim Youngsoo,2025-12-04,
+V00174,Woori 298,172-92-30609,OO City OO District 43,010-0000-0174,Choi Mina,2023-09-10,The owner likes golf
+V00175,jusikhoesa Daehan 65,2882271096,OO City OO District 134,,Park Jihyun,2026-04-14,
+V00176,(ju) Jeongwoo 40,147-72-85991,OO City OO District,010-0000-0176,Lee Junho,2024-01-12,Contact person is difficult — take care
+V00177,jusikhoesa Jeongwoo 189,184-86-82381,OO City OO District 79,,Choi Mina,2025-10-21,Contact person is difficult — take care
+V00178,㈜Hanbit Trading 88,2004283753,OO City OO District 246,,Jung Taehyun,2023-12-22,
+V00179,㈜Shinkwang 295,254-59-20648,OO City OO District 115,010-0000-0179,Jung Taehyun,2025-09-25,
+V00180,㈜Woori 262,782-82-91807,OO City OO District 127,,Kim Youngsoo,2023-07-17,
+V00181,Hansol 214,648-16-82442,OO City OO District 187,010-0000-0181,Jung Taehyun,2023-06-04,
+V00182,Hanbit Trading 59,3365955631,OO City OO District 119,,Choi Mina,2026-06-12,
+V00183,(ju) Daesung Tech 188,375-59-70869,OO City OO District 121,010-0000-0183,Kim Youngsoo,2024-12-26,Contact person is difficult — take care
+V00184,㈜Jeongwoo 158,605-32-32554,OO City OO District 103,010-0000-0184,Choi Mina,2025-03-01,Contact person is difficult — take care
+V00185,(ju) Woori 279,8325511509,OO City OO District 164,,Kim Youngsoo,2025-05-17,
+V00186,㈜Daehan 267,5935396201,OO City OO District 276,,Kim Youngsoo,2024-10-28,Contact person is difficult — take care
+V00187,jusikhoesa Sejong 197,118-49-54208,OO City OO District 280,010-0000-0187,Choi Mina,2026-07-27,Contact person is difficult — take care
+V00188,(ju) Hansol 113,373-94-74083,OO City OO District 172,010-0000-0188,Lee Junho,2026-06-26,
+V00189,㈜Daesung Tech 69,837-68-51977,OO City OO District 158,,Park Jihyun,2025-07-16,
+V00190,㈜Mirae 113,850-65-53107,OO City OO District 259,010-0000-0190,Jung Taehyun,2026-03-31,
+V00191,(ju) Daehan 46,226-74-95602,OO City OO District 191,010-0000-0191,Lee Junho,2024-09-17,History of late payment
+V00192,(ju) Woori 285,409-95-84769,OO City OO District 164,010-0000-0192,Kim Youngsoo,2026-07-13,History of late payment
+V00193,(ju) Hansol 105,8898082849,OO City OO District 270,010-0000-0193,Choi Mina,2025-03-30,
+V00194,㈜Sejong 79,827-34-81857,OO City OO District 164,,Lee Junho,2026-06-27,
+V00195,㈜Hanbit Trading 64,316-90-42455,OO City OO District 76,010-0000-0195,Kim Youngsoo,2024-02-14,The owner likes golf
+V00196,(ju) Woori 241,235-69-42460,OO City OO District 177,010-0000-0196,Lee Junho,2024-10-09,The owner likes golf
+V00197,jusikhoesa Shinkwang 143,6129015741,OO City OO District 30,,Kim Youngsoo,2022-02-09,
+V00198,(ju) Hanbit Trading 241,4973884786,OO City OO District 219,010-0000-0198,Lee Junho,2026-06-08,
+V00199,Daehan 35,7702558888,OO City OO District 112,,Jung Taehyun,2025-03-20,
+V00200,㈜Dongbang 205,264-68-95789,OO City OO District 216,010-0000-0200,Jung Taehyun,2022-10-09,
+V00201,jusikhoesa Daesung Tech 278,721-77-28604,OO City OO District 131,,Kim Youngsoo,2026-07-08,
+V00202,㈜Hansol 208,412-37-99921,OO City OO District 213,010-0000-0202,Jung Taehyun,2025-04-28,Contact person is difficult — take care
+V00203,jusikhoesa Hanbit Trading 137,7119527729,OO City OO District 243,,Choi Mina,2025-09-21,
+V00204,Woori 34,815-56-37730,OO City OO District 270,010-0000-0204,Jung Taehyun,2025-09-05,
+V00205,(ju) Mirae 12,7973774496,OO City OO District 4,010-0000-0205,Jung Taehyun,2026-07-28,
+V00206,Shinkwang 237,972-14-64316,OO City OO District 286,010-0000-0206,Park Jihyun,2026-04-25,
+V00207,jusikhoesa Daesung Tech 288,261-73-94221,OO City OO District 270,010-0000-0207,Kim Youngsoo,2024-09-03,History of late payment
+V00208,Hanbit Trading 183,686-69-31929,OO City OO District 86,,Jung Taehyun,2026-03-01,Contact person is difficult — take care
+V00209,㈜Jeongwoo 143,4417145150,OO City OO District 124,010-0000-0209,Kim Youngsoo,2025-05-27,
+V00210,Daehan 68,788-37-89758,OO City OO District 26,010-0000-0210,Choi Mina,2025-12-22,History of late payment
+V00211,(ju) Hanbit Trading 104,630-86-94608,OO City OO District 194,010-0000-0211,Jung Taehyun,2023-08-30,
+V00212,Daesung Tech 223,497-80-64230,OO City OO District 236,010-0000-0212,Jung Taehyun,2025-09-27,
+V00213,㈜Woori 232,9716377835,OO City OO District 245,010-0000-0213,Lee Junho,2026-04-06,Contact person is difficult — take care
+V00214,(ju) Sejong 30,640-82-56636,OO City OO District 13,010-0000-0214,Jung Taehyun,2026-03-23,Contact person is difficult — take care
+V00215,(ju) Hansol 108,3118259553,OO City OO District 45,010-0000-0215,Choi Mina,2025-09-10,The owner likes golf
+V00216,Hanbit Trading 117,6658693832,OO City OO District 101,,Park Jihyun,2026-07-07,
+V00217,㈜Dongbang 208,147-46-53948,OO City OO District 129,010-0000-0217,Jung Taehyun,2026-08-05,Contact person is difficult — take care
+V00218,jusikhoesa Hanbit Trading 255,315-25-92114,OO City OO District 196,,Kim Youngsoo,2025-09-21,Contact person is difficult — take care
+V00219,㈜Shinkwang 300,283-59-46187,OO City OO District 283,010-0000-0219,Lee Junho,2026-05-01,
+V00220,jusikhoesa Hansol 254,429-42-13735,OO City OO District 120,010-0000-0220,Lee Junho,2026-04-19,
+V00221,Mirae 84,621-96-97091,OO City OO District 104,,Choi Mina,2024-06-05,History of late payment
+V00222,(ju) Dongbang 201,734-83-53178,OO City OO District 10,010-0000-0222,Jung Taehyun,2026-02-04,
+V00223,Hansol 207,4655685747,OO City OO District 18,010-0000-0223,Jung Taehyun,2024-11-24,
+V00224,jusikhoesa Hanbit Trading 19,621-53-55702,OO City OO District 246,010-0000-0224,Choi Mina,2025-05-07,
+V00225,(ju) Hanbit Trading 106,506-45-70648,OO City OO District 299,010-0000-0225,Jung Taehyun,2025-11-08,History of late payment
+V00226,(ju) Hanbit Trading 274,610-68-30573,OO City OO District 106,,Park Jihyun,2026-06-04,
+V00227,(ju) Hanbit Trading 98,4853473093,OO City OO District,,Jung Taehyun,2026-05-11,The owner likes golf
+V00228,Shinkwang 64,833-11-15388,OO City OO District 218,,Lee Junho,2025-06-29,
+V00229,Mirae 82,462-95-62169,OO City OO District 170,010-0000-0229,Lee Junho,2026-06-24,Contact person is difficult — take care
+V00230,jusikhoesa Hansol 219,228-50-11630,OO City OO District 5,010-0000-0230,Park Jihyun,2025-05-16,The owner likes golf
+V00231,Jeongwoo 206,974-45-36791,OO City OO District 174,010-0000-0231,Jung Taehyun,2024-02-24,
+V00232,(ju) Woori 238,494-92-93855,OO City OO District 138,,Jung Taehyun,2021-11-03,
+V00233,Shinkwang 37,5379731851,OO City OO District 100,,Kim Youngsoo,2023-09-20,History of late payment
+V00234,㈜Woori 196,7612133828,OO City OO District 180,010-0000-0234,Choi Mina,2025-09-06,Contact person is difficult — take care
+V00235,jusikhoesa Mirae 42,248-63-48291,OO City OO District,010-0000-0235,Park Jihyun,2026-03-26,History of late payment
+V00236,jusikhoesa Mirae 220,554-44-40231,OO City OO District 216,010-0000-0236,Lee Junho,2023-03-27,Contact person is difficult — take care
+V00237,(ju) Mirae 75,5964164453,OO City OO District 124,010-0000-0237,Kim Youngsoo,2025-05-12,
+V00238,㈜Hansol 130,134-85-73527,OO City OO District 285,,Jung Taehyun,2026-05-10,
+V00239,㈜Daehan 40,828-68-53363,OO City OO District 81,,Park Jihyun,2025-11-21,Contact person is difficult — take care
+V00240,(ju) Hanbit Trading 94,791-44-38921,OO City OO District 197,,Choi Mina,2025-08-31,The owner likes golf
+V00241,(ju) Hanbit Trading 50,9615772306,OO City OO District 284,,Kim Youngsoo,2025-09-19,
+V00242,jusikhoesa Shinkwang 193,235-63-10279,OO City OO District 27,010-0000-0242,Kim Youngsoo,2024-12-24,Contact person is difficult — take care
+V00243,jusikhoesa Daesung Tech 263,956-96-38427,OO City OO District 152,010-0000-0243,Park Jihyun,2026-07-13,
+V00244,(ju) Daesung Tech 79,262-81-86268,OO City OO District 59,,Lee Junho,2026-03-27,
+V00245,(ju) Sejong 136,1092087042,OO City OO District 170,,Jung Taehyun,2025-11-20,
+V00246,Hansol 240,923-55-68811,OO City OO District 74,,Lee Junho,2025-03-07,Contact person is difficult — take care
+V00247,(ju) Daehan 120,249-95-69856,OO City OO District 154,010-0000-0247,Kim Youngsoo,2025-11-05,The owner likes golf
+V00248,Mirae 114,137-38-94114,OO City OO District 189,,Lee Junho,2026-02-09,
+V00249,㈜Dongbang 195,653-72-97039,OO City OO District 92,,Park Jihyun,2026-06-14,
+V00250,(ju) Jeongwoo 223,3887778608,OO City OO District 202,,Jung Taehyun,2025-01-18,Contact person is difficult — take care
+V00251,jusikhoesa Shinkwang 54,311-35-56735,OO City OO District 164,010-0000-0251,Park Jihyun,2026-02-10,The owner likes golf
+V00252,Woori 299,539-32-64875,OO City OO District 87,010-0000-0252,Lee Junho,2025-12-24,Contact person is difficult — take care
+V00253,Daesung Tech 205,165-87-75958,OO City OO District 105,,Choi Mina,2026-04-13,
+V00254,(ju) Mirae 121,5779941322,OO City OO District 7,,Jung Taehyun,2025-06-18,
+V00255,Shinkwang 11,315-22-47001,OO City OO District 2,,Jung Taehyun,2022-04-07,
+V00256,(ju) Jeongwoo 22,492-28-16613,OO City OO District 92,,Jung Taehyun,2025-06-14,
+V00257,㈜Daesung Tech 20,298-25-58883,OO City OO District 151,010-0000-0257,Lee Junho,2026-07-23,Contact person is difficult — take care
+V00258,jusikhoesa Daesung Tech 55,857-18-28318,OO City OO District 172,,Kim Youngsoo,2026-01-31,
+V00259,(ju) Hanbit Trading 274,9717757876,OO City OO District 174,010-0000-0259,Lee Junho,2025-11-16,The owner likes golf
+V00260,㈜Dongbang 64,739-53-15170,OO City OO District 127,010-0000-0260,Lee Junho,2025-02-26,History of late payment
+V00261,㈜Dongbang 75,6564467687,OO City OO District 175,010-0000-0261,Choi Mina,2026-07-21,Contact person is difficult — take care
+V00262,㈜Woori 29,1893754324,OO City OO District 156,,Jung Taehyun,2026-04-13,The owner likes golf
+V00263,(ju) Woori 16,2268848074,OO City OO District 61,010-0000-0263,Park Jihyun,2025-11-01,History of late payment
+V00264,jusikhoesa Hansol 265,2922318225,OO City OO District 215,,Choi Mina,2026-06-29,
+V00265,jusikhoesa Mirae 254,668-61-82273,OO City OO District 29,010-0000-0265,Park Jihyun,2026-02-18,History of late payment
+V00266,jusikhoesa Dongbang 86,951-17-44627,OO City OO District 231,,Choi Mina,2024-05-06,Contact person is difficult — take care
+V00267,jusikhoesa Woori 4,7115245821,OO City OO District 113,010-0000-0267,Jung Taehyun,2026-02-05,
+V00268,jusikhoesa Sejong 271,1841366859,OO City OO District 48,010-0000-0268,Jung Taehyun,2026-01-31,
+V00269,jusikhoesa Dongbang 279,635-70-69194,OO City OO District 58,010-0000-0269,Jung Taehyun,2025-06-20,
+V00270,(ju) Hanbit Trading 78,145-96-23474,OO City OO District 278,010-0000-0270,Kim Youngsoo,2024-11-27,
+V00271,㈜Jeongwoo 7,869-25-24356,OO City OO District 192,010-0000-0271,Lee Junho,2022-11-19,History of late payment
+V00272,(ju) Sejong 20,627-10-15122,OO City OO District 147,010-0000-0272,Jung Taehyun,2026-07-07,
+V00273,㈜Dongbang 277,663-65-22059,OO City OO District 127,010-0000-0273,Park Jihyun,2024-11-19,
+V00274,Daehan 184,6618798202,OO City OO District 116,010-0000-0274,Lee Junho,2026-07-02,
+V00275,㈜Hansol 157,2779530122,OO City OO District 134,,Kim Youngsoo,2025-11-03,
+V00276,(ju) Daesung Tech 32,710-17-53219,OO City OO District 202,,Lee Junho,2025-11-15,
+V00277,(ju) Jeongwoo 122,2689252140,OO City OO District 55,,Jung Taehyun,2026-04-29,
+V00278,jusikhoesa Daesung Tech 161,887-87-98586,OO City OO District 156,010-0000-0278,Jung Taehyun,2025-08-21,
+V00279,jusikhoesa Sejong 264,977-45-56624,OO City OO District 21,,Jung Taehyun,2026-04-09,Contact person is difficult — take care
+V00280,jusikhoesa Sejong 292,873-19-37531,OO City OO District 240,010-0000-0280,Jung Taehyun,2025-10-06,Contact person is difficult — take care
+V00281,jusikhoesa Hansol 14,4242168779,OO City OO District 188,,Choi Mina,2026-07-10,
+V00282,㈜Woori 138,2763547816,OO City OO District 248,010-0000-0282,Park Jihyun,2024-11-26,History of late payment
+V00283,㈜Daesung Tech 160,9799083975,OO City OO District 22,010-0000-0283,Park Jihyun,2024-12-23,
+V00284,Daesung Tech 195,288-61-84122,OO City OO District 260,010-0000-0284,Kim Youngsoo,2026-04-09,
+V00285,jusikhoesa Jeongwoo 158,6043156667,OO City OO District 180,010-0000-0285,Lee Junho,2026-04-19,
+V00286,jusikhoesa Woori 181,2268247225,OO City OO District 99,,Choi Mina,2024-12-02,
+V00287,jusikhoesa Daehan 211,9196860588,OO City OO District 66,010-0000-0287,Jung Taehyun,2026-03-07,The owner likes golf
+V00288,jusikhoesa Hanbit Trading 218,753-87-29542,OO City OO District 128,010-0000-0288,Park Jihyun,2025-12-12,
+V00289,㈜Daehan 210,858-17-52087,OO City OO District 50,,Choi Mina,2026-04-06,Contact person is difficult — take care
+V00290,(ju) Jeongwoo 87,844-20-54934,OO City OO District 272,010-0000-0290,Kim Youngsoo,2026-04-24,
+V00291,jusikhoesa Hanbit Trading 25,125-57-35939,OO City OO District 69,010-0000-0291,Choi Mina,2026-06-24,History of late payment
+V00292,㈜Daehan 278,734-18-60887,OO City OO District 256,,Park Jihyun,2026-04-18,
+V00293,Hansol 217,4352952686,OO City OO District 90,010-0000-0293,Jung Taehyun,2026-02-03,
+V00294,Shinkwang 123,5267430671,OO City OO District 279,010-0000-0294,Lee Junho,2021-11-11,The owner likes golf
+V00295,Hansol 138,591-78-81888,OO City OO District 290,010-0000-0295,Lee Junho,2024-11-30,History of late payment
+V00296,Daesung Tech 12,855-12-73491,OO City OO District 146,010-0000-0296,Lee Junho,2026-03-23,Contact person is difficult — take care
+V00297,Daehan 56,538-67-62715,OO City OO District 210,010-0000-0297,Kim Youngsoo,2024-02-04,History of late payment
+V00298,㈜Shinkwang 186,904-74-90200,OO City OO District 274,,Choi Mina,2025-10-09,The owner likes golf
+V00299,Daehan 52,848-48-44556,OO City OO District 3,010-0000-0299,Park Jihyun,2025-02-28,History of late payment
+V00300,Sejong 281,4309140251,OO City OO District 3,,Lee Junho,2026-08-08,
+V00301,jusikhoesa Shinkwang 72,987-23-15663,OO City OO District 244,010-0000-0301,Kim Youngsoo,2026-02-03,
+V00302,jusikhoesa Shinkwang 29,775-75-66876,OO City OO District 272,,Jung Taehyun,2022-09-18,The owner likes golf
+V00303,㈜Jeongwoo 143,396-16-35647,OO City OO District 260,010-0000-0303,Kim Youngsoo,2023-11-29,
+V00304,㈜Hanbit Trading 99,646-16-25917,OO City OO District,010-0000-0304,Choi Mina,2026-02-05,
+V00305,(ju) Hanbit Trading 58,5738898631,OO City OO District 139,,Choi Mina,2025-11-06,
+V00306,(ju) Hansol 298,671-79-60038,OO City OO District 276,010-0000-0306,Lee Junho,2025-10-14,
+V00307,(ju) Woori 129,1204249490,OO City OO District 243,,Jung Taehyun,2025-02-07,The owner likes golf
+V00308,Shinkwang 242,382-56-16065,OO City OO District 133,010-0000-0308,Jung Taehyun,2023-06-26,
+V00309,jusikhoesa Daesung Tech 143,387-71-45479,OO City OO District 28,010-0000-0309,Lee Junho,2023-12-22,The owner likes golf
+V00310,jusikhoesa Shinkwang 144,497-59-55774,OO City OO District 28,010-0000-0310,Kim Youngsoo,2022-12-24,
+V00311,jusikhoesa Daesung Tech 156,166-46-11645,OO City OO District 245,010-0000-0311,Choi Mina,2025-11-05,History of late payment
+V00312,Mirae 142,6249556979,OO City OO District 68,010-0000-0312,Park Jihyun,2026-01-16,Contact person is difficult — take care
+V00313,Sejong 116,216-12-93021,OO City OO District 144,,Lee Junho,2026-04-21,
+V00314,(ju) Sejong 297,340-17-59195,OO City OO District 239,010-0000-0314,Choi Mina,2024-11-23,
+V00315,jusikhoesa Shinkwang 122,308-51-22539,OO City OO District 12,010-0000-0315,Jung Taehyun,2026-04-13,
+V00316,jusikhoesa Jeongwoo 237,296-57-58748,OO City OO District 72,010-0000-0316,Park Jihyun,2025-09-06,
+V00317,Daesung Tech 84,999-48-75482,OO City OO District 2,010-0000-0317,Park Jihyun,2025-04-22,
+V00318,jusikhoesa Mirae 212,2489010495,OO City OO District 199,010-0000-0318,Park Jihyun,2026-04-22,Contact person is difficult — take care
+V00319,Sejong 14,372-45-38717,OO City OO District 77,,Choi Mina,2026-03-16,
+V00320,jusikhoesa Woori 174,7503564514,OO City OO District 34,010-0000-0320,Lee Junho,2026-07-19,
+V00321,(ju) Dongbang 231,6713297142,OO City OO District 50,010-0000-0321,Kim Youngsoo,2023-12-01,Contact person is difficult — take care
+V00322,jusikhoesa Mirae 6,642-64-19936,OO City OO District 2,,Choi Mina,2025-10-17,
+V00323,jusikhoesa Dongbang 99,487-49-40084,OO City OO District 200,010-0000-0323,Jung Taehyun,2024-08-21,
+V00324,Hansol 279,4206514350,OO City OO District 126,,Jung Taehyun,2024-01-30,History of late payment
+V00325,Woori 13,960-70-87657,OO City OO District 110,,Park Jihyun,2024-03-05,The owner likes golf
+V00326,jusikhoesa Daesung Tech 127,640-91-81335,OO City OO District 238,010-0000-0326,Lee Junho,2026-07-13,
+V00327,Hanbit Trading 51,678-95-96572,OO City OO District 279,,Choi Mina,2024-09-13,
+V00328,Shinkwang 248,879-13-51382,OO City OO District,,Kim Youngsoo,2026-04-08,Contact person is difficult — take care
+V00329,Daehan 254,880-27-63831,OO City OO District 290,010-0000-0329,Lee Junho,2025-11-17,The owner likes golf
+V00330,㈜Dongbang 123,8227756660,OO City OO District 111,010-0000-0330,Lee Junho,2026-05-09,Contact person is difficult — take care
+V00331,㈜Sejong 186,9983939002,OO City OO District 254,,Jung Taehyun,2026-01-04,
+V00332,Hansol 3,284-45-36057,OO City OO District 51,010-0000-0332,Lee Junho,2026-07-18,
+V00333,Hansol 130,4202065673,OO City OO District,010-0000-0333,Choi Mina,2026-04-28,
+V00334,jusikhoesa Shinkwang 174,9857121659,OO City OO District 182,,Choi Mina,2026-03-28,
+V00335,jusikhoesa Woori 167,119-58-36007,OO City OO District 24,010-0000-0335,Park Jihyun,2026-01-22,History of late payment
+V00336,㈜Daehan 14,187-11-65384,OO City OO District 138,010-0000-0336,Kim Youngsoo,2026-06-13,Contact person is difficult — take care
+V00337,Shinkwang 176,699-72-53405,OO City OO District,010-0000-0337,Kim Youngsoo,2025-03-04,
+V00338,jusikhoesa Dongbang 61,8256136500,OO City OO District 33,010-0000-0338,Jung Taehyun,2026-03-04,Contact person is difficult — take care
+V00339,(ju) Mirae 220,3507513223,OO City OO District 158,010-0000-0339,Kim Youngsoo,2026-06-18,History of late payment
+V00340,Mirae 81,950-83-42209,OO City OO District 161,010-0000-0340,Lee Junho,2026-07-30,
+V00341,Shinkwang 130,1423744082,OO City OO District 55,010-0000-0341,Park Jihyun,2025-08-04,The owner likes golf
+V00342,Jeongwoo 183,446-68-17772,OO City OO District 115,010-0000-0342,Jung Taehyun,2025-06-10,
+V00343,jusikhoesa Jeongwoo 43,952-55-46683,OO City OO District 38,010-0000-0343,Kim Youngsoo,2026-02-09,The owner likes golf
+V00344,(ju) Jeongwoo 213,9752873850,OO City OO District 248,010-0000-0344,Jung Taehyun,2026-05-07,
+V00345,jusikhoesa Mirae 74,515-77-37014,OO City OO District 45,010-0000-0345,Choi Mina,2026-01-28,Contact person is difficult — take care
+V00346,(ju) Hanbit Trading 71,716-21-87285,OO City OO District 193,,Kim Youngsoo,2026-03-01,
+V00347,㈜Jeongwoo 71,6838384425,OO City OO District 78,010-0000-0347,Jung Taehyun,2024-02-03,
+V00348,㈜Sejong 250,692-77-43312,OO City OO District 91,010-0000-0348,Lee Junho,2026-06-14,
+V00349,Woori 42,9862173597,OO City OO District 186,,Kim Youngsoo,2021-09-07,
+V00350,jusikhoesa Hansol 150,151-70-34293,OO City OO District 250,010-0000-0350,Kim Youngsoo,2026-04-24,
+V00351,(ju) Hanbit Trading 8,353-72-39253,OO City OO District,010-0000-0351,Lee Junho,2025-03-12,
+V00352,Shinkwang 247,125-21-19678,OO City OO District 228,,Choi Mina,2025-12-30,
+V00353,(ju) Dongbang 183,5449886489,OO City OO District 297,010-0000-0353,Kim Youngsoo,2024-04-03,The owner likes golf
+V00354,㈜Hansol 170,4637970440,OO City OO District 13,,Choi Mina,2026-04-18,Contact person is difficult — take care
+V00355,㈜Sejong 113,527-56-58621,OO City OO District 59,010-0000-0355,Lee Junho,2025-08-06,History of late payment
+V00356,(ju) Mirae 22,1602440150,OO City OO District 220,,Choi Mina,2026-07-27,The owner likes golf
+V00357,㈜Hanbit Trading 2,8565283502,OO City OO District 285,010-0000-0357,Jung Taehyun,2026-03-16,History of late payment
+V00358,jusikhoesa Mirae 206,725-53-73868,OO City OO District 160,010-0000-0358,Lee Junho,2025-01-25,
+V00359,(ju) Dongbang 56,2283330189,OO City OO District 299,010-0000-0359,Choi Mina,2025-12-16,Contact person is difficult — take care
+V00360,(ju) Hansol 53,8657077748,OO City OO District 178,,Jung Taehyun,2023-12-31,
+V00361,㈜Mirae 31,2696639621,OO City OO District 136,,Park Jihyun,2026-07-26,
+V00362,Sejong 211,7365218271,OO City OO District 300,,Choi Mina,2024-05-16,
+V00363,jusikhoesa Mirae 103,889-91-36635,OO City OO District 261,,Lee Junho,2025-05-16,
+V00364,㈜Hanbit Trading 46,900-65-44221,OO City OO District 4,,Kim Youngsoo,2022-12-08,
+V00365,㈜Mirae 20,837-71-19007,OO City OO District 251,010-0000-0365,Park Jihyun,2026-02-26,
+V00366,jusikhoesa Dongbang 171,5478119934,OO City OO District 189,,Lee Junho,2026-07-10,Contact person is difficult — take care
+V00367,(ju) Dongbang 244,1455455568,OO City OO District,010-0000-0367,Lee Junho,2024-11-25,The owner likes golf
+V00368,Sejong 276,9918541817,OO City OO District 105,010-0000-0368,Kim Youngsoo,2025-07-17,The owner likes golf
+V00369,(ju) Mirae 297,581-41-47428,OO City OO District 45,010-0000-0369,Kim Youngsoo,2024-09-18,
+V00370,jusikhoesa Jeongwoo 52,356-11-86509,OO City OO District 230,,Choi Mina,2025-11-27,
+V00371,(ju) Woori 25,4864619000,OO City OO District 234,010-0000-0371,Park Jihyun,2024-07-01,The owner likes golf
+V00372,Shinkwang 75,424-23-49490,OO City OO District 257,010-0000-0372,Jung Taehyun,2026-04-27,History of late payment
+V00373,㈜Hansol 97,3921329102,OO City OO District 144,010-0000-0373,Kim Youngsoo,2025-02-07,
+V00374,㈜Daehan 277,8095771236,OO City OO District 114,010-0000-0374,Choi Mina,2025-04-09,
+V00375,Daehan 180,715-71-72664,OO City OO District 6,,Park Jihyun,2025-03-10,Contact person is difficult — take care
+V00376,㈜Mirae 142,480-85-58461,OO City OO District 188,010-0000-0376,Choi Mina,2025-12-11,Contact person is difficult — take care
+V00377,㈜Sejong 217,393-89-93943,OO City OO District 58,010-0000-0377,Kim Youngsoo,2026-02-08,
+V00378,Mirae 168,3169268139,OO City OO District 201,010-0000-0378,Lee Junho,2025-02-11,
+V00379,jusikhoesa Mirae 91,421-72-54559,OO City OO District 16,010-0000-0379,Park Jihyun,2026-08-07,
+V00380,(ju) Jeongwoo 63,708-97-92827,OO City OO District 30,010-0000-0380,Choi Mina,2025-05-14,The owner likes golf
+V00381,Hansol 235,576-51-77059,OO City OO District 24,010-0000-0381,Park Jihyun,2025-03-31,
+V00382,㈜Daesung Tech 230,5792552366,OO City OO District 147,,Choi Mina,2022-02-10,The owner likes golf
+V00383,jusikhoesa Shinkwang 209,2717710010,OO City OO District 174,,Jung Taehyun,2026-04-18,The owner likes golf
+V00384,Hanbit Trading 118,9437884218,OO City OO District 16,010-0000-0384,Kim Youngsoo,2025-02-05,
+V00385,(ju) Dongbang 58,2044211960,OO City OO District 257,,Kim Youngsoo,2025-02-11,
+V00386,Sejong 230,907-49-16282,OO City OO District 12,010-0000-0386,Kim Youngsoo,2026-07-14,The owner likes golf
+V00387,㈜Hansol 207,5221390368,OO City OO District 54,010-0000-0387,Jung Taehyun,2026-04-02,
+V00388,jusikhoesa Woori 237,403-15-49333,OO City OO District 213,010-0000-0388,Choi Mina,2024-11-27,History of late payment
+V00389,Hansol 217,269-69-42870,OO City OO District 231,010-0000-0389,Lee Junho,2026-08-06,
+V00390,jusikhoesa Hansol 47,1737553026,OO City OO District 38,010-0000-0390,Lee Junho,2026-02-05,The owner likes golf
+V00391,Daesung Tech 100,7712468622,OO City OO District 285,010-0000-0391,Choi Mina,2025-05-09,
+V00392,Hanbit Trading 227,398-51-80820,OO City OO District 137,,Kim Youngsoo,2025-04-30,
+V00393,Dongbang 57,1744268419,OO City OO District 173,010-0000-0393,Lee Junho,2025-06-15,
+V00394,jusikhoesa Dongbang 175,360-23-45766,OO City OO District 116,,Kim Youngsoo,2023-01-26,
+V00395,jusikhoesa Woori 9,3911311980,OO City OO District 267,010-0000-0395,Lee Junho,2026-06-27,
+V00396,(ju) Mirae 132,959-88-94298,OO City OO District 204,,Choi Mina,2026-06-07,The owner likes golf
+V00397,(ju) Mirae 77,991-96-27086,OO City OO District 300,,Kim Youngsoo,2024-07-22,
+V00398,jusikhoesa Sejong 100,5822426432,OO City OO District 115,010-0000-0398,Park Jihyun,2025-06-20,
+V00399,Daehan 219,3137340976,OO City OO District 42,010-0000-0399,Choi Mina,2024-10-17,History of late payment
+V00400,㈜Sejong 247,8216938313,OO City OO District 85,,Kim Youngsoo,2024-12-24,
+V00401,㈜Shinkwang 171,537-67-46192,OO City OO District 73,010-0000-0401,Kim Youngsoo,2025-02-22,The owner likes golf
+V00402,jusikhoesa Dongbang 25,673-87-15030,OO City OO District 222,,Choi Mina,2024-09-06,
+V00403,Hansol 52,460-77-58387,OO City OO District 49,010-0000-0403,Lee Junho,2026-02-03,
+V00404,(ju) Mirae 292,936-33-96305,OO City OO District 140,010-0000-0404,Lee Junho,2026-01-14,
+V00405,Daesung Tech 81,607-17-59256,OO City OO District 292,010-0000-0405,Choi Mina,2025-12-02,
+V00406,(ju) Daehan 77,6466957916,OO City OO District 242,,Lee Junho,2026-06-16,
+V00407,㈜Shinkwang 37,245-20-80511,OO City OO District 163,,Jung Taehyun,2025-12-17,History of late payment
+V00408,Daehan 8,565-87-54821,OO City OO District 233,010-0000-0408,Park Jihyun,2025-10-22,Contact person is difficult — take care
+V00409,jusikhoesa Daesung Tech 35,205-73-73406,OO City OO District 169,,Kim Youngsoo,2024-01-27,
+V00410,Shinkwang 217,257-68-37524,OO City OO District 227,010-0000-0410,Choi Mina,2024-06-28,Contact person is difficult — take care
+V00411,jusikhoesa Sejong 211,413-56-14234,OO City OO District 231,010-0000-0411,Kim Youngsoo,2026-03-06,
+V00412,㈜Jeongwoo 150,498-39-37243,OO City OO District 74,,Kim Youngsoo,2026-01-16,Contact person is difficult — take care
+V00413,jusikhoesa Hanbit Trading 58,4373365054,OO City OO District 208,010-0000-0413,Choi Mina,2025-10-03,
+V00414,㈜Mirae 56,899-66-89095,OO City OO District 10,010-0000-0414,Choi Mina,2025-02-14,History of late payment
+V00415,(ju) Hanbit Trading 211,2089979602,OO City OO District 270,010-0000-0415,Park Jihyun,2025-10-09,History of late payment
+V00416,㈜Dongbang 260,629-85-83484,OO City OO District 190,010-0000-0416,Kim Youngsoo,2024-10-22,Contact person is difficult — take care
+V00417,㈜Shinkwang 183,924-44-55487,OO City OO District 168,,Choi Mina,2024-07-03,
+V00418,jusikhoesa Daesung Tech 77,8882871245,OO City OO District 174,,Lee Junho,2024-03-23,The owner likes golf
+V00419,㈜Mirae 69,558-78-74063,OO City OO District 294,,Jung Taehyun,2026-05-01,History of late payment
+V00420,Jeongwoo 147,165-11-13104,OO City OO District 192,010-0000-0420,Choi Mina,2026-02-16,
+V00421,jusikhoesa Mirae 84,754-31-59113,OO City OO District 122,010-0000-0421,Lee Junho,2026-03-04,The owner likes golf
+V00422,㈜Dongbang 17,221-89-64076,OO City OO District 234,010-0000-0422,Lee Junho,2024-09-13,
+V00423,(ju) Shinkwang 61,170-96-16622,OO City OO District 202,,Jung Taehyun,2025-09-20,
+V00424,(ju) Dongbang 205,307-56-83551,OO City OO District 38,010-0000-0424,Kim Youngsoo,2025-08-26,
+V00425,(ju) Daehan 95,145-77-41430,OO City OO District 286,,Choi Mina,2026-06-08,
+V00426,㈜Hanbit Trading 223,1261975138,OO City OO District 195,010-0000-0426,Choi Mina,2026-07-10,The owner likes golf
+V00427,㈜Hansol 205,863-43-77904,OO City OO District,010-0000-0427,Jung Taehyun,2026-02-02,
+V00428,Woori 2,366-90-29414,OO City OO District 221,010-0000-0428,Park Jihyun,2026-04-21,
+V00429,jusikhoesa Daehan 151,4783790242,OO City OO District 122,010-0000-0429,Park Jihyun,2024-03-07,History of late payment
+V00430,jusikhoesa Hansol 70,204-73-25595,OO City OO District,010-0000-0430,Choi Mina,2025-02-19,
+V00431,jusikhoesa Shinkwang 255,170-65-39259,OO City OO District 272,010-0000-0431,Jung Taehyun,2023-04-30,The owner likes golf
+V00432,(ju) Hansol 216,798-83-29693,OO City OO District 14,010-0000-0432,Park Jihyun,2025-06-28,
+V00433,Daehan 80,260-76-17124,OO City OO District 239,,Choi Mina,2023-12-01,
+V00434,jusikhoesa Dongbang 264,5684945840,OO City OO District 274,,Choi Mina,2022-06-26,
+V00435,(ju) Hanbit Trading 296,532-93-14274,OO City OO District 267,010-0000-0435,Park Jihyun,2023-05-23,History of late payment
+V00436,㈜Woori 128,319-15-44682,OO City OO District 28,010-0000-0436,Kim Youngsoo,2026-07-17,
+V00437,jusikhoesa Daehan 261,419-17-72467,OO City OO District 80,010-0000-0437,Lee Junho,2024-04-15,
+V00438,Daehan 296,1285480828,OO City OO District 7,,Choi Mina,2024-06-08,History of late payment
+V00439,㈜Sejong 244,737-80-93625,OO City OO District 152,010-0000-0439,Lee Junho,2026-04-29,History of late payment
+V00440,(ju) Daesung Tech 259,660-34-29658,OO City OO District 176,010-0000-0440,Kim Youngsoo,2026-03-31,History of late payment
+V00441,㈜Hansol 135,897-30-30952,OO City OO District 289,010-0000-0441,Lee Junho,2026-02-03,History of late payment
+V00442,(ju) Daehan 246,4978547005,OO City OO District 194,,Jung Taehyun,2024-11-18,
+V00443,㈜Shinkwang 93,278-37-27065,OO City OO District 163,010-0000-0443,Kim Youngsoo,2026-01-11,
+V00444,㈜Mirae 27,298-82-86702,OO City OO District 45,,Park Jihyun,2026-05-02,Contact person is difficult — take care
+V00445,jusikhoesa Mirae 243,4848428465,OO City OO District 248,010-0000-0445,Kim Youngsoo,2025-10-15,
+V00446,Sejong 215,1856446146,OO City OO District 85,010-0000-0446,Kim Youngsoo,2023-05-04,
+V00447,(ju) Sejong 207,8717349083,OO City OO District,,Lee Junho,2026-05-27,
+V00448,Daehan 290,223-30-15217,OO City OO District 215,,Kim Youngsoo,2024-06-05,The owner likes golf
+V00449,㈜Daehan 274,9648946246,OO City OO District 31,010-0000-0449,Kim Youngsoo,2026-04-22,Contact person is difficult — take care
+V00450,jusikhoesa Sejong 162,998-94-21511,OO City OO District 226,,Park Jihyun,2025-08-31,Contact person is difficult — take care
+V00451,㈜Shinkwang 83,470-17-21674,OO City OO District 220,,Jung Taehyun,2026-03-20,
+V00452,(ju) Shinkwang 14,231-46-67747,OO City OO District 65,010-0000-0452,Choi Mina,2025-05-15,
+V00453,Daehan 58,556-41-30231,OO City OO District 259,010-0000-0453,Park Jihyun,2026-01-25,
+V00454,(ju) Hansol 85,191-64-63988,OO City OO District 292,010-0000-0454,Choi Mina,2025-09-03,The owner likes golf
+V00455,jusikhoesa Mirae 20,602-50-51014,OO City OO District 108,010-0000-0455,Choi Mina,2024-07-25,History of late payment
+V00456,(ju) Woori 209,6634959514,OO City OO District 215,,Kim Youngsoo,2026-03-28,History of late payment
+V00457,(ju) Daehan 48,2767289887,OO City OO District 159,010-0000-0457,Park Jihyun,2026-02-27,
+V00458,jusikhoesa Woori 77,264-99-48724,OO City OO District 76,010-0000-0458,Kim Youngsoo,2026-02-05,
+V00459,jusikhoesa Sejong 87,441-80-50308,OO City OO District,,Kim Youngsoo,2025-03-07,Contact person is difficult — take care
+V00460,㈜Dongbang 98,8873195388,OO City OO District 120,,Kim Youngsoo,2024-05-21,
+V00461,㈜Hansol 44,936-24-27377,OO City OO District 155,010-0000-0461,Jung Taehyun,2026-06-08,Contact person is difficult — take care
+V00462,jusikhoesa Daesung Tech 251,520-47-30783,OO City OO District 143,,Park Jihyun,2025-07-17,
+V00463,(ju) Hanbit Trading 270,2152030881,OO City OO District 175,,Park Jihyun,2026-03-06,History of late payment
+V00464,Woori 28,594-76-56202,OO City OO District 167,,Kim Youngsoo,2025-04-08,
+V00465,jusikhoesa Hansol 173,882-31-46772,OO City OO District 201,,Kim Youngsoo,2026-03-26,
+V00466,Jeongwoo 41,5067818414,OO City OO District 288,010-0000-0466,Jung Taehyun,2022-09-10,Contact person is difficult — take care
+V00467,㈜Daesung Tech 265,3984597092,OO City OO District 227,010-0000-0467,Lee Junho,2025-09-15,
+V00468,(ju) Hanbit Trading 76,972-65-61159,OO City OO District 211,,Kim Youngsoo,2025-01-30,Contact person is difficult — take care
+V00469,Shinkwang 35,3046164766,OO City OO District 190,010-0000-0469,Lee Junho,2026-07-24,The owner likes golf
+V00470,(ju) Daehan 196,449-71-45224,OO City OO District 58,010-0000-0470,Jung Taehyun,2024-02-15,History of late payment
+V00471,Sejong 50,7567022759,OO City OO District 130,010-0000-0471,Choi Mina,2026-01-14,
+V00472,㈜Shinkwang 288,7175621127,OO City OO District 62,010-0000-0472,Park Jihyun,2026-04-06,
+V00473,㈜Daehan 207,174-91-93696,OO City OO District 173,010-0000-0473,Jung Taehyun,2025-05-05,History of late payment
+V00474,jusikhoesa Daesung Tech 262,6627991226,OO City OO District 55,,Kim Youngsoo,2026-05-07,
+V00475,Woori 231,984-20-39645,OO City OO District 153,010-0000-0475,Park Jihyun,2026-05-28,
+V00476,jusikhoesa Hansol 211,763-81-74521,OO City OO District 222,010-0000-0476,Park Jihyun,2026-06-30,
+V00477,㈜Sejong 118,897-87-39140,OO City OO District 111,010-0000-0477,Kim Youngsoo,2025-08-27,
+V00478,jusikhoesa Mirae 80,9011694465,OO City OO District 181,010-0000-0478,Park Jihyun,2026-01-29,Contact person is difficult — take care
+V00479,jusikhoesa Hansol 67,568-74-46489,OO City OO District 72,010-0000-0479,Jung Taehyun,2021-12-14,
+V00480,jusikhoesa Dongbang 226,3147358678,OO City OO District 6,,Jung Taehyun,2025-04-29,
+V00481,(ju) Woori 219,699-72-65768,OO City OO District 157,010-0000-0481,Kim Youngsoo,2026-06-08,History of late payment
+V00482,㈜Shinkwang 21,3768428665,OO City OO District 276,010-0000-0482,Jung Taehyun,2025-07-14,History of late payment
+V00483,㈜Shinkwang 180,8066025926,OO City OO District 10,010-0000-0483,Lee Junho,2026-06-30,The owner likes golf
+V00484,jusikhoesa Sejong 214,997-45-10852,OO City OO District 226,010-0000-0484,Jung Taehyun,2026-05-15,
+V00485,jusikhoesa Sejong 49,711-88-35027,OO City OO District 66,010-0000-0485,Choi Mina,2026-07-16,
+V00486,(ju) Dongbang 218,5974458954,OO City OO District 98,010-0000-0486,Choi Mina,2026-02-11,
+V00487,jusikhoesa Shinkwang 203,7739360063,OO City OO District 81,010-0000-0487,Park Jihyun,2026-01-16,Contact person is difficult — take care
+V00488,㈜Hansol 178,605-94-93453,OO City OO District 248,010-0000-0488,Lee Junho,2026-05-06,History of late payment
+V00489,(ju) Jeongwoo 271,460-79-59497,OO City OO District 210,010-0000-0489,Jung Taehyun,2025-09-27,The owner likes golf
+V00490,jusikhoesa Hansol 284,972-81-86735,OO City OO District 20,,Choi Mina,2026-06-22,The owner likes golf
+V00491,jusikhoesa Sejong 254,791-29-90935,OO City OO District 242,,Jung Taehyun,2024-05-29,
+V00492,㈜Woori 200,4617630699,OO City OO District 270,,Kim Youngsoo,2026-01-07,
+V00493,㈜Jeongwoo 58,210-67-95419,OO City OO District 157,010-0000-0493,Lee Junho,2025-06-21,
+V00494,Daesung Tech 5,334-41-25034,OO City OO District 34,,Kim Youngsoo,2024-11-27,
+V00495,㈜Jeongwoo 198,6764083403,OO City OO District,,Choi Mina,2026-08-06,
+V00496,(ju) Hansol 180,1565017911,OO City OO District,010-0000-0496,Kim Youngsoo,2025-02-18,
+V00497,(ju) Woori 112,976-34-47910,OO City OO District 139,010-0000-0497,Choi Mina,2025-11-13,
+V00498,jusikhoesa Daehan 149,838-33-36885,OO City OO District 144,010-0000-0498,Kim Youngsoo,2026-06-27,Contact person is difficult — take care
+V00499,Hansol 245,991-12-90963,OO City OO District 144,,Kim Youngsoo,2024-06-30,
+V00500,jusikhoesa Sejong 82,811-51-45489,OO City OO District 41,,Jung Taehyun,2025-04-23,
+V00501,jusikhoesa Daehan 141,404-51-59661,OO City OO District 89,010-0000-0501,Kim Youngsoo,2026-07-31,
+V00502,Sejong 142,288-96-68869,OO City OO District,010-0000-0502,Choi Mina,2025-07-09,
+V00503,(ju) Daehan 297,981-77-91475,OO City OO District 15,,Kim Youngsoo,2024-10-14,
+V00504,Sejong 266,902-87-52189,OO City OO District 144,,Choi Mina,2025-12-28,The owner likes golf
+V00505,(ju) Hanbit Trading 174,7532980428,OO City OO District 286,010-0000-0505,Jung Taehyun,2026-04-24,The owner likes golf
+V00506,jusikhoesa Hansol 190,2013896389,OO City OO District 218,,Lee Junho,2025-07-22,
+V00507,(ju) Hansol 21,476-76-14242,OO City OO District 206,,Choi Mina,2025-11-07,
+V00508,(ju) Daehan 164,426-42-46122,OO City OO District 173,010-0000-0508,Kim Youngsoo,2026-07-15,
+V00509,(ju) Hansol 295,9613592294,OO City OO District 1,010-0000-0509,Park Jihyun,2026-01-27,Contact person is difficult — take care
+V00510,㈜Hansol 244,466-69-90775,OO City OO District 277,,Lee Junho,2025-08-31,
+V00511,㈜Daesung Tech 169,187-19-43545,OO City OO District 44,,Jung Taehyun,2026-02-04,History of late payment
+V00512,㈜Mirae 264,434-81-62579,OO City OO District 276,,Jung Taehyun,2025-01-14,The owner likes golf
+V00513,jusikhoesa Daesung Tech 234,3983111451,OO City OO District 178,010-0000-0513,Choi Mina,2026-08-05,
+V00514,㈜Jeongwoo 23,215-20-20998,OO City OO District 100,010-0000-0514,Jung Taehyun,2026-03-17,
+V00515,Daehan 291,907-80-43083,OO City OO District 127,,Park Jihyun,2023-03-07,History of late payment
+V00516,(ju) Hansol 59,534-20-58672,OO City OO District 42,,Choi Mina,2025-07-13,Contact person is difficult — take care
+V00517,(ju) Sejong 169,849-86-58251,OO City OO District 245,,Park Jihyun,2024-09-12,
+V00518,Daehan 26,995-97-35462,OO City OO District 4,010-0000-0518,Lee Junho,2024-08-12,
+V00519,(ju) Shinkwang 119,813-38-53204,OO City OO District 228,010-0000-0519,Choi Mina,2023-09-26,History of late payment
+V00520,Sejong 217,5705492263,OO City OO District 145,,Jung Taehyun,2026-01-15,
+V00521,(ju) Woori 167,1655911938,OO City OO District 233,010-0000-0521,Choi Mina,2025-05-20,The owner likes golf
+V00522,Daesung Tech 39,457-86-21321,OO City OO District 178,,Choi Mina,2026-03-12,
+V00523,(ju) Jeongwoo 4,752-56-74732,OO City OO District 128,010-0000-0523,Choi Mina,2024-01-26,
+V00524,㈜Sejong 90,489-89-78517,OO City OO District 89,010-0000-0524,Lee Junho,2025-08-30,
+V00525,jusikhoesa Woori 226,367-40-56410,OO City OO District 167,010-0000-0525,Park Jihyun,2025-01-30,
+V00526,㈜Daesung Tech 1,1688369586,OO City OO District 76,010-0000-0526,Kim Youngsoo,2025-12-21,
+V00527,jusikhoesa Woori 145,245-86-63567,OO City OO District 198,010-0000-0527,Choi Mina,2025-02-21,The owner likes golf
+V00528,㈜Hansol 245,880-59-61555,OO City OO District 190,,Jung Taehyun,2023-01-02,Contact person is difficult — take care
+V00529,㈜Hansol 66,270-59-41590,OO City OO District 25,010-0000-0529,Kim Youngsoo,2023-11-26,
+V00530,jusikhoesa Mirae 219,904-79-15095,OO City OO District 49,010-0000-0530,Kim Youngsoo,2026-06-27,
+V00531,Sejong 66,3237494422,OO City OO District 278,010-0000-0531,Park Jihyun,2026-07-06,Contact person is difficult — take care
+V00532,(ju) Daehan 162,7392183603,OO City OO District 146,,Jung Taehyun,2026-02-06,The owner likes golf
+V00533,㈜Hanbit Trading 132,7592342429,OO City OO District 150,010-0000-0533,Lee Junho,2025-07-21,Contact person is difficult — take care
+V00534,㈜Shinkwang 101,7188267023,OO City OO District 199,010-0000-0534,Kim Youngsoo,2026-07-24,Contact person is difficult — take care
+V00535,jusikhoesa Daehan 285,145-81-43333,OO City OO District 161,010-0000-0535,Park Jihyun,2026-02-15,
+V00536,(ju) Dongbang 123,415-10-30002,OO City OO District 212,010-0000-0536,Kim Youngsoo,2026-01-22,Contact person is difficult — take care
+V00537,jusikhoesa Daesung Tech 58,393-24-62671,OO City OO District 176,010-0000-0537,Kim Youngsoo,2025-10-12,
+V00538,(ju) Daehan 229,216-85-91768,OO City OO District 129,,Kim Youngsoo,2022-10-09,
+V00539,(ju) Hanbit Trading 269,6137527425,OO City OO District,010-0000-0539,Jung Taehyun,2026-07-03,
+V00540,㈜Dongbang 32,370-86-33612,OO City OO District,,Kim Youngsoo,2025-11-26,History of late payment
+V00541,Sejong 134,366-58-69900,OO City OO District 33,010-0000-0541,Choi Mina,2025-11-27,History of late payment
+V00542,jusikhoesa Jeongwoo 220,5918938630,OO City OO District 4,,Park Jihyun,2024-11-13,
+V00543,Mirae 153,833-72-68513,OO City OO District 166,010-0000-0543,Jung Taehyun,2026-05-13,
+V00544,(ju) Mirae 122,9993898579,OO City OO District 98,,Kim Youngsoo,2026-03-23,
+V00545,㈜Mirae 251,390-19-12996,OO City OO District 218,,Jung Taehyun,2024-06-23,
+V00546,Hansol 168,4967230218,OO City OO District 168,010-0000-0546,Jung Taehyun,2025-12-28,History of late payment
+V00547,Jeongwoo 57,800-54-41104,OO City OO District 63,010-0000-0547,Choi Mina,2026-06-03,
+V00548,jusikhoesa Mirae 82,504-77-97840,OO City OO District 136,,Kim Youngsoo,2026-05-22,The owner likes golf
+V00549,Dongbang 222,499-33-93021,OO City OO District,010-0000-0549,Choi Mina,2022-10-23,History of late payment
+V00550,jusikhoesa Mirae 182,164-43-51163,OO City OO District 124,010-0000-0550,Lee Junho,2025-06-16,
+V00551,㈜Sejong 279,3197465739,OO City OO District 145,010-0000-0551,Jung Taehyun,2025-04-24,
+V00552,jusikhoesa Sejong 83,397-38-94989,OO City OO District 129,010-0000-0552,Park Jihyun,2025-12-06,Contact person is difficult — take care
+V00553,㈜Shinkwang 63,938-60-59511,OO City OO District 60,010-0000-0553,Jung Taehyun,2025-05-13,
+V00554,Hansol 106,857-14-54529,OO City OO District 223,010-0000-0554,Choi Mina,2025-05-08,
+V00555,(ju) Sejong 191,296-95-82083,OO City OO District 188,,Choi Mina,2025-09-18,Contact person is difficult — take care
+V00556,㈜Daesung Tech 172,848-51-53612,OO City OO District 52,010-0000-0556,Lee Junho,2026-01-14,History of late payment
+V00557,㈜Mirae 202,4958889571,OO City OO District 19,,Lee Junho,2025-05-29,
+V00558,Daesung Tech 155,785-80-30070,OO City OO District 104,010-0000-0558,Choi Mina,2025-08-13,Contact person is difficult — take care
+V00559,(ju) Hansol 42,639-71-47407,OO City OO District 218,,Kim Youngsoo,2024-10-05,Contact person is difficult — take care
+V00560,㈜Daesung Tech 193,238-96-73705,OO City OO District 99,010-0000-0560,Kim Youngsoo,2026-06-18,History of late payment
+V00561,jusikhoesa Jeongwoo 104,8752599226,OO City OO District 230,,Kim Youngsoo,2025-06-27,History of late payment
+V00562,jusikhoesa Mirae 256,2979418862,OO City OO District 2,010-0000-0562,Kim Youngsoo,2026-08-04,
+V00563,Shinkwang 173,953-83-31162,OO City OO District 123,,Jung Taehyun,2025-01-09,
+V00564,Hansol 171,764-21-30576,OO City OO District 122,010-0000-0564,Choi Mina,2026-07-24,
+V00565,(ju) Daesung Tech 136,329-67-73863,OO City OO District 69,,Lee Junho,2025-05-06,
+V00566,(ju) Daesung Tech 110,384-86-83431,OO City OO District 184,,Park Jihyun,2024-11-17,History of late payment
+V00567,Dongbang 63,7997915364,OO City OO District 139,,Park Jihyun,2026-02-17,Contact person is difficult — take care
+V00568,㈜Woori 29,9772725003,OO City OO District 265,010-0000-0568,Kim Youngsoo,2021-12-02,
+V00569,㈜Dongbang 163,1854513515,OO City OO District 168,,Park Jihyun,2024-05-21,History of late payment
+V00570,jusikhoesa Hanbit Trading 87,589-25-35755,OO City OO District 101,010-0000-0570,Kim Youngsoo,2026-07-12,Contact person is difficult — take care
+V00571,Dongbang 15,662-94-92035,OO City OO District,,Jung Taehyun,2025-08-29,History of late payment
+V00572,jusikhoesa Daehan 260,8511090428,OO City OO District 250,010-0000-0572,Lee Junho,2023-05-27,
+V00573,(ju) Jeongwoo 232,886-93-75549,OO City OO District 54,,Park Jihyun,2025-12-19,The owner likes golf
+V00574,jusikhoesa Hansol 188,396-38-62393,OO City OO District 10,010-0000-0574,Park Jihyun,2026-06-14,History of late payment
+V00575,㈜Jeongwoo 211,2422182920,OO City OO District 1,010-0000-0575,Park Jihyun,2023-07-20,
+V00576,(ju) Sejong 88,112-62-88249,OO City OO District 24,,Park Jihyun,2025-08-21,Contact person is difficult — take care
+V00577,Sejong 155,6564042841,OO City OO District 251,,Kim Youngsoo,2025-09-05,The owner likes golf
+V00578,(ju) Dongbang 183,367-25-37002,OO City OO District 213,010-0000-0578,Park Jihyun,2026-06-16,History of late payment
+V00579,(ju) Daehan 288,140-92-21155,OO City OO District 248,,Choi Mina,2025-08-16,
+V00580,㈜Daehan 196,614-15-72495,OO City OO District 181,010-0000-0580,Park Jihyun,2025-08-25,
+V00581,(ju) Shinkwang 173,397-19-87632,OO City OO District 285,010-0000-0581,Kim Youngsoo,2026-05-29,The owner likes golf
+V00582,jusikhoesa Dongbang 6,467-42-17067,OO City OO District 57,,Kim Youngsoo,2023-12-23,
+V00583,Shinkwang 64,5374329751,OO City OO District 122,,Lee Junho,2024-09-12,
+V00584,jusikhoesa Daehan 38,973-31-55980,OO City OO District 191,010-0000-0584,Jung Taehyun,2026-03-27,Contact person is difficult — take care
+V00585,Hanbit Trading 275,1499665693,OO City OO District 231,010-0000-0585,Lee Junho,2023-09-08,
+V00586,jusikhoesa Hansol 250,153-32-17678,OO City OO District 19,,Kim Youngsoo,2026-06-08,The owner likes golf
+V00587,Dongbang 62,9366339725,OO City OO District 197,010-0000-0587,Park Jihyun,2026-06-21,The owner likes golf
+V00588,Dongbang 208,945-21-61227,OO City OO District 185,010-0000-0588,Lee Junho,2026-03-08,
+V00589,(ju) Hanbit Trading 266,819-22-17168,OO City OO District 78,,Choi Mina,2025-12-10,
+V00590,jusikhoesa Hansol 46,770-72-98994,OO City OO District 218,010-0000-0590,Lee Junho,2019-09-16,
+V00591,Sejong 225,7346115688,OO City OO District 275,,Lee Junho,2026-03-13,
+V00592,㈜Jeongwoo 20,367-53-55555,OO City OO District 100,010-0000-0592,Park Jihyun,2025-10-17,Contact person is difficult — take care
+V00593,Daehan 189,139-66-22536,OO City OO District 179,,Choi Mina,2026-05-16,
+V00594,Hanbit Trading 74,4495582887,OO City OO District 143,,Choi Mina,2025-08-23,History of late payment
+V00595,(ju) Sejong 174,7869955953,OO City OO District 172,010-0000-0595,Lee Junho,2026-06-16,
+V00596,Jeongwoo 42,957-77-66005,OO City OO District 21,010-0000-0596,Choi Mina,2019-12-30,History of late payment
+V00597,Woori 148,6893132456,OO City OO District 55,010-0000-0597,Kim Youngsoo,2026-06-10,History of late payment
+V00598,Daehan 155,5709594298,OO City OO District 249,,Jung Taehyun,2023-12-20,Contact person is difficult — take care
+V00599,(ju) Hanbit Trading 86,472-75-29156,OO City OO District 15,010-0000-0599,Kim Youngsoo,2026-01-11,
+V00600,㈜Hansol 15,278-93-60025,OO City OO District 155,,Jung Taehyun,2025-02-23,
+V00601,(ju) Sejong 100,497-44-23352,OO City OO District 7,,Kim Youngsoo,2026-05-27,
+V00602,(ju) Sejong 257,9971933103,OO City OO District 291,010-0000-0602,Park Jihyun,2026-04-06,
+V00603,Jeongwoo 293,1628889035,OO City OO District 111,010-0000-0603,Park Jihyun,2026-06-14,Contact person is difficult — take care
+V00604,jusikhoesa Woori 159,104-85-96489,OO City OO District 185,010-0000-0604,Choi Mina,2023-07-08,
+V00605,㈜Sejong 148,2247370872,OO City OO District 31,010-0000-0605,Park Jihyun,2026-02-11,
+V00606,Mirae 142,462-81-14726,OO City OO District 101,010-0000-0606,Jung Taehyun,2026-05-13,The owner likes golf
+V00607,(ju) Woori 269,407-17-25514,OO City OO District 120,010-0000-0607,Choi Mina,2026-06-17,History of late payment
+V00608,(ju) Jeongwoo 124,2441471703,OO City OO District 292,010-0000-0608,Choi Mina,2026-04-16,
+V00609,(ju) Mirae 246,1314516598,OO City OO District 35,010-0000-0609,Park Jihyun,2025-11-01,The owner likes golf
+V00610,㈜Jeongwoo 285,4536419078,OO City OO District 113,,Choi Mina,2026-07-10,
+V00611,(ju) Daehan 282,939-46-23335,OO City OO District 96,010-0000-0611,Jung Taehyun,2026-06-30,The owner likes golf
+V00612,(ju) Daesung Tech 38,1498847585,OO City OO District 183,010-0000-0612,Choi Mina,2026-08-08,History of late payment
+V00613,(ju) Hansol 148,8841116545,OO City OO District 191,010-0000-0613,Kim Youngsoo,2026-07-01,
+V00614,Shinkwang 189,1907771338,OO City OO District 81,010-0000-0614,Choi Mina,2023-07-17,
+V00615,jusikhoesa Hansol 17,343-59-22870,OO City OO District 253,010-0000-0615,Park Jihyun,2025-01-18,
+V00616,㈜Daehan 171,656-41-15772,OO City OO District,010-0000-0616,Lee Junho,2024-04-08,Contact person is difficult — take care
+V00617,㈜Dongbang 134,703-60-50621,OO City OO District 191,010-0000-0617,Jung Taehyun,2025-04-15,
+V00618,(ju) Hanbit Trading 192,691-67-40285,OO City OO District 299,,Kim Youngsoo,2026-05-14,
+V00619,(ju) Mirae 9,9291559791,OO City OO District 164,010-0000-0619,Kim Youngsoo,2024-04-20,
+V00620,Hanbit Trading 286,383-62-89325,OO City OO District 112,,Jung Taehyun,2025-12-26,Contact person is difficult — take care
+V00621,Jeongwoo 242,613-21-58247,OO City OO District 69,,Lee Junho,2025-10-02,
+V00622,㈜Hansol 160,9631355663,OO City OO District 10,,Kim Youngsoo,2025-08-21,
+V00623,Daehan 110,544-35-67057,OO City OO District 113,010-0000-0623,Choi Mina,2026-02-23,The owner likes golf
+V00624,Sejong 91,291-23-94071,OO City OO District 72,,Choi Mina,2025-11-06,
+V00625,Woori 208,976-92-21905,OO City OO District 224,,Lee Junho,2026-04-24,History of late payment
+V00626,(ju) Hanbit Trading 229,8184452363,OO City OO District 20,,Jung Taehyun,2026-03-22,The owner likes golf
+V00627,(ju) Daehan 50,472-12-55632,OO City OO District 75,010-0000-0627,Choi Mina,2026-03-13,
+V00628,㈜Mirae 98,5549556560,OO City OO District 267,,Lee Junho,2025-05-27,History of late payment
+V00629,Daesung Tech 223,9019949755,OO City OO District 156,010-0000-0629,Choi Mina,2025-07-13,
+V00630,(ju) Dongbang 97,623-32-11021,OO City OO District 187,010-0000-0630,Park Jihyun,2026-01-24,History of late payment
+V00631,(ju) Mirae 220,781-28-58040,OO City OO District 268,010-0000-0631,Kim Youngsoo,2026-02-05,
+V00632,㈜Daesung Tech 66,3442422076,OO City OO District 216,,Lee Junho,2022-10-10,
+V00633,jusikhoesa Daehan 132,834-67-31838,OO City OO District,010-0000-0633,Choi Mina,2026-06-06,The owner likes golf
+V00634,jusikhoesa Hansol 62,9573753604,OO City OO District 197,010-0000-0634,Lee Junho,2024-05-13,
+V00635,Shinkwang 84,810-62-48702,OO City OO District 184,010-0000-0635,Lee Junho,2025-08-30,The owner likes golf
+V00636,㈜Hanbit Trading 285,133-27-69001,OO City OO District 54,010-0000-0636,Jung Taehyun,2025-04-11,The owner likes golf
+V00637,(ju) Mirae 148,936-15-45494,OO City OO District 262,,Choi Mina,2025-05-25,
+V00638,jusikhoesa Shinkwang 18,717-34-85165,OO City OO District 80,,Choi Mina,2025-01-25,The owner likes golf
+V00639,(ju) Hanbit Trading 58,6022093691,OO City OO District 267,010-0000-0639,Jung Taehyun,2024-08-15,
+V00640,㈜Mirae 3,764-42-64368,OO City OO District 220,010-0000-0640,Park Jihyun,2026-06-26,
+V00641,jusikhoesa Daehan 250,9816147439,OO City OO District 144,010-0000-0641,Kim Youngsoo,2026-02-02,History of late payment
+V00642,(ju) Dongbang 210,6802423293,OO City OO District 72,010-0000-0642,Lee Junho,2023-11-11,History of late payment
+V00643,㈜Daehan 100,822-62-56675,OO City OO District 9,,Choi Mina,2026-07-01,The owner likes golf
+V00644,Daesung Tech 137,8816113179,OO City OO District 110,010-0000-0644,Jung Taehyun,2025-08-21,
+V00645,(ju) Dongbang 138,491-26-34222,OO City OO District 135,,Lee Junho,2024-07-31,
+V00646,jusikhoesa Jeongwoo 237,503-20-94787,OO City OO District 33,,Kim Youngsoo,2026-04-10,Contact person is difficult — take care
+V00647,Daesung Tech 182,418-84-83777,OO City OO District 91,010-0000-0647,Jung Taehyun,2026-07-27,
+V00648,jusikhoesa Woori 45,428-11-26856,OO City OO District 40,010-0000-0648,Park Jihyun,2022-07-31,History of late payment
+V00649,Mirae 201,778-72-56128,OO City OO District 21,,Park Jihyun,2025-09-20,Contact person is difficult — take care
+V00650,㈜Dongbang 254,9719546878,OO City OO District 223,010-0000-0650,Choi Mina,2026-07-19,History of late payment
+V00651,㈜Jeongwoo 231,743-43-23607,OO City OO District 153,,Lee Junho,2025-11-22,
+V00652,(ju) Hansol 83,5449744613,OO City OO District 146,,Jung Taehyun,2026-04-21,Contact person is difficult — take care
+V00653,Daesung Tech 91,450-77-37317,OO City OO District 151,010-0000-0653,Lee Junho,2025-08-09,The owner likes golf
+V00654,㈜Sejong 212,199-66-64676,OO City OO District 115,,Lee Junho,2024-07-31,
+V00655,jusikhoesa Hansol 270,763-32-28015,OO City OO District 175,010-0000-0655,Jung Taehyun,2024-02-21,
+V00656,jusikhoesa Shinkwang 36,632-82-51234,OO City OO District 61,010-0000-0656,Kim Youngsoo,2021-02-15,
+V00657,㈜Sejong 112,4315474307,OO City OO District 146,,Choi Mina,2024-07-27,
+V00658,㈜Sejong 167,841-14-57630,OO City OO District 159,010-0000-0658,Kim Youngsoo,2025-05-24,
+V00659,Hanbit Trading 25,9719387109,OO City OO District 43,010-0000-0659,Kim Youngsoo,2026-06-15,
+V00660,㈜Jeongwoo 102,620-86-78369,OO City OO District 128,010-0000-0660,Jung Taehyun,2026-05-20,The owner likes golf
+V00661,(ju) Daehan 274,749-98-26938,OO City OO District 72,010-0000-0661,Kim Youngsoo,2025-11-17,History of late payment
+V00662,㈜Woori 144,3601174510,OO City OO District 49,010-0000-0662,Kim Youngsoo,2023-04-08,
+V00663,㈜Shinkwang 40,804-26-24619,OO City OO District 174,010-0000-0663,Jung Taehyun,2025-09-08,Contact person is difficult — take care
+V00664,jusikhoesa Hanbit Trading 108,725-36-69301,OO City OO District 82,010-0000-0664,Park Jihyun,2026-05-23,
+V00665,(ju) Daehan 163,2838872635,OO City OO District 149,010-0000-0665,Lee Junho,2024-08-26,
+V00666,(ju) Hansol 223,248-84-11141,OO City OO District 157,010-0000-0666,Kim Youngsoo,2025-11-17,History of late payment
+V00667,㈜Sejong 72,587-36-86827,OO City OO District 292,010-0000-0667,Park Jihyun,2023-10-24,
+V00668,(ju) Hanbit Trading 204,741-55-50581,OO City OO District 177,010-0000-0668,Jung Taehyun,2026-04-24,
+V00669,(ju) Dongbang 124,9322251836,OO City OO District 240,010-0000-0669,Jung Taehyun,2024-09-03,History of late payment
+V00670,jusikhoesa Hansol 208,877-62-85391,OO City OO District 179,010-0000-0670,Lee Junho,2026-02-25,Contact person is difficult — take care
+V00671,jusikhoesa Mirae 89,9925760284,OO City OO District 154,010-0000-0671,Park Jihyun,2025-06-26,Contact person is difficult — take care
+V00672,Daehan 196,9936633256,OO City OO District 141,,Choi Mina,2022-12-03,The owner likes golf
+V00673,(ju) Daesung Tech 136,2257488802,OO City OO District 173,,Jung Taehyun,2026-07-21,
+V00674,Shinkwang 7,6783764257,OO City OO District 278,,Choi Mina,2025-08-18,
+V00675,㈜Jeongwoo 187,386-45-18789,OO City OO District 151,,Jung Taehyun,2026-03-11,
+V00676,㈜Jeongwoo 93,689-81-43077,OO City OO District 199,,Jung Taehyun,2026-04-28,History of late payment
+V00677,jusikhoesa Shinkwang 121,145-52-23379,OO City OO District 8,,Jung Taehyun,2025-06-06,The owner likes golf
+V00678,(ju) Woori 21,502-70-70322,OO City OO District 105,010-0000-0678,Jung Taehyun,2024-01-01,History of late payment
+V00679,㈜Jeongwoo 82,755-38-61124,OO City OO District 9,,Lee Junho,2025-11-30,
+V00680,jusikhoesa Daesung Tech 156,136-16-97959,OO City OO District 36,,Lee Junho,2026-07-24,The owner likes golf
+V00681,㈜Daehan 276,6364330358,OO City OO District 274,,Lee Junho,2025-05-08,The owner likes golf
+V00682,jusikhoesa Woori 263,356-48-85547,OO City OO District 281,010-0000-0682,Choi Mina,2025-04-15,The owner likes golf
+V00683,jusikhoesa Mirae 221,977-89-37126,OO City OO District 78,,Jung Taehyun,2024-12-07,
+V00684,jusikhoesa Jeongwoo 99,266-26-71203,OO City OO District 92,010-0000-0684,Jung Taehyun,2024-02-08,
+V00685,jusikhoesa Sejong 152,137-91-64196,OO City OO District 1,,Kim Youngsoo,2026-07-04,
+V00686,Shinkwang 285,951-30-11532,OO City OO District 182,,Choi Mina,2026-01-05,Contact person is difficult — take care
+V00687,(ju) Woori 11,471-22-17499,OO City OO District 122,010-0000-0687,Jung Taehyun,2025-08-19,Contact person is difficult — take care
+V00688,jusikhoesa Daehan 11,693-39-68978,OO City OO District 125,,Lee Junho,2025-07-07,
+V00689,Shinkwang 248,590-28-32769,OO City OO District 124,,Choi Mina,2025-08-26,
+V00690,jusikhoesa Sejong 254,5689746840,OO City OO District 115,010-0000-0690,Jung Taehyun,2026-01-10,
+V00691,jusikhoesa Shinkwang 78,3716542318,OO City OO District,,Park Jihyun,2026-05-23,The owner likes golf
+V00692,jusikhoesa Jeongwoo 219,400-95-74469,OO City OO District 61,,Park Jihyun,2025-03-27,
+V00693,(ju) Daesung Tech 253,6653871956,OO City OO District,010-0000-0693,Lee Junho,2024-09-15,Contact person is difficult — take care
+V00694,jusikhoesa Dongbang 263,559-74-76723,OO City OO District 30,010-0000-0694,Park Jihyun,2025-12-02,The owner likes golf
+V00695,Daesung Tech 195,562-10-70807,OO City OO District 146,010-0000-0695,Kim Youngsoo,2023-10-22,
+V00696,(ju) Sejong 174,649-34-85235,OO City OO District,,Lee Junho,2024-12-11,
+V00697,㈜Jeongwoo 275,877-75-40205,OO City OO District 271,010-0000-0697,Lee Junho,2024-07-13,
+V00698,㈜Hanbit Trading 64,665-71-95285,OO City OO District,,Lee Junho,2025-08-07,History of late payment
+V00699,(ju) Daehan 96,556-85-55548,OO City OO District 92,010-0000-0699,Choi Mina,2025-10-10,
+V00700,㈜Woori 1,858-76-92620,OO City OO District 56,,Jung Taehyun,2026-03-16,Contact person is difficult — take care
+V00701,㈜Woori 194,8115375381,OO City OO District 59,010-0000-0701,Choi Mina,2026-08-08,Contact person is difficult — take care
+V00702,(ju) Hanbit Trading 120,725-62-99552,OO City OO District 194,,Lee Junho,2026-03-25,History of late payment
+V00703,㈜Shinkwang 182,736-18-20137,OO City OO District 39,010-0000-0703,Park Jihyun,2024-05-20,The owner likes golf
+V00704,jusikhoesa Hansol 211,849-27-61002,OO City OO District 262,,Park Jihyun,2024-12-21,History of late payment
+V00705,㈜Sejong 222,9445256498,OO City OO District 294,010-0000-0705,Jung Taehyun,2026-07-24,History of late payment
+V00706,(ju) Mirae 298,333-58-30583,OO City OO District 240,010-0000-0706,Choi Mina,2026-01-25,
+V00707,(ju) Shinkwang 276,689-49-65262,OO City OO District 261,010-0000-0707,Kim Youngsoo,2026-04-29,
+V00708,㈜Hansol 63,844-77-41214,OO City OO District 282,,Lee Junho,2023-08-04,Contact person is difficult — take care
+V00709,jusikhoesa Sejong 54,9701266659,OO City OO District 20,,Lee Junho,2026-08-06,
+V00710,㈜Sejong 292,9399584466,OO City OO District 137,,Lee Junho,2026-05-24,
+V00711,jusikhoesa Woori 133,8006035601,OO City OO District,010-0000-0711,Kim Youngsoo,2024-12-26,Contact person is difficult — take care
+V00712,(ju) Dongbang 193,7195521771,OO City OO District,,Lee Junho,2025-09-22,Contact person is difficult — take care
+V00713,㈜Hansol 286,921-39-85125,OO City OO District 216,,Lee Junho,2026-05-28,The owner likes golf
+V00714,jusikhoesa Daehan 109,1097457736,OO City OO District 222,,Kim Youngsoo,2026-02-07,
+V00715,(ju) Hansol 253,7591414220,OO City OO District 208,010-0000-0715,Jung Taehyun,2026-02-06,
+V00716,㈜Woori 133,4534736525,OO City OO District 179,010-0000-0716,Jung Taehyun,2026-06-09,Contact person is difficult — take care
+V00717,(ju) Jeongwoo 57,259-73-83079,OO City OO District 40,,Kim Youngsoo,2025-10-26,
+V00718,(ju) Woori 53,968-77-36584,OO City OO District 64,010-0000-0718,Choi Mina,2025-10-26,
+V00719,(ju) Hansol 105,976-28-14517,OO City OO District 67,,Kim Youngsoo,2025-07-02,
+V00720,jusikhoesa Sejong 229,8088432192,OO City OO District 225,,Kim Youngsoo,2026-03-24,
+V00721,jusikhoesa Shinkwang 242,946-45-68464,OO City OO District 7,010-0000-0721,Park Jihyun,2026-07-28,
+V00722,Hansol 79,132-46-72823,OO City OO District 55,010-0000-0722,Kim Youngsoo,2026-06-16,
+V00723,jusikhoesa Dongbang 155,812-12-21435,OO City OO District 55,,Choi Mina,2026-02-08,History of late payment
+V00724,(ju) Shinkwang 298,1798852071,OO City OO District 144,,Kim Youngsoo,2025-01-17,The owner likes golf
+V00725,Mirae 24,644-61-42368,OO City OO District 137,010-0000-0725,Jung Taehyun,2026-02-17,Contact person is difficult — take care
+V00726,Daesung Tech 251,640-65-14891,OO City OO District 20,,Choi Mina,2024-01-29,
+V00727,jusikhoesa Daehan 31,919-30-78944,OO City OO District 31,010-0000-0727,Choi Mina,2024-11-10,Contact person is difficult — take care
+V00728,Shinkwang 61,553-37-29022,OO City OO District 37,,Choi Mina,2026-07-10,History of late payment
+V00729,㈜Daehan 141,154-43-10791,OO City OO District,,Park Jihyun,2025-10-21,
+V00730,(ju) Sejong 95,175-92-24113,OO City OO District 33,010-0000-0730,Jung Taehyun,2026-01-12,
+V00731,Shinkwang 229,655-82-74503,OO City OO District 141,010-0000-0731,Kim Youngsoo,2025-12-28,
+V00732,jusikhoesa Dongbang 203,9172088863,OO City OO District 199,010-0000-0732,Park Jihyun,2024-04-03,
+V00733,(ju) Woori 147,791-63-10193,OO City OO District 118,,Park Jihyun,2026-03-20,Contact person is difficult — take care
+V00734,jusikhoesa Mirae 215,737-54-43231,OO City OO District 188,010-0000-0734,Choi Mina,2024-12-13,The owner likes golf
+V00735,Sejong 123,578-16-56508,OO City OO District 300,,Park Jihyun,2024-01-15,History of late payment
+V00736,Daesung Tech 268,298-70-39540,OO City OO District 57,,Jung Taehyun,2026-01-09,History of late payment
+V00737,Hanbit Trading 52,832-99-68228,OO City OO District 33,,Choi Mina,2024-08-21,
+V00738,(ju) Daesung Tech 126,8013248167,OO City OO District 255,010-0000-0738,Lee Junho,2024-01-05,History of late payment
+V00739,㈜Sejong 115,401-28-92592,OO City OO District 73,010-0000-0739,Lee Junho,2025-08-10,
+V00740,(ju) Hansol 115,622-61-21535,OO City OO District 5,010-0000-0740,Lee Junho,2024-10-24,
+V00741,(ju) Mirae 103,402-61-88402,OO City OO District 141,010-0000-0741,Lee Junho,2022-08-18,History of late payment
+V00742,jusikhoesa Shinkwang 64,190-93-78575,OO City OO District 64,,Lee Junho,2026-04-30,
+V00743,㈜Woori 42,302-25-39687,OO City OO District 92,010-0000-0743,Park Jihyun,2026-07-25,
+V00744,(ju) Woori 31,779-99-37695,OO City OO District 296,,Lee Junho,2026-06-14,
+V00745,Shinkwang 180,7684319480,OO City OO District 65,010-0000-0745,Choi Mina,2026-07-06,
+V00746,㈜Hansol 46,1547091992,OO City OO District 259,010-0000-0746,Lee Junho,2024-09-23,
+V00747,Hanbit Trading 44,566-75-97554,OO City OO District 92,010-0000-0747,Choi Mina,2025-12-22,
+V00748,Daehan 243,4168563430,OO City OO District 236,010-0000-0748,Lee Junho,2026-04-27,History of late payment
+V00749,(ju) Mirae 140,995-65-77207,OO City OO District 284,,Lee Junho,2025-09-26,
+V00750,(ju) Jeongwoo 229,337-74-31335,OO City OO District 279,,Lee Junho,2026-01-08,Contact person is difficult — take care
+V00751,㈜Dongbang 185,994-57-53077,OO City OO District 226,,Park Jihyun,2026-07-03,
+V00752,jusikhoesa Shinkwang 35,1053593263,OO City OO District 102,,Jung Taehyun,2026-07-07,History of late payment
+V00753,㈜Sejong 212,358-32-91084,OO City OO District 8,010-0000-0753,Jung Taehyun,2025-07-09,
+V00754,jusikhoesa Woori 169,7693516405,OO City OO District 228,010-0000-0754,Jung Taehyun,2025-10-01,Contact person is difficult — take care
+V00755,Shinkwang 218,4062372542,OO City OO District 137,010-0000-0755,Jung Taehyun,2025-09-07,Contact person is difficult — take care
+V00756,jusikhoesa Daesung Tech 181,388-66-70504,OO City OO District 126,,Park Jihyun,2025-11-30,
+V00757,(ju) Mirae 265,462-75-38309,OO City OO District 134,,Lee Junho,2024-08-06,
+V00758,jusikhoesa Hanbit Trading 240,805-89-72734,OO City OO District 22,010-0000-0758,Kim Youngsoo,2026-03-08,
+V00759,㈜Hanbit Trading 95,434-59-79631,OO City OO District 233,010-0000-0759,Jung Taehyun,2026-05-02,History of late payment
+V00760,㈜Daesung Tech 262,579-24-98647,OO City OO District 36,010-0000-0760,Kim Youngsoo,2023-09-23,
+V00761,Hansol 32,397-32-30326,OO City OO District 124,010-0000-0761,Lee Junho,2026-05-16,History of late payment
+V00762,㈜Jeongwoo 112,1833266296,OO City OO District 268,010-0000-0762,Choi Mina,2024-09-05,
+V00763,㈜Daehan 222,456-35-86555,OO City OO District 76,,Lee Junho,2026-02-07,History of late payment
+V00764,jusikhoesa Sejong 297,161-18-46328,OO City OO District 288,,Lee Junho,2026-05-29,
+V00765,(ju) Hansol 82,9607786850,OO City OO District 214,010-0000-0765,Jung Taehyun,2026-01-16,
+V00766,(ju) Dongbang 244,6105218015,OO City OO District 260,010-0000-0766,Kim Youngsoo,2025-07-18,Contact person is difficult — take care
+V00767,㈜Hansol 298,973-78-15666,OO City OO District 249,010-0000-0767,Park Jihyun,2026-05-04,
+V00768,jusikhoesa Hansol 210,489-58-43041,OO City OO District 97,,Kim Youngsoo,2025-11-15,
+V00769,㈜Jeongwoo 148,2376977039,OO City OO District 21,,Park Jihyun,2026-07-10,Contact person is difficult — take care
+V00770,㈜Jeongwoo 45,493-54-44752,OO City OO District 182,,Choi Mina,2024-04-11,History of late payment
+V00771,㈜Hanbit Trading 281,135-45-12238,OO City OO District 128,,Kim Youngsoo,2025-09-21,
+V00772,㈜Daehan 293,479-35-37657,OO City OO District 24,,Kim Youngsoo,2025-10-22,
+V00773,㈜Jeongwoo 74,6417979749,OO City OO District 47,,Park Jihyun,2025-08-10,Contact person is difficult — take care
+V00774,jusikhoesa Sejong 2,6071845668,OO City OO District 23,010-0000-0774,Choi Mina,2026-06-04,
+V00775,jusikhoesa Shinkwang 79,288-27-91896,OO City OO District 261,010-0000-0775,Lee Junho,2021-01-02,
+V00776,jusikhoesa Daesung Tech 70,2593423188,OO City OO District 76,010-0000-0776,Jung Taehyun,2025-07-10,
+V00777,jusikhoesa Daehan 193,9698362316,OO City OO District 59,010-0000-0777,Kim Youngsoo,2026-01-10,History of late payment
+V00778,Hanbit Trading 164,948-46-55342,OO City OO District 60,,Kim Youngsoo,2025-09-22,
+V00779,Hansol 159,974-30-81029,OO City OO District 55,,Park Jihyun,2024-04-02,
+V00780,Hansol 8,381-90-44036,OO City OO District 276,010-0000-0780,Jung Taehyun,2025-12-10,
+V00781,(ju) Dongbang 155,2066348752,OO City OO District 286,010-0000-0781,Kim Youngsoo,2026-03-21,
+V00782,㈜Sejong 29,441-14-52654,OO City OO District 63,010-0000-0782,Park Jihyun,2026-03-10,
+V00783,(ju) Mirae 147,6936999172,OO City OO District 233,010-0000-0783,Lee Junho,2023-04-10,
+V00784,Mirae 106,476-86-56345,OO City OO District,,Kim Youngsoo,2026-06-28,Contact person is difficult — take care
+V00785,㈜Daesung Tech 185,5015876089,OO City OO District 45,,Lee Junho,2026-03-17,
+V00786,㈜Hanbit Trading 113,222-35-25745,OO City OO District 183,010-0000-0786,Choi Mina,2026-07-04,The owner likes golf
+V00787,㈜Sejong 115,5957318453,OO City OO District 55,010-0000-0787,Park Jihyun,2026-07-02,
+V00788,(ju) Mirae 283,919-53-38689,OO City OO District 239,010-0000-0788,Choi Mina,2025-03-15,
+V00789,Dongbang 67,631-26-55716,OO City OO District 272,010-0000-0789,Choi Mina,2026-01-30,The owner likes golf
+V00790,㈜Woori 100,469-15-38016,OO City OO District 8,010-0000-0790,Kim Youngsoo,2021-04-16,
+V00791,jusikhoesa Woori 97,632-61-20792,OO City OO District 30,010-0000-0791,Lee Junho,2026-01-28,Contact person is difficult — take care
+V00792,jusikhoesa Woori 296,609-34-86012,OO City OO District 226,,Choi Mina,2026-06-30,
+V00793,(ju) Daehan 266,6174086878,OO City OO District 45,,Park Jihyun,2026-05-13,
+V00794,(ju) Daesung Tech 40,568-41-19792,OO City OO District 295,010-0000-0794,Kim Youngsoo,2025-10-10,
+V00795,Sejong 199,679-47-87227,OO City OO District 117,,Kim Youngsoo,2026-04-24,
+V00796,jusikhoesa Jeongwoo 253,7751276606,OO City OO District 56,010-0000-0796,Choi Mina,2024-01-29,
+V00797,(ju) Daehan 175,426-55-87214,OO City OO District 233,010-0000-0797,Lee Junho,2026-03-11,The owner likes golf
+V00798,㈜Jeongwoo 284,470-81-46217,OO City OO District 59,010-0000-0798,Kim Youngsoo,2025-11-18,The owner likes golf
+V00799,(ju) Mirae 148,974-64-46547,OO City OO District 104,010-0000-0799,Lee Junho,2025-03-16,
+V00800,jusikhoesa Hanbit Trading 144,9427248264,OO City OO District 189,010-0000-0800,Jung Taehyun,2024-11-28,
+V00801,Hanbit Trading 206,363-82-76811,OO City OO District 194,010-0000-0801,Park Jihyun,2026-05-23,History of late payment
+V00802,Hanbit Trading 83,639-55-34552,OO City OO District 206,010-0000-0802,Lee Junho,2026-02-06,The owner likes golf
+V00803,jusikhoesa Dongbang 36,477-20-12083,OO City OO District 226,010-0000-0803,Jung Taehyun,2025-10-20,History of late payment
+V00804,㈜Daesung Tech 41,272-33-56387,OO City OO District 148,010-0000-0804,Kim Youngsoo,2025-05-13,
+V00805,Jeongwoo 294,373-70-30678,OO City OO District 137,010-0000-0805,Lee Junho,2026-01-01,The owner likes golf
+V00806,jusikhoesa Shinkwang 116,7946351941,OO City OO District 108,010-0000-0806,Jung Taehyun,2025-12-20,
+V00807,Sejong 251,8131074694,OO City OO District 12,010-0000-0807,Jung Taehyun,2026-03-23,
+V00808,Jeongwoo 64,6506413065,OO City OO District 174,010-0000-0808,Jung Taehyun,2025-04-08,
+V00809,Daesung Tech 295,104-72-32219,OO City OO District 18,,Kim Youngsoo,2024-05-12,
+V00810,Sejong 218,858-41-96649,OO City OO District 29,010-0000-0810,Lee Junho,2025-09-13,
+V00811,jusikhoesa Sejong 251,5612118959,OO City OO District,010-0000-0811,Choi Mina,2024-10-28,Contact person is difficult — take care
+V00812,(ju) Woori 270,7545651905,OO City OO District 26,010-0000-0812,Kim Youngsoo,2025-03-05,
+V00813,Sejong 159,867-73-35303,OO City OO District 151,010-0000-0813,Kim Youngsoo,2025-07-08,
+V00814,jusikhoesa Daehan 260,830-49-55452,OO City OO District 16,010-0000-0814,Kim Youngsoo,2022-12-25,
+V00815,Daesung Tech 83,7742361643,OO City OO District 144,010-0000-0815,Park Jihyun,2026-07-10,
+V00816,Hansol 207,233-68-52788,OO City OO District 206,,Kim Youngsoo,2025-06-30,
+V00817,(ju) Daehan 122,9079858138,OO City OO District 191,,Lee Junho,2026-04-02,Contact person is difficult — take care
+V00818,jusikhoesa Hanbit Trading 39,6382892509,OO City OO District 286,010-0000-0818,Kim Youngsoo,2026-05-03,The owner likes golf
+V00819,(ju) Daehan 202,969-56-14598,OO City OO District 279,010-0000-0819,Choi Mina,2026-05-26,
+V00820,(ju) Shinkwang 1,4295543861,OO City OO District 47,,Choi Mina,2026-06-03,
+V00821,㈜Shinkwang 199,166-78-17802,OO City OO District 282,,Lee Junho,2026-03-01,
+V00822,(ju) Woori 292,972-94-66771,OO City OO District 172,010-0000-0822,Choi Mina,2026-04-18,The owner likes golf
+V00823,jusikhoesa Sejong 135,574-63-67935,OO City OO District 144,010-0000-0823,Choi Mina,2026-06-15,
+V00824,Sejong 160,602-58-54204,OO City OO District 162,010-0000-0824,Choi Mina,2026-06-20,
+V00825,㈜Hanbit Trading 190,316-39-33234,OO City OO District 80,010-0000-0825,Lee Junho,2026-06-12,
+V00826,jusikhoesa Mirae 123,9276287255,OO City OO District 84,,Choi Mina,2025-09-01,
+V00827,Hansol 41,738-45-28677,OO City OO District 164,,Kim Youngsoo,2024-10-24,
+V00828,(ju) Shinkwang 9,641-52-45867,OO City OO District 129,,Lee Junho,2026-07-25,
+V00829,㈜Dongbang 183,659-85-49712,OO City OO District 289,010-0000-0829,Kim Youngsoo,2025-05-16,
+V00830,(ju) Shinkwang 287,325-78-52168,OO City OO District 62,010-0000-0830,Jung Taehyun,2025-09-02,The owner likes golf
+V00831,jusikhoesa Daehan 114,106-98-34793,OO City OO District 298,,Kim Youngsoo,2025-11-25,
+V00832,(ju) Hanbit Trading 191,4818779294,OO City OO District 223,,Kim Youngsoo,2025-02-12,
+V00833,jusikhoesa Daesung Tech 73,404-83-42340,OO City OO District 220,010-0000-0833,Lee Junho,2026-04-17,
+V00834,(ju) Sejong 183,3261913557,OO City OO District 254,,Kim Youngsoo,2025-05-25,
+V00835,㈜Daehan 140,332-29-72036,OO City OO District 259,010-0000-0835,Kim Youngsoo,2025-01-27,The owner likes golf
+V00836,jusikhoesa Daehan 61,593-25-29878,OO City OO District 269,010-0000-0836,Choi Mina,2024-05-06,History of late payment
+V00837,㈜Woori 147,402-45-55323,OO City OO District 66,010-0000-0837,Choi Mina,2026-04-01,
+V00838,jusikhoesa Dongbang 236,178-53-63157,OO City OO District 184,,Kim Youngsoo,2025-05-23,
+V00839,jusikhoesa Mirae 2,773-64-40346,OO City OO District 219,010-0000-0839,Park Jihyun,2023-02-22,
+V00840,(ju) Daehan 238,750-21-24263,OO City OO District 206,010-0000-0840,Kim Youngsoo,2026-06-09,
+V00841,Daesung Tech 2,8459253821,OO City OO District 132,,Choi Mina,2026-02-26,The owner likes golf
+V00842,(ju) Daesung Tech 226,925-46-76327,OO City OO District 272,010-0000-0842,Kim Youngsoo,2023-08-27,
+V00843,㈜Daehan 63,797-67-99898,OO City OO District 205,,Kim Youngsoo,2023-12-01,
+V00844,Hanbit Trading 290,3507116055,OO City OO District 143,010-0000-0844,Jung Taehyun,2024-12-02,
+V00845,Mirae 34,738-97-52790,OO City OO District 114,010-0000-0845,Lee Junho,2025-12-11,History of late payment
+V00846,jusikhoesa Woori 71,5475442098,OO City OO District 227,010-0000-0846,Park Jihyun,2026-07-14,
+V00847,(ju) Woori 184,488-76-66951,OO City OO District 177,010-0000-0847,Park Jihyun,2026-03-12,
+V00848,(ju) Hanbit Trading 155,763-64-88914,OO City OO District 23,010-0000-0848,Park Jihyun,2026-05-28,
+V00849,㈜Daesung Tech 294,9689810968,OO City OO District 87,010-0000-0849,Lee Junho,2023-11-29,The owner likes golf
+V00850,jusikhoesa Dongbang 297,578-14-18069,OO City OO District 216,,Lee Junho,2025-02-23,
+V00851,(ju) Jeongwoo 188,149-53-64903,OO City OO District 295,,Park Jihyun,2025-06-17,
+V00852,jusikhoesa Hansol 265,454-22-15369,OO City OO District 14,,Kim Youngsoo,2024-10-20,Contact person is difficult — take care
+V00853,jusikhoesa Shinkwang 26,603-97-24806,OO City OO District 39,010-0000-0853,Kim Youngsoo,2023-08-08,
+V00854,(ju) Jeongwoo 220,5007865178,OO City OO District 227,,Kim Youngsoo,2025-10-22,
+V00855,Jeongwoo 19,6792589877,OO City OO District 44,010-0000-0855,Choi Mina,2026-06-14,
+V00856,jusikhoesa Daesung Tech 222,2853929912,OO City OO District 205,010-0000-0856,Kim Youngsoo,2025-07-22,
+V00857,㈜Shinkwang 291,7397555191,OO City OO District 84,010-0000-0857,Choi Mina,2025-08-19,
+V00858,(ju) Sejong 249,241-37-88655,OO City OO District 101,010-0000-0858,Park Jihyun,2025-10-20,
+V00859,(ju) Jeongwoo 3,341-69-25267,OO City OO District 288,,Kim Youngsoo,2026-06-19,
+V00860,㈜Hansol 166,741-10-63760,OO City OO District 230,,Kim Youngsoo,2026-06-09,History of late payment
+V00861,(ju) Sejong 225,732-40-74138,OO City OO District 298,,Kim Youngsoo,2026-07-27,
+V00862,㈜Woori 257,2976248470,OO City OO District 260,010-0000-0862,Choi Mina,2026-03-18,Contact person is difficult — take care
+V00863,Daehan 80,529-77-71825,OO City OO District 128,010-0000-0863,Lee Junho,2024-11-13,
+V00864,㈜Shinkwang 212,765-45-15142,OO City OO District 30,010-0000-0864,Lee Junho,2026-08-09,
+V00865,Daesung Tech 229,5815630607,OO City OO District 119,,Lee Junho,2026-04-26,History of late payment
+V00866,(ju) Daesung Tech 31,570-26-97383,OO City OO District 55,010-0000-0866,Park Jihyun,2024-05-02,
+V00867,Mirae 229,5665246542,OO City OO District 65,010-0000-0867,Park Jihyun,2026-01-12,
+V00868,(ju) Mirae 294,7895952582,OO City OO District 276,,Park Jihyun,2025-09-12,History of late payment
+V00869,㈜Shinkwang 159,136-11-71318,OO City OO District 79,010-0000-0869,Jung Taehyun,2026-04-14,Contact person is difficult — take care
+V00870,㈜Shinkwang 98,672-84-91389,OO City OO District 94,,Park Jihyun,2026-07-05,
+V00871,㈜Mirae 228,301-67-77153,OO City OO District 286,,Park Jihyun,2025-08-06,Contact person is difficult — take care
+V00872,㈜Shinkwang 89,112-82-44929,OO City OO District 285,010-0000-0872,Choi Mina,2026-03-20,The owner likes golf
+V00873,㈜Sejong 299,466-72-10372,OO City OO District 249,,Kim Youngsoo,2026-03-05,
+V00874,jusikhoesa Mirae 65,688-59-21209,OO City OO District 292,010-0000-0874,Park Jihyun,2026-07-28,The owner likes golf
+V00875,㈜Daesung Tech 4,163-75-56313,OO City OO District 72,,Lee Junho,2026-04-12,
+V00876,(ju) Woori 223,242-74-89145,OO City OO District 89,010-0000-0876,Lee Junho,2024-11-17,
+V00877,Hanbit Trading 118,117-42-56350,OO City OO District 236,010-0000-0877,Choi Mina,2025-08-25,History of late payment
+V00878,㈜Jeongwoo 40,207-51-32331,OO City OO District 125,,Kim Youngsoo,2026-02-13,
+V00879,Mirae 158,8946013641,OO City OO District 216,010-0000-0879,Park Jihyun,2026-02-14,The owner likes golf
+V00880,㈜Jeongwoo 294,840-54-16580,OO City OO District 19,010-0000-0880,Kim Youngsoo,2026-03-23,History of late payment
+V00881,jusikhoesa Jeongwoo 163,259-49-24507,OO City OO District 215,010-0000-0881,Kim Youngsoo,2025-07-25,
+V00882,(ju) Dongbang 224,157-85-75362,OO City OO District 51,010-0000-0882,Jung Taehyun,2026-03-16,
+V00883,㈜Daehan 184,284-59-71614,OO City OO District 61,010-0000-0883,Park Jihyun,2025-01-12,Contact person is difficult — take care
+V00884,㈜Daehan 5,4142624049,OO City OO District 285,010-0000-0884,Choi Mina,2026-05-27,
+V00885,㈜Shinkwang 55,6892074259,OO City OO District 237,010-0000-0885,Jung Taehyun,2026-01-10,
+V00886,jusikhoesa Mirae 225,239-20-49472,OO City OO District 94,010-0000-0886,Park Jihyun,2025-12-28,History of late payment
+V00887,(ju) Daehan 212,439-96-70635,OO City OO District 277,,Jung Taehyun,2025-05-29,
+V00888,(ju) Sejong 99,701-21-46950,OO City OO District 33,,Jung Taehyun,2025-11-16,Contact person is difficult — take care
+V00889,㈜Shinkwang 8,6539280265,OO City OO District 100,010-0000-0889,Choi Mina,2025-12-31,
+V00890,㈜Daehan 31,686-23-85067,OO City OO District 15,,Lee Junho,2025-11-12,
+V00891,jusikhoesa Daehan 8,298-84-13676,OO City OO District 268,,Choi Mina,2023-11-27,
+V00892,jusikhoesa Dongbang 226,890-59-58529,OO City OO District 49,,Park Jihyun,2024-10-14,Contact person is difficult — take care
+V00893,㈜Dongbang 31,713-48-74227,OO City OO District 300,010-0000-0893,Park Jihyun,2024-11-03,
+V00894,(ju) Dongbang 133,502-89-38469,OO City OO District 51,,Kim Youngsoo,2026-05-26,History of late payment
+V00895,Mirae 265,883-46-89788,OO City OO District 185,010-0000-0895,Park Jihyun,2024-05-16,
+V00896,Jeongwoo 29,669-56-82016,OO City OO District 49,,Park Jihyun,2026-08-04,
+V00897,jusikhoesa Daesung Tech 234,537-51-87036,OO City OO District 143,,Kim Youngsoo,2026-06-12,
+V00898,(ju) Shinkwang 63,160-56-62927,OO City OO District 176,010-0000-0898,Lee Junho,2025-09-09,The owner likes golf
+V00899,(ju) Hanbit Trading 157,7259212005,OO City OO District 238,,Lee Junho,2026-06-25,The owner likes golf
+V00900,Daesung Tech 272,929-57-41316,OO City OO District 121,010-0000-0900,Jung Taehyun,2025-12-25,
+V00901,Hanbit Trading 226,9306816895,OO City OO District 17,,Lee Junho,2024-10-31,Contact person is difficult — take care
+V00902,jusikhoesa Woori 182,708-49-31405,OO City OO District 209,010-0000-0902,Choi Mina,2026-02-15,
+V00903,Sejong 225,5538362617,OO City OO District 246,,Choi Mina,2026-04-01,Contact person is difficult — take care
+V00904,(ju) Daesung Tech 95,959-46-99183,OO City OO District 290,,Kim Youngsoo,2024-12-16,
+V00905,jusikhoesa Daehan 208,816-28-89274,OO City OO District 101,010-0000-0905,Lee Junho,2025-01-19,
+V00906,jusikhoesa Mirae 5,287-77-32640,OO City OO District,010-0000-0906,Choi Mina,2025-01-11,History of late payment
+V00907,jusikhoesa Dongbang 131,6183787462,OO City OO District 60,010-0000-0907,Choi Mina,2025-10-12,
+V00908,Hanbit Trading 280,598-36-96065,OO City OO District 127,010-0000-0908,Kim Youngsoo,2025-10-05,
+V00909,Daehan 181,677-79-21440,OO City OO District 145,,Park Jihyun,2025-08-16,
+V00910,㈜Daehan 91,915-16-20392,OO City OO District 178,,Park Jihyun,2025-10-08,History of late payment
+V00911,(ju) Woori 274,4072518904,OO City OO District 212,010-0000-0911,Kim Youngsoo,2026-05-19,
+V00912,jusikhoesa Dongbang 147,1435920185,OO City OO District 151,010-0000-0912,Kim Youngsoo,2026-04-11,History of late payment
+V00913,㈜Dongbang 67,812-57-12080,OO City OO District 289,010-0000-0913,Jung Taehyun,2024-03-30,History of late payment
+V00914,(ju) Sejong 174,671-25-58454,OO City OO District 43,010-0000-0914,Park Jihyun,2024-04-30,History of late payment
+V00915,Sejong 97,2937298605,OO City OO District 237,,Lee Junho,2022-04-13,
+V00916,(ju) Sejong 252,331-21-56119,OO City OO District,010-0000-0916,Jung Taehyun,2026-02-08,
+V00917,Woori 272,5311920840,OO City OO District 299,,Kim Youngsoo,2026-05-24,Contact person is difficult — take care
+V00918,㈜Sejong 143,483-52-67216,OO City OO District 105,010-0000-0918,Kim Youngsoo,2025-06-22,History of late payment
+V00919,Hanbit Trading 264,8906369268,OO City OO District 96,,Kim Youngsoo,2025-07-29,Contact person is difficult — take care
+V00920,(ju) Mirae 64,228-88-63799,OO City OO District 69,010-0000-0920,Choi Mina,2025-02-23,
+V00921,jusikhoesa Daehan 296,8981145238,OO City OO District 157,,Jung Taehyun,2026-08-07,
+V00922,(ju) Mirae 88,522-84-34737,OO City OO District 250,010-0000-0922,Jung Taehyun,2026-06-16,
+V00923,jusikhoesa Mirae 155,7748147120,OO City OO District 240,010-0000-0923,Kim Youngsoo,2022-02-12,
+V00924,Woori 17,798-21-13974,OO City OO District 135,,Park Jihyun,2025-09-03,
+V00925,Sejong 10,7126260413,OO City OO District 154,010-0000-0925,Park Jihyun,2026-06-02,
+V00926,Woori 14,4569442444,OO City OO District 286,010-0000-0926,Jung Taehyun,2026-05-31,
+V00927,㈜Dongbang 123,695-85-66245,OO City OO District 232,010-0000-0927,Choi Mina,2024-04-20,The owner likes golf
+V00928,jusikhoesa Hansol 138,599-60-13388,OO City OO District 234,,Jung Taehyun,2020-08-29,
+V00929,Hansol 104,296-39-16753,OO City OO District 138,010-0000-0929,Lee Junho,2026-06-30,History of late payment
+V00930,Hansol 258,9479288872,OO City OO District 263,,Park Jihyun,2022-09-27,The owner likes golf
+V00931,Woori 52,261-69-20302,OO City OO District 129,010-0000-0931,Choi Mina,2026-02-20,The owner likes golf
+V00932,Hansol 96,5137764029,OO City OO District 139,010-0000-0932,Choi Mina,2025-08-06,
+V00933,(ju) Sejong 39,581-84-16893,OO City OO District 30,,Kim Youngsoo,2020-04-08,
+V00934,Daehan 78,762-30-97338,OO City OO District 95,010-0000-0934,Kim Youngsoo,2025-10-07,Contact person is difficult — take care
+V00935,㈜Mirae 283,819-79-59931,OO City OO District 261,,Jung Taehyun,2026-04-30,History of late payment
+V00936,jusikhoesa Sejong 72,986-22-71407,OO City OO District 262,010-0000-0936,Jung Taehyun,2026-03-08,History of late payment
+V00937,Hansol 286,862-81-64214,OO City OO District 198,010-0000-0937,Jung Taehyun,2025-11-15,
+V00938,(ju) Shinkwang 143,360-66-34615,OO City OO District 222,,Jung Taehyun,2024-05-24,
+V00939,Hansol 300,154-51-37682,OO City OO District 258,,Kim Youngsoo,2023-03-26,
+V00940,jusikhoesa Daehan 37,196-54-57855,OO City OO District 264,010-0000-0940,Choi Mina,2023-02-17,Contact person is difficult — take care
+V00941,jusikhoesa Daesung Tech 73,618-29-30278,OO City OO District 171,010-0000-0941,Lee Junho,2025-12-25,
+V00942,(ju) Hansol 82,928-84-10274,OO City OO District 226,010-0000-0942,Choi Mina,2026-02-06,
+V00943,(ju) Dongbang 29,1377167769,OO City OO District 220,010-0000-0943,Jung Taehyun,2023-05-12,Contact person is difficult — take care
+V00944,(ju) Sejong 36,205-62-52903,OO City OO District 47,010-0000-0944,Lee Junho,2025-03-15,The owner likes golf
+V00945,㈜Sejong 119,227-56-82103,OO City OO District,,Choi Mina,2025-06-28,
+V00946,(ju) Shinkwang 94,2744965970,OO City OO District 248,010-0000-0946,Kim Youngsoo,2026-04-27,
+V00947,㈜Shinkwang 96,5819082640,OO City OO District 163,,Jung Taehyun,2023-12-07,
+V00948,Jeongwoo 168,2546785348,OO City OO District 143,,Jung Taehyun,2024-11-26,
+V00949,Sejong 300,4203242274,OO City OO District 223,010-0000-0949,Kim Youngsoo,2026-01-11,The owner likes golf
+V00950,(ju) Hanbit Trading 101,214-24-72406,OO City OO District 242,,Lee Junho,2022-04-19,The owner likes golf
+V00951,jusikhoesa Dongbang 60,2808071449,OO City OO District 293,010-0000-0951,Kim Youngsoo,2026-02-24,
+V00952,Mirae 143,175-35-88778,OO City OO District 8,010-0000-0952,Choi Mina,2026-02-15,
+V00953,(ju) Hanbit Trading 109,1522256612,OO City OO District 274,,Jung Taehyun,2026-04-20,History of late payment
+V00954,(ju) Daesung Tech 171,984-25-61396,OO City OO District 70,,Kim Youngsoo,2026-03-30,
+V00955,jusikhoesa Hanbit Trading 260,735-74-28139,OO City OO District 116,,Park Jihyun,2026-02-25,
+V00956,Woori 133,6643963128,OO City OO District 151,,Park Jihyun,2025-10-03,
+V00957,㈜Hanbit Trading 256,8144098117,OO City OO District 222,,Kim Youngsoo,2022-10-25,
+V00958,㈜Daehan 51,526-36-46225,OO City OO District 278,010-0000-0958,Choi Mina,2025-09-07,
+V00959,Sejong 251,227-96-70684,OO City OO District 225,,Kim Youngsoo,2026-06-25,
+V00960,㈜Sejong 55,396-34-58833,OO City OO District 137,,Jung Taehyun,2025-10-27,History of late payment
+V00961,Sejong 42,5284722668,OO City OO District 146,,Park Jihyun,2024-07-21,
+V00962,㈜Hanbit Trading 133,4162857545,OO City OO District 272,,Park Jihyun,2024-12-22,
+V00963,Hansol 144,2072876767,OO City OO District 93,010-0000-0963,Choi Mina,2024-09-17,
+V00964,(ju) Dongbang 1,707-18-46945,OO City OO District 209,,Choi Mina,2025-10-17,
+V00965,Daesung Tech 119,6923456475,OO City OO District 205,010-0000-0965,Jung Taehyun,2026-01-16,
+V00966,Hanbit Trading 292,1904058300,OO City OO District 11,010-0000-0966,Choi Mina,2025-10-27,History of late payment
+V00967,(ju) Jeongwoo 90,9221036619,OO City OO District 217,010-0000-0967,Lee Junho,2024-09-01,
+V00968,Mirae 8,7827069885,OO City OO District 258,,Lee Junho,2025-08-11,
+V00969,㈜Hanbit Trading 248,924-41-92356,OO City OO District 41,010-0000-0969,Choi Mina,2026-07-10,
+V00970,jusikhoesa Daehan 24,3627431217,OO City OO District 192,010-0000-0970,Choi Mina,2025-01-04,
+V00971,jusikhoesa Daesung Tech 282,612-44-58726,OO City OO District 30,010-0000-0971,Lee Junho,2026-05-27,The owner likes golf
+V00972,㈜Dongbang 245,980-40-76930,OO City OO District 34,010-0000-0972,Lee Junho,2026-07-24,
+V00973,(ju) Woori 190,148-28-80286,OO City OO District 214,010-0000-0973,Lee Junho,2026-04-29,
+V00974,(ju) Daehan 241,946-87-52037,OO City OO District 119,010-0000-0974,Kim Youngsoo,2026-03-16,
+V00975,Daehan 99,8998825632,OO City OO District 210,,Kim Youngsoo,2025-05-01,
+V00976,(ju) Dongbang 6,683-15-22800,OO City OO District 108,010-0000-0976,Kim Youngsoo,2025-04-20,
+V00977,(ju) Mirae 267,670-23-53254,OO City OO District 252,010-0000-0977,Choi Mina,2025-07-27,The owner likes golf
+V00978,Sejong 105,163-43-76610,OO City OO District 295,010-0000-0978,Kim Youngsoo,2011-06-18,
+V00979,㈜Shinkwang 183,2244826871,OO City OO District 155,010-0000-0979,Park Jihyun,2025-12-30,The owner likes golf
+V00980,Daehan 49,727-62-31973,OO City OO District 227,,Jung Taehyun,2025-11-07,
+V00981,(ju) Shinkwang 209,882-30-94445,OO City OO District 149,,Kim Youngsoo,2026-05-29,
+V00982,jusikhoesa Jeongwoo 289,7018491254,OO City OO District 180,,Jung Taehyun,2026-05-27,History of late payment
+V00983,㈜Hansol 166,437-86-52431,OO City OO District 284,,Park Jihyun,2025-11-18,The owner likes golf
+V00984,Sejong 103,409-44-88213,OO City OO District 119,010-0000-0984,Kim Youngsoo,2026-03-15,Contact person is difficult — take care
+V00985,jusikhoesa Hanbit Trading 231,433-62-85124,OO City OO District 75,010-0000-0985,Lee Junho,2026-05-28,
+V00986,㈜Hansol 124,666-12-13927,OO City OO District 284,010-0000-0986,Park Jihyun,2025-10-24,The owner likes golf
+V00987,(ju) Sejong 121,9147653978,OO City OO District 50,010-0000-0987,Park Jihyun,2025-04-23,Contact person is difficult — take care
+V00988,(ju) Hanbit Trading 54,606-77-63695,OO City OO District 160,010-0000-0988,Park Jihyun,2025-01-06,
+V00989,㈜Jeongwoo 166,3197668766,OO City OO District 42,,Choi Mina,2024-10-02,
+V00990,(ju) Daehan 136,141-62-81206,OO City OO District 239,010-0000-0990,Choi Mina,2025-07-06,
+V00991,jusikhoesa Hanbit Trading 14,445-71-49924,OO City OO District 172,,Jung Taehyun,2023-11-12,
+V00992,㈜Mirae 47,931-10-92604,OO City OO District 226,010-0000-0992,Choi Mina,2025-12-04,The owner likes golf
+V00993,jusikhoesa Sejong 26,3234818334,OO City OO District 51,010-0000-0993,Kim Youngsoo,2023-08-01,
+V00994,(ju) Sejong 217,785-12-60111,OO City OO District 58,010-0000-0994,Choi Mina,2026-07-14,
+V00995,㈜Daehan 102,2078429154,OO City OO District 112,010-0000-0995,Kim Youngsoo,2026-01-01,
+V00996,㈜Mirae 37,6576259441,OO City OO District,,Jung Taehyun,2025-11-07,
+V00997,㈜Woori 169,8961387294,OO City OO District 261,,Kim Youngsoo,2024-03-13,The owner likes golf
+V00998,jusikhoesa Woori 130,763-64-59126,OO City OO District 299,010-0000-0998,Choi Mina,2026-06-13,
+V00999,㈜Shinkwang 119,396-68-52605,OO City OO District 269,,Park Jihyun,2022-05-15,The owner likes golf
+V01000,jusikhoesa Daehan 262,3969748977,OO City OO District 160,010-0000-1000,Kim Youngsoo,2026-06-16,
+V01001,㈜Daesung Tech 295,565-83-58185,OO City OO District 141,010-0000-1001,Choi Mina,2026-07-22,
+V01002,(ju) Dongbang 146,556-19-61071,OO City OO District 209,010-0000-1002,Jung Taehyun,2024-12-12,
+V01003,Shinkwang 262,144-46-48355,OO City OO District 218,010-0000-1003,Jung Taehyun,2024-12-19,
+V01004,㈜Woori 238,3794539175,OO City OO District 128,010-0000-1004,Jung Taehyun,2025-06-08,
+V01005,㈜Hansol 172,8959843237,OO City OO District 253,,Kim Youngsoo,2026-03-21,
+V01006,jusikhoesa Mirae 90,887-91-43453,OO City OO District 222,010-0000-1006,Lee Junho,2025-12-11,The owner likes golf
+V01007,Shinkwang 225,600-65-12999,OO City OO District 110,,Park Jihyun,2024-11-29,
+V01008,(ju) Mirae 213,616-68-91340,OO City OO District 166,,Lee Junho,2025-05-05,The owner likes golf
+V01009,㈜Woori 56,586-24-84685,OO City OO District 65,010-0000-1009,Park Jihyun,2025-06-21,History of late payment
+V01010,㈜Shinkwang 188,781-26-39971,OO City OO District 89,,Choi Mina,2026-06-15,
+V01011,Hansol 100,171-41-85866,OO City OO District 38,010-0000-1011,Choi Mina,2026-05-12,History of late payment
+V01012,㈜Dongbang 235,122-55-65986,OO City OO District 259,010-0000-1012,Lee Junho,2026-02-11,
+V01013,jusikhoesa Hanbit Trading 157,7974513445,OO City OO District 31,010-0000-1013,Jung Taehyun,2022-10-14,
+V01014,Jeongwoo 168,157-93-35255,OO City OO District 40,010-0000-1014,Kim Youngsoo,2026-02-05,The owner likes golf
+V01015,jusikhoesa Jeongwoo 159,103-32-82380,OO City OO District 146,,Lee Junho,2025-12-26,The owner likes golf
+V01016,Jeongwoo 120,1838049823,OO City OO District 243,010-0000-1016,Lee Junho,2026-02-17,
+V01017,Mirae 287,340-87-22754,OO City OO District 42,010-0000-1017,Kim Youngsoo,2025-04-14,
+V01018,Hansol 9,610-59-63593,OO City OO District 230,010-0000-1018,Choi Mina,2024-12-14,History of late payment
+V01019,Sejong 300,1263774711,OO City OO District 79,010-0000-1019,Jung Taehyun,2026-03-26,Contact person is difficult — take care
+V01020,㈜Woori 34,7573150386,OO City OO District 259,010-0000-1020,Kim Youngsoo,2024-06-19,
+V01021,(ju) Daesung Tech 55,9352412767,OO City OO District 88,010-0000-1021,Kim Youngsoo,2025-10-21,
+V01022,㈜Sejong 161,749-13-43443,OO City OO District 133,010-0000-1022,Lee Junho,2025-03-02,
+V01023,Jeongwoo 157,483-69-92081,OO City OO District 14,,Jung Taehyun,2026-06-02,
+V01024,(ju) Hanbit Trading 288,8534621126,OO City OO District 74,010-0000-1024,Jung Taehyun,2026-04-14,
+V01025,(ju) Dongbang 17,714-94-77884,OO City OO District 102,010-0000-1025,Choi Mina,2026-01-18,The owner likes golf
+V01026,(ju) Hansol 239,788-96-20665,OO City OO District 236,,Choi Mina,2025-08-04,
+V01027,Sejong 124,831-75-62013,OO City OO District 180,010-0000-1027,Jung Taehyun,2026-06-30,
+V01028,Dongbang 202,3132270221,OO City OO District 138,010-0000-1028,Kim Youngsoo,2026-05-05,
+V01029,jusikhoesa Daesung Tech 48,667-54-31793,OO City OO District 189,010-0000-1029,Kim Youngsoo,2026-04-07,The owner likes golf
+V01030,jusikhoesa Mirae 215,514-44-56771,OO City OO District 58,010-0000-1030,Choi Mina,2024-09-05,The owner likes golf
+V01031,Hanbit Trading 113,7786721219,OO City OO District 218,010-0000-1031,Choi Mina,2026-07-21,History of late payment
+V01032,㈜Dongbang 126,641-71-57977,OO City OO District 252,010-0000-1032,Lee Junho,2025-12-06,The owner likes golf
+V01033,㈜Daehan 84,8704897337,OO City OO District 168,010-0000-1033,Choi Mina,2026-04-28,
+V01034,(ju) Sejong 37,8642955550,OO City OO District 243,010-0000-1034,Lee Junho,2024-09-22,The owner likes golf
+V01035,Daesung Tech 293,909-48-69157,OO City OO District 39,010-0000-1035,Park Jihyun,2024-04-28,
+V01036,(ju) Daesung Tech 277,403-67-24477,OO City OO District 203,010-0000-1036,Jung Taehyun,2026-06-16,
+V01037,㈜Jeongwoo 26,274-31-18745,OO City OO District 298,010-0000-1037,Lee Junho,2026-01-29,
+V01038,jusikhoesa Dongbang 39,6884530032,OO City OO District 161,010-0000-1038,Jung Taehyun,2025-07-10,
+V01039,㈜Dongbang 295,268-88-22190,OO City OO District 144,010-0000-1039,Jung Taehyun,2026-06-06,
+V01040,Daehan 178,954-61-95043,OO City OO District 100,010-0000-1040,Jung Taehyun,2026-07-31,History of late payment
+V01041,(ju) Dongbang 197,323-47-73486,OO City OO District 247,010-0000-1041,Lee Junho,2025-09-03,Contact person is difficult — take care
+V01042,jusikhoesa Hansol 184,3064956489,OO City OO District 146,010-0000-1042,Kim Youngsoo,2025-05-11,The owner likes golf
+V01043,jusikhoesa Woori 137,803-53-46776,OO City OO District 29,,Lee Junho,2026-07-21,
+V01044,jusikhoesa Hansol 103,612-79-30962,OO City OO District 178,010-0000-1044,Park Jihyun,2024-10-03,Contact person is difficult — take care
+V01045,Daehan 163,3187738726,OO City OO District 68,,Choi Mina,2026-06-11,History of late payment
+V01046,㈜Daesung Tech 262,1046157250,OO City OO District 56,,Lee Junho,2023-05-08,History of late payment
+V01047,(ju) Shinkwang 260,1946857233,OO City OO District 58,010-0000-1047,Jung Taehyun,2025-09-12,History of late payment
+V01048,(ju) Daehan 39,764-10-95537,OO City OO District 201,,Lee Junho,2024-07-08,
+V01049,Hanbit Trading 271,961-95-62554,OO City OO District 225,010-0000-1049,Jung Taehyun,2026-03-15,The owner likes golf
+V01050,jusikhoesa Mirae 11,190-48-99962,OO City OO District 220,010-0000-1050,Lee Junho,2025-12-19,The owner likes golf
+V01051,㈜Daesung Tech 59,864-17-40277,OO City OO District 58,,Jung Taehyun,2026-02-11,The owner likes golf
+V01052,jusikhoesa Sejong 140,563-19-64805,OO City OO District 242,,Lee Junho,2026-06-15,History of late payment
+V01053,jusikhoesa Mirae 83,773-75-53671,OO City OO District 156,,Park Jihyun,2025-11-15,History of late payment
+V01054,Jeongwoo 287,345-79-54188,OO City OO District 42,,Choi Mina,2025-11-07,
+V01055,Daesung Tech 63,516-77-57423,OO City OO District 257,,Choi Mina,2026-02-16,
+V01056,jusikhoesa Woori 289,256-54-70930,OO City OO District 221,,Park Jihyun,2025-05-12,The owner likes golf
+V01057,jusikhoesa Jeongwoo 120,420-96-55107,OO City OO District 265,010-0000-1057,Jung Taehyun,2026-07-16,The owner likes golf
+V01058,㈜Dongbang 140,994-71-91672,OO City OO District,010-0000-1058,Jung Taehyun,2025-03-07,
+V01059,jusikhoesa Daehan 46,794-93-55371,OO City OO District 33,010-0000-1059,Lee Junho,2024-02-24,Contact person is difficult — take care
+V01060,㈜Daesung Tech 185,427-55-62263,OO City OO District 125,010-0000-1060,Choi Mina,2026-02-02,
+V01061,Shinkwang 292,817-71-40820,OO City OO District 262,,Jung Taehyun,2026-04-14,
+V01062,㈜Dongbang 201,4829962317,OO City OO District 176,,Jung Taehyun,2026-07-20,The owner likes golf
+V01063,㈜Daesung Tech 137,8959133394,OO City OO District 17,010-0000-1063,Lee Junho,2022-04-14,Contact person is difficult — take care
+V01064,(ju) Woori 204,238-38-83956,OO City OO District 211,010-0000-1064,Jung Taehyun,2025-04-25,Contact person is difficult — take care
+V01065,jusikhoesa Hanbit Trading 38,882-72-82213,OO City OO District 50,010-0000-1065,Choi Mina,2024-01-26,Contact person is difficult — take care
+V01066,jusikhoesa Daehan 49,7551943285,OO City OO District 94,,Choi Mina,2025-08-08,History of late payment
+V01067,(ju) Woori 14,341-74-44791,OO City OO District 125,,Lee Junho,2021-01-07,
+V01068,Mirae 101,7594434903,OO City OO District 102,010-0000-1068,Lee Junho,2024-05-05,The owner likes golf
+V01069,(ju) Mirae 176,817-81-96054,OO City OO District 222,010-0000-1069,Lee Junho,2026-08-05,Contact person is difficult — take care
+V01070,㈜Dongbang 151,945-53-37913,OO City OO District 58,010-0000-1070,Park Jihyun,2025-08-18,
+V01071,㈜Daehan 238,9898295447,OO City OO District 234,,Park Jihyun,2026-06-12,
+V01072,Hanbit Trading 209,1028478461,OO City OO District 135,010-0000-1072,Park Jihyun,2026-06-18,Contact person is difficult — take care
+V01073,Hansol 69,205-85-63301,OO City OO District 25,010-0000-1073,Park Jihyun,2025-06-01,
+V01074,(ju) Hansol 296,835-54-82677,OO City OO District 77,010-0000-1074,Park Jihyun,2026-02-02,
+V01075,(ju) Sejong 221,881-93-82017,OO City OO District 144,,Lee Junho,2026-02-14,
+V01076,Hansol 285,6467754124,OO City OO District 104,010-0000-1076,Kim Youngsoo,2025-10-05,
+V01077,jusikhoesa Dongbang 171,1075649683,OO City OO District 197,,Choi Mina,2026-02-18,The owner likes golf
+V01078,㈜Daesung Tech 263,1192057934,OO City OO District 268,,Lee Junho,2024-11-09,
+V01079,㈜Hansol 223,8941883642,OO City OO District 175,,Jung Taehyun,2026-04-06,
+V01080,(ju) Hanbit Trading 183,1384071064,OO City OO District 121,010-0000-1080,Jung Taehyun,2021-08-12,History of late payment
+V01081,(ju) Daehan 287,5809442802,OO City OO District 248,010-0000-1081,Jung Taehyun,2025-12-26,
+V01082,jusikhoesa Shinkwang 9,442-75-23681,OO City OO District 34,,Lee Junho,2024-03-12,
+V01083,Jeongwoo 273,591-68-26780,OO City OO District 237,010-0000-1083,Choi Mina,2026-05-07,
+V01084,(ju) Daesung Tech 211,9815943574,OO City OO District 165,,Park Jihyun,2025-12-21,
+V01085,jusikhoesa Dongbang 204,970-64-13045,OO City OO District 152,010-0000-1085,Kim Youngsoo,2025-12-08,
+V01086,(ju) Hanbit Trading 238,850-13-75833,OO City OO District 152,,Park Jihyun,2024-02-24,The owner likes golf
+V01087,㈜Jeongwoo 32,4865124375,OO City OO District 288,,Jung Taehyun,2026-07-30,
+V01088,(ju) Woori 228,672-69-47114,OO City OO District 134,010-0000-1088,Choi Mina,2025-09-24,The owner likes golf
+V01089,(ju) Hanbit Trading 281,933-77-12522,OO City OO District 145,010-0000-1089,Choi Mina,2025-09-13,Contact person is difficult — take care
+V01090,jusikhoesa Mirae 248,903-27-67675,OO City OO District 121,010-0000-1090,Jung Taehyun,2026-03-30,The owner likes golf
+V01091,jusikhoesa Shinkwang 144,7048420739,OO City OO District 173,010-0000-1091,Jung Taehyun,2024-04-30,
+V01092,(ju) Shinkwang 14,277-95-54849,OO City OO District 97,010-0000-1092,Park Jihyun,2026-03-05,
+V01093,㈜Daehan 244,390-70-44815,OO City OO District 152,,Jung Taehyun,2024-07-16,
+V01094,Daehan 218,505-67-15760,OO City OO District 39,010-0000-1094,Park Jihyun,2025-08-31,
+V01095,(ju) Shinkwang 266,767-49-92716,OO City OO District 29,010-0000-1095,Choi Mina,2025-12-02,
+V01096,jusikhoesa Jeongwoo 234,5072098297,OO City OO District 95,010-0000-1096,Choi Mina,2026-03-19,
+V01097,㈜Sejong 122,1954842806,OO City OO District 95,,Jung Taehyun,2026-02-21,Contact person is difficult — take care
+V01098,Hanbit Trading 70,573-30-65725,OO City OO District 64,010-0000-1098,Park Jihyun,2025-07-30,
+V01099,Sejong 132,454-25-50442,OO City OO District 193,,Choi Mina,2024-12-14,
+V01100,jusikhoesa Hansol 27,923-97-44457,OO City OO District 84,010-0000-1100,Lee Junho,2023-07-04,Contact person is difficult — take care
+V01101,Sejong 165,4298180638,OO City OO District 101,010-0000-1101,Jung Taehyun,2025-07-02,The owner likes golf
+V01102,Daehan 176,576-84-64672,OO City OO District 193,,Choi Mina,2025-08-09,
+V01103,(ju) Dongbang 201,654-72-80567,OO City OO District 93,,Jung Taehyun,2025-11-15,
+V01104,Mirae 124,5807231658,OO City OO District 289,010-0000-1104,Jung Taehyun,2024-12-12,
+V01105,㈜Hansol 145,8618668531,OO City OO District 234,010-0000-1105,Kim Youngsoo,2024-10-30,
+V01106,㈜Dongbang 235,143-27-19054,OO City OO District,010-0000-1106,Jung Taehyun,2026-03-19,History of late payment
+V01107,jusikhoesa Shinkwang 210,8165812032,OO City OO District 220,010-0000-1107,Park Jihyun,2024-12-18,
+V01108,jusikhoesa Jeongwoo 203,441-15-32417,OO City OO District 81,,Park Jihyun,2026-01-26,
+V01109,(ju) Daesung Tech 252,287-68-27757,OO City OO District 242,,Lee Junho,2026-01-09,The owner likes golf
+V01110,(ju) Daesung Tech 94,424-83-79632,OO City OO District 284,,Jung Taehyun,2025-08-18,
+V01111,jusikhoesa Mirae 160,106-70-43712,OO City OO District 145,,Kim Youngsoo,2023-10-25,History of late payment
+V01112,jusikhoesa Woori 16,256-44-39520,OO City OO District 68,010-0000-1112,Lee Junho,2026-05-01,
+V01113,(ju) Dongbang 99,3666332153,OO City OO District 91,010-0000-1113,Park Jihyun,2025-10-30,
+V01114,jusikhoesa Mirae 298,9665639510,OO City OO District 239,010-0000-1114,Kim Youngsoo,2026-05-14,Contact person is difficult — take care
+V01115,㈜Sejong 21,291-76-11853,OO City OO District 161,,Jung Taehyun,2026-03-28,Contact person is difficult — take care
+V01116,jusikhoesa Mirae 112,7779932874,OO City OO District 36,,Kim Youngsoo,2026-03-21,
+V01117,(ju) Hanbit Trading 247,7586554300,OO City OO District 210,010-0000-1117,Choi Mina,2025-04-18,
+V01118,jusikhoesa Dongbang 115,880-58-94980,OO City OO District 7,,Jung Taehyun,2026-06-09,
+V01119,jusikhoesa Hansol 132,317-37-20027,OO City OO District,,Choi Mina,2025-05-18,Contact person is difficult — take care
+V01120,jusikhoesa Mirae 109,391-78-74598,OO City OO District 8,010-0000-1120,Lee Junho,2024-08-08,The owner likes golf
+V01121,(ju) Sejong 234,280-22-73235,OO City OO District 27,,Park Jihyun,2025-02-23,
+V01122,(ju) Daesung Tech 64,917-17-64706,OO City OO District 164,010-0000-1122,Kim Youngsoo,2025-06-18,Contact person is difficult — take care
+V01123,(ju) Daehan 204,7207671587,OO City OO District 65,010-0000-1123,Lee Junho,2026-07-18,
+V01124,Jeongwoo 151,120-99-65239,OO City OO District 59,010-0000-1124,Choi Mina,2025-11-14,
+V01125,(ju) Hansol 174,372-60-65582,OO City OO District 149,010-0000-1125,Park Jihyun,2024-08-29,
+V01126,Sejong 133,147-15-87633,OO City OO District 195,,Kim Youngsoo,2026-04-15,
+V01127,jusikhoesa Hanbit Trading 263,4237324312,OO City OO District 226,,Jung Taehyun,2026-03-28,History of late payment
+V01128,jusikhoesa Daehan 67,889-50-27499,OO City OO District 40,,Kim Youngsoo,2025-05-15,
+V01129,㈜Jeongwoo 141,924-40-13967,OO City OO District 75,010-0000-1129,Kim Youngsoo,2026-05-04,The owner likes golf
+V01130,㈜Jeongwoo 235,3853258522,OO City OO District 24,,Jung Taehyun,2026-06-17,Contact person is difficult — take care
+V01131,Mirae 67,417-75-28186,OO City OO District 205,,Kim Youngsoo,2025-03-16,
+V01132,jusikhoesa Woori 113,9267727801,OO City OO District 187,,Choi Mina,2023-12-28,History of late payment
+V01133,Mirae 278,7211126538,OO City OO District 246,010-0000-1133,Lee Junho,2026-08-04,
+V01134,㈜Woori 29,138-84-98487,OO City OO District 143,,Kim Youngsoo,2025-10-17,
+V01135,(ju) Jeongwoo 118,7084124732,OO City OO District 204,010-0000-1135,Park Jihyun,2026-06-20,
+V01136,(ju) Dongbang 163,9261516503,OO City OO District 170,010-0000-1136,Park Jihyun,2024-09-04,History of late payment
+V01137,jusikhoesa Hansol 157,818-60-95694,OO City OO District 240,,Choi Mina,2023-11-22,
+V01138,Jeongwoo 82,986-87-98354,OO City OO District 181,,Jung Taehyun,2025-01-03,
+V01139,㈜Daehan 272,1369246240,OO City OO District 36,010-0000-1139,Jung Taehyun,2026-05-02,History of late payment
+V01140,jusikhoesa Sejong 20,4925969038,OO City OO District 185,010-0000-1140,Park Jihyun,2024-07-20,
+V01141,㈜Jeongwoo 273,680-55-36903,OO City OO District 281,010-0000-1141,Kim Youngsoo,2026-03-27,The owner likes golf
+V01142,jusikhoesa Hanbit Trading 63,270-63-97518,OO City OO District,,Kim Youngsoo,2025-09-09,Contact person is difficult — take care
+V01143,Sejong 252,247-50-25973,OO City OO District 47,,Lee Junho,2025-12-09,
+V01144,㈜Dongbang 134,7247099129,OO City OO District 251,010-0000-1144,Jung Taehyun,2026-03-11,Contact person is difficult — take care
+V01145,jusikhoesa Jeongwoo 205,669-79-67209,OO City OO District 215,010-0000-1145,Choi Mina,2025-02-03,History of late payment
+V01146,㈜Hansol 250,841-31-85813,OO City OO District 190,010-0000-1146,Lee Junho,2025-04-22,
+V01147,jusikhoesa Jeongwoo 78,659-32-13815,OO City OO District 267,010-0000-1147,Kim Youngsoo,2025-12-24,
+V01148,㈜Daehan 104,980-40-68179,OO City OO District 73,,Park Jihyun,2025-09-30,History of late payment
+V01149,㈜Hanbit Trading 159,168-90-74783,OO City OO District 29,010-0000-1149,Park Jihyun,2026-03-08,Contact person is difficult — take care
+V01150,Dongbang 248,269-51-88914,OO City OO District 22,,Park Jihyun,2025-06-28,The owner likes golf
+V01151,Woori 256,716-79-39316,OO City OO District 254,010-0000-1151,Kim Youngsoo,2025-09-25,Contact person is difficult — take care
+V01152,jusikhoesa Hanbit Trading 221,6145686694,OO City OO District 112,010-0000-1152,Kim Youngsoo,2022-06-02,
+V01153,Daehan 51,2436256104,OO City OO District 251,,Kim Youngsoo,2025-07-25,The owner likes golf
+V01154,㈜Dongbang 112,675-79-21759,OO City OO District 211,,Park Jihyun,2026-02-26,Contact person is difficult — take care
+V01155,Mirae 6,818-72-80287,OO City OO District 261,010-0000-1155,Park Jihyun,2025-04-10,
+V01156,㈜Shinkwang 98,364-10-44265,OO City OO District 193,010-0000-1156,Choi Mina,2026-03-14,The owner likes golf
+V01157,㈜Hanbit Trading 100,601-65-56721,OO City OO District 134,010-0000-1157,Lee Junho,2025-07-10,
+V01158,Mirae 15,651-27-24020,OO City OO District,,Choi Mina,2025-11-24,
+V01159,Shinkwang 144,6804329075,OO City OO District 256,010-0000-1159,Choi Mina,2025-05-23,Contact person is difficult — take care
+V01160,Dongbang 117,646-22-49778,OO City OO District 258,,Park Jihyun,2026-04-09,
+V01161,(ju) Daesung Tech 95,280-56-69589,OO City OO District 115,010-0000-1161,Jung Taehyun,2025-07-26,History of late payment
+V01162,jusikhoesa Woori 86,714-66-63436,OO City OO District 182,010-0000-1162,Park Jihyun,2025-12-25,
+V01163,(ju) Hansol 174,208-55-74961,OO City OO District 185,010-0000-1163,Jung Taehyun,2025-09-01,
+V01164,jusikhoesa Shinkwang 196,7204562001,OO City OO District 218,010-0000-1164,Jung Taehyun,2026-05-10,The owner likes golf
+V01165,(ju) Jeongwoo 13,4215747336,OO City OO District 4,,Park Jihyun,2024-10-31,
+V01166,(ju) Dongbang 90,293-58-33324,OO City OO District 115,,Jung Taehyun,2026-05-10,Contact person is difficult — take care
+V01167,㈜Jeongwoo 65,3468913408,OO City OO District 92,,Kim Youngsoo,2026-01-07,
+V01168,jusikhoesa Hansol 158,665-64-39304,OO City OO District 208,010-0000-1168,Kim Youngsoo,2025-01-23,Contact person is difficult — take care
+V01169,(ju) Dongbang 233,1068837127,OO City OO District 200,010-0000-1169,Kim Youngsoo,2022-05-30,The owner likes golf
+V01170,jusikhoesa Daehan 247,154-55-37712,OO City OO District 83,010-0000-1170,Park Jihyun,2025-09-09,
+V01171,㈜Sejong 39,847-15-46535,OO City OO District 272,,Choi Mina,2025-11-23,
+V01172,jusikhoesa Woori 23,978-17-72629,OO City OO District 141,010-0000-1172,Jung Taehyun,2026-01-05,History of late payment
+V01173,㈜Hansol 240,7384818250,OO City OO District 84,010-0000-1173,Kim Youngsoo,2025-05-16,
+V01174,jusikhoesa Daesung Tech 297,179-77-71451,OO City OO District,010-0000-1174,Jung Taehyun,2026-02-23,The owner likes golf
+V01175,(ju) Hansol 80,590-12-25270,OO City OO District 154,,Park Jihyun,2026-07-08,
+V01176,Dongbang 113,194-90-39083,OO City OO District 215,010-0000-1176,Lee Junho,2024-02-23,Contact person is difficult — take care
+V01177,㈜Hansol 277,357-38-72903,OO City OO District 284,,Park Jihyun,2025-10-09,
+V01178,(ju) Hanbit Trading 56,592-54-83036,OO City OO District 295,010-0000-1178,Jung Taehyun,2025-10-01,The owner likes golf
+V01179,㈜Sejong 261,848-38-66329,OO City OO District,,Lee Junho,2025-09-18,History of late payment
+V01180,jusikhoesa Hanbit Trading 4,456-87-58492,OO City OO District 124,010-0000-1180,Jung Taehyun,2025-06-22,
+V01181,㈜Woori 264,2111856363,OO City OO District 157,,Choi Mina,2025-09-11,History of late payment
+V01182,Hansol 253,2686517510,OO City OO District 245,,Choi Mina,2026-01-26,
+V01183,㈜Jeongwoo 257,9034881441,OO City OO District 115,010-0000-1183,Park Jihyun,2026-05-02,
+V01184,Hansol 287,379-21-63032,OO City OO District 86,010-0000-1184,Kim Youngsoo,2025-03-29,
+V01185,Jeongwoo 37,779-27-24986,OO City OO District 217,010-0000-1185,Lee Junho,2025-12-10,
+V01186,(ju) Woori 219,745-71-33461,OO City OO District 195,010-0000-1186,Choi Mina,2026-04-30,The owner likes golf
+V01187,Hansol 28,366-93-69052,OO City OO District 43,,Kim Youngsoo,2026-06-23,
+V01188,(ju) Shinkwang 177,5979071564,OO City OO District 219,010-0000-1188,Jung Taehyun,2026-05-05,
+V01189,㈜Daehan 197,509-37-75519,OO City OO District 286,010-0000-1189,Lee Junho,2023-01-15,
+V01190,(ju) Woori 74,793-44-10266,OO City OO District 283,,Choi Mina,2022-05-04,Contact person is difficult — take care
+V01191,㈜Shinkwang 258,284-88-84447,OO City OO District 268,010-0000-1191,Kim Youngsoo,2024-04-06,History of late payment
+V01192,jusikhoesa Shinkwang 199,990-10-49251,OO City OO District 12,,Choi Mina,2025-11-04,Contact person is difficult — take care
+V01193,(ju) Hanbit Trading 103,2761964172,OO City OO District 245,010-0000-1193,Park Jihyun,2025-06-11,
+V01194,Hanbit Trading 240,583-84-66133,OO City OO District 20,010-0000-1194,Lee Junho,2025-11-23,
+V01195,㈜Dongbang 30,753-73-73044,OO City OO District 33,,Kim Youngsoo,2026-06-03,Contact person is difficult — take care
+V01196,㈜Mirae 150,2311277573,OO City OO District 138,010-0000-1196,Kim Youngsoo,2026-05-30,History of late payment
+V01197,(ju) Hanbit Trading 156,5374246263,OO City OO District 119,010-0000-1197,Choi Mina,2025-01-30,
+V01198,㈜Hansol 251,7191376846,OO City OO District 206,,Jung Taehyun,2026-05-11,Contact person is difficult — take care
+V01199,(ju) Hansol 148,240-51-39527,OO City OO District 157,,Lee Junho,2024-09-25,
+V01200,㈜Hanbit Trading 43,8483932075,OO City OO District 240,010-0000-1200,Choi Mina,2025-01-29,Contact person is difficult — take care
+V01201,Hanbit Trading 175,813-30-50649,OO City OO District 202,010-0000-1201,Choi Mina,2026-05-22,
+V01202,(ju) Daesung Tech 254,379-48-67877,OO City OO District 168,,Kim Youngsoo,2026-01-26,
+V01203,jusikhoesa Dongbang 143,4671948713,OO City OO District 50,010-0000-1203,Park Jihyun,2026-08-08,Contact person is difficult — take care
+V01204,jusikhoesa Woori 249,198-63-76462,OO City OO District 167,,Choi Mina,2026-07-04,
+V01205,Mirae 276,740-46-98350,OO City OO District 219,,Jung Taehyun,2025-12-24,Contact person is difficult — take care
+V01206,(ju) Jeongwoo 201,208-19-97582,OO City OO District,010-0000-1206,Park Jihyun,2026-06-04,
+V01207,㈜Sejong 133,8953234897,OO City OO District 212,010-0000-1207,Choi Mina,2022-08-20,
+V01208,(ju) Hanbit Trading 90,968-66-10354,OO City OO District 160,,Park Jihyun,2025-11-19,
+V01209,㈜Daesung Tech 109,767-65-73680,OO City OO District 58,,Lee Junho,2026-04-15,
+V01210,jusikhoesa Hansol 18,478-80-67558,OO City OO District,010-0000-1210,Lee Junho,2026-03-17,
+V01211,jusikhoesa Daehan 228,6942358559,OO City OO District 230,010-0000-1211,Kim Youngsoo,2026-07-27,
+V01212,jusikhoesa Woori 141,136-41-43565,OO City OO District 229,,Jung Taehyun,2025-05-12,
+V01213,㈜Shinkwang 227,352-91-69882,OO City OO District 290,010-0000-1213,Kim Youngsoo,2025-06-29,
+V01214,jusikhoesa Daesung Tech 32,5706269324,OO City OO District 73,010-0000-1214,Jung Taehyun,2023-07-13,History of late payment
+V01215,㈜Daesung Tech 21,634-34-64734,OO City OO District 190,010-0000-1215,Jung Taehyun,2025-06-28,
+V01216,(ju) Dongbang 244,861-90-50538,OO City OO District,010-0000-1216,Lee Junho,2026-08-09,History of late payment
+V01217,Hanbit Trading 27,277-93-62150,OO City OO District 108,010-0000-1217,Lee Junho,2026-05-24,
+V01218,(ju) Daesung Tech 226,414-88-30085,OO City OO District 201,010-0000-1218,Park Jihyun,2026-01-05,
+V01219,jusikhoesa Jeongwoo 139,150-17-84861,OO City OO District 143,010-0000-1219,Jung Taehyun,2026-08-04,
+V01220,(ju) Shinkwang 66,9389966167,OO City OO District 280,010-0000-1220,Lee Junho,2024-10-09,History of late payment
+V01221,jusikhoesa Daesung Tech 203,966-93-70775,OO City OO District 161,,Kim Youngsoo,2026-07-26,
+V01222,Daesung Tech 15,2618571010,OO City OO District 74,,Park Jihyun,2025-09-19,
+V01223,jusikhoesa Daehan 240,695-55-91349,OO City OO District 13,010-0000-1223,Kim Youngsoo,2026-04-03,Contact person is difficult — take care
+V01224,㈜Woori 287,7404067461,OO City OO District 92,010-0000-1224,Kim Youngsoo,2026-04-14,
+V01225,(ju) Mirae 167,281-21-22775,OO City OO District 220,010-0000-1225,Lee Junho,2026-05-09,
+V01226,jusikhoesa Daesung Tech 189,987-10-96569,OO City OO District 11,010-0000-1226,Kim Youngsoo,2026-05-28,
+V01227,jusikhoesa Daehan 163,1842323232,OO City OO District 130,,Park Jihyun,2026-08-02,Contact person is difficult — take care
+V01228,jusikhoesa Mirae 9,161-56-37728,OO City OO District 40,010-0000-1228,Lee Junho,2026-02-04,
+V01229,Hanbit Trading 231,909-28-90864,OO City OO District 107,010-0000-1229,Choi Mina,2024-10-24,Contact person is difficult — take care
+V01230,㈜Sejong 23,379-56-11353,OO City OO District 79,010-0000-1230,Jung Taehyun,2025-04-12,
+V01231,jusikhoesa Hanbit Trading 241,619-29-42680,OO City OO District 97,010-0000-1231,Lee Junho,2024-03-28,
+V01232,(ju) Dongbang 168,7415814043,OO City OO District 174,010-0000-1232,Jung Taehyun,2025-11-02,Contact person is difficult — take care
+V01233,jusikhoesa Daesung Tech 273,570-52-18973,OO City OO District 247,010-0000-1233,Choi Mina,2026-03-10,Contact person is difficult — take care
+V01234,Mirae 115,1384210980,OO City OO District 204,010-0000-1234,Lee Junho,2026-07-11,Contact person is difficult — take care
+V01235,jusikhoesa Daehan 131,6605249546,OO City OO District 98,,Kim Youngsoo,2024-11-06,
+V01236,㈜Mirae 227,810-74-37196,OO City OO District 215,010-0000-1236,Park Jihyun,2024-01-04,
+V01237,jusikhoesa Sejong 221,195-21-68200,OO City OO District 254,,Choi Mina,2025-07-15,
+V01238,Jeongwoo 251,2259215232,OO City OO District 219,010-0000-1238,Jung Taehyun,2025-12-09,
+V01239,(ju) Daehan 111,7524838072,OO City OO District 24,,Jung Taehyun,2025-03-25,
+V01240,Daesung Tech 275,539-92-15055,OO City OO District 52,010-0000-1240,Choi Mina,2026-07-16,The owner likes golf
+V01241,Daehan 258,6328698890,OO City OO District,010-0000-1241,Jung Taehyun,2024-05-16,Contact person is difficult — take care
+V01242,Hansol 16,7557542308,OO City OO District 50,010-0000-1242,Park Jihyun,2024-11-22,
+V01243,(ju) Daesung Tech 104,5578119303,OO City OO District 187,010-0000-1243,Lee Junho,2026-06-04,The owner likes golf
+V01244,㈜Daesung Tech 112,3767255677,OO City OO District 182,010-0000-1244,Lee Junho,2025-09-08,Contact person is difficult — take care
+V01245,Daesung Tech 6,768-38-19083,OO City OO District 90,010-0000-1245,Kim Youngsoo,2024-10-17,Contact person is difficult — take care
+V01246,(ju) Sejong 174,3786131079,OO City OO District 291,010-0000-1246,Jung Taehyun,2026-07-22,Contact person is difficult — take care
+V01247,(ju) Sejong 289,9166338338,OO City OO District 263,,Park Jihyun,2026-06-04,
+V01248,㈜Daesung Tech 249,956-50-87377,OO City OO District 61,,Park Jihyun,2020-03-18,
+V01249,㈜Daesung Tech 291,303-38-84352,OO City OO District 150,,Choi Mina,2025-06-28,
+V01250,Mirae 149,687-57-52604,OO City OO District 263,010-0000-1250,Lee Junho,2025-06-28,
+V01251,jusikhoesa Woori 18,5251274211,OO City OO District 157,,Choi Mina,2025-10-02,Contact person is difficult — take care
+V01252,jusikhoesa Hansol 179,5373524088,OO City OO District 21,010-0000-1252,Jung Taehyun,2025-07-14,
+V01253,jusikhoesa Jeongwoo 15,3458696075,OO City OO District 142,010-0000-1253,Kim Youngsoo,2025-01-07,History of late payment
+V01254,(ju) Woori 81,8056365273,OO City OO District 4,,Lee Junho,2024-05-24,History of late payment
+V01255,㈜Dongbang 27,7424723626,OO City OO District 258,,Jung Taehyun,2026-06-24,
+V01256,jusikhoesa Mirae 42,407-43-77318,OO City OO District 87,,Kim Youngsoo,2022-04-15,
+V01257,jusikhoesa Daesung Tech 151,966-55-46118,OO City OO District 230,010-0000-1257,Kim Youngsoo,2025-06-17,History of late payment
+V01258,Woori 19,6738635957,OO City OO District 83,010-0000-1258,Choi Mina,2026-08-09,Contact person is difficult — take care
+V01259,jusikhoesa Woori 17,822-55-79502,OO City OO District 75,010-0000-1259,Park Jihyun,2025-05-21,
+V01260,㈜Hansol 183,7012589682,OO City OO District 171,010-0000-1260,Choi Mina,2025-09-03,
+V01261,Woori 101,1606826360,OO City OO District 233,010-0000-1261,Kim Youngsoo,2023-12-13,The owner likes golf
+V01262,jusikhoesa Mirae 103,459-46-46769,OO City OO District,010-0000-1262,Lee Junho,2026-01-31,
+V01263,(ju) Shinkwang 262,1024441877,OO City OO District 260,,Kim Youngsoo,2025-08-30,History of late payment
+V01264,Mirae 66,7436369372,OO City OO District 47,010-0000-1264,Jung Taehyun,2025-01-10,
+V01265,㈜Daehan 34,779-12-49127,OO City OO District 100,,Kim Youngsoo,2026-05-04,
+V01266,Woori 24,873-66-68347,OO City OO District 120,,Lee Junho,2026-07-20,History of late payment
+V01267,jusikhoesa Shinkwang 29,3954333551,OO City OO District 244,010-0000-1267,Park Jihyun,2023-10-15,Contact person is difficult — take care
+V01268,Daesung Tech 111,3749833276,OO City OO District 161,,Choi Mina,2026-04-21,
+V01269,(ju) Daesung Tech 76,322-95-88711,OO City OO District 68,,Kim Youngsoo,2026-04-05,Contact person is difficult — take care
+V01270,jusikhoesa Daehan 284,387-38-87937,OO City OO District,010-0000-1270,Choi Mina,2023-12-15,
+V01271,(ju) Mirae 240,430-28-48416,OO City OO District 147,,Lee Junho,2025-08-10,
+V01272,(ju) Mirae 218,2995589179,OO City OO District 122,010-0000-1272,Jung Taehyun,2024-10-10,Contact person is difficult — take care
+V01273,(ju) Hansol 214,380-55-87125,OO City OO District 277,010-0000-1273,Jung Taehyun,2025-11-13,
+V01274,(ju) Sejong 128,3786160787,OO City OO District 236,,Choi Mina,2024-12-23,
+V01275,(ju) Daesung Tech 81,8741451281,OO City OO District,010-0000-1275,Choi Mina,2026-07-29,The owner likes golf
+V01276,㈜Woori 166,2925486595,OO City OO District 295,010-0000-1276,Kim Youngsoo,2025-07-15,The owner likes golf
+V01277,㈜Hanbit Trading 197,8704063719,OO City OO District 67,010-0000-1277,Lee Junho,2025-12-08,
+V01278,jusikhoesa Woori 49,381-91-73968,OO City OO District 178,010-0000-1278,Park Jihyun,2026-03-20,
+V01279,Daesung Tech 14,333-93-13276,OO City OO District 196,,Park Jihyun,2023-03-10,
+V01280,㈜Mirae 118,998-33-16667,OO City OO District 114,010-0000-1280,Jung Taehyun,2026-04-25,History of late payment
+V01281,jusikhoesa Shinkwang 143,564-91-97142,OO City OO District 260,,Park Jihyun,2023-04-13,
+V01282,(ju) Shinkwang 240,660-65-61609,OO City OO District 100,010-0000-1282,Park Jihyun,2025-08-19,
+V01283,㈜Woori 115,553-22-57255,OO City OO District 30,010-0000-1283,Kim Youngsoo,2026-05-03,
+V01284,(ju) Daesung Tech 245,8056756993,OO City OO District 260,010-0000-1284,Park Jihyun,2023-12-19,
+V01285,Shinkwang 277,862-94-55040,OO City OO District 54,,Kim Youngsoo,2025-06-09,History of late payment
+V01286,㈜Dongbang 9,2745373633,OO City OO District 160,010-0000-1286,Jung Taehyun,2022-11-27,
+V01287,㈜Sejong 177,3815573450,OO City OO District 24,,Kim Youngsoo,2025-11-05,
+V01288,(ju) Daesung Tech 228,442-31-52327,OO City OO District 38,010-0000-1288,Jung Taehyun,2023-10-17,History of late payment
+V01289,Daehan 56,1028016350,OO City OO District 64,,Park Jihyun,2025-11-20,
+V01290,Dongbang 131,113-80-49412,OO City OO District 243,010-0000-1290,Kim Youngsoo,2025-05-01,
+V01291,jusikhoesa Dongbang 194,173-87-78892,OO City OO District 173,010-0000-1291,Choi Mina,2025-08-24,History of late payment
+V01292,Woori 249,5095145323,OO City OO District,010-0000-1292,Park Jihyun,2025-01-11,
+V01293,jusikhoesa Jeongwoo 173,311-73-92904,OO City OO District 206,010-0000-1293,Kim Youngsoo,2026-01-26,
+V01294,Daesung Tech 90,1697129728,OO City OO District 147,010-0000-1294,Jung Taehyun,2026-04-11,History of late payment
+V01295,(ju) Jeongwoo 298,874-23-50680,OO City OO District 245,,Jung Taehyun,2024-07-03,
+V01296,(ju) Daehan 186,767-89-43013,OO City OO District 152,010-0000-1296,Jung Taehyun,2026-03-18,The owner likes golf
+V01297,㈜Dongbang 143,808-45-62628,OO City OO District 231,,Choi Mina,2026-06-07,
+V01298,㈜Hansol 228,797-43-80515,OO City OO District 141,,Choi Mina,2026-04-28,
+V01299,jusikhoesa Woori 135,5369328683,OO City OO District 141,,Choi Mina,2026-06-17,History of late payment
+V01300,jusikhoesa Shinkwang 263,8733557868,OO City OO District 265,010-0000-1300,Park Jihyun,2026-06-13,
+V01301,㈜Daesung Tech 39,2523379668,OO City OO District 56,010-0000-1301,Kim Youngsoo,2026-03-26,
+V01302,jusikhoesa Woori 57,6723965509,OO City OO District,010-0000-1302,Jung Taehyun,2023-04-01,Contact person is difficult — take care
+V01303,(ju) Hansol 259,500-52-29363,OO City OO District 254,,Kim Youngsoo,2025-12-27,The owner likes golf
+V01304,Hansol 180,3428080344,OO City OO District 163,,Kim Youngsoo,2026-02-27,
+V01305,㈜Daesung Tech 132,3635759093,OO City OO District 132,010-0000-1305,Lee Junho,2025-10-18,
+V01306,㈜Daesung Tech 289,5646187574,OO City OO District 112,010-0000-1306,Choi Mina,2026-02-27,
+V01307,Hanbit Trading 268,7494449938,OO City OO District 111,010-0000-1307,Lee Junho,2026-03-03,History of late payment
+V01308,(ju) Hanbit Trading 187,2041513664,OO City OO District 210,,Choi Mina,2026-01-22,The owner likes golf
+V01309,Daehan 261,269-64-20500,OO City OO District 79,010-0000-1309,Park Jihyun,2026-04-26,History of late payment
+V01310,Shinkwang 187,560-40-33812,OO City OO District 282,010-0000-1310,Kim Youngsoo,2025-10-04,
+V01311,jusikhoesa Sejong 295,5527665151,OO City OO District 85,,Park Jihyun,2026-05-18,
+V01312,jusikhoesa Daehan 108,387-40-95218,OO City OO District 102,,Kim Youngsoo,2026-06-27,The owner likes golf
+V01313,㈜Woori 181,479-20-32943,OO City OO District 139,,Lee Junho,2026-05-10,History of late payment
+V01314,(ju) Hansol 137,288-11-31060,OO City OO District 182,010-0000-1314,Kim Youngsoo,2026-01-28,The owner likes golf
+V01315,㈜Shinkwang 274,286-14-50622,OO City OO District 259,010-0000-1315,Jung Taehyun,2026-06-01,
+V01316,Mirae 96,330-71-39124,OO City OO District 192,010-0000-1316,Park Jihyun,2026-03-03,
+V01317,(ju) Daesung Tech 279,409-83-20024,OO City OO District 202,010-0000-1317,Jung Taehyun,2024-12-02,History of late payment
+V01318,Daesung Tech 188,628-72-66347,OO City OO District 91,010-0000-1318,Park Jihyun,2023-02-14,
+V01319,jusikhoesa Mirae 197,881-40-42243,OO City OO District 166,010-0000-1319,Park Jihyun,2026-02-13,Contact person is difficult — take care
+V01320,(ju) Hanbit Trading 253,282-24-57356,OO City OO District 193,010-0000-1320,Jung Taehyun,2026-03-14,
+V01321,jusikhoesa Hanbit Trading 208,8525886878,OO City OO District 150,010-0000-1321,Kim Youngsoo,2026-02-09,
+V01322,㈜Woori 190,301-67-27314,OO City OO District 153,010-0000-1322,Choi Mina,2024-04-15,
+V01323,jusikhoesa Jeongwoo 94,398-94-77711,OO City OO District 285,010-0000-1323,Jung Taehyun,2026-06-09,The owner likes golf
+V01324,㈜Hanbit Trading 172,5276557609,OO City OO District 75,010-0000-1324,Lee Junho,2026-06-23,Contact person is difficult — take care
+V01325,Daehan 136,472-36-71622,OO City OO District 225,,Kim Youngsoo,2026-06-08,Contact person is difficult — take care
+V01326,Daehan 300,9717180547,OO City OO District 85,010-0000-1326,Jung Taehyun,2025-03-16,Contact person is difficult — take care
+V01327,Daehan 273,5965713920,OO City OO District 33,,Park Jihyun,2026-01-31,
+V01328,jusikhoesa Sejong 84,496-55-24050,OO City OO District 130,010-0000-1328,Jung Taehyun,2026-05-12,
+V01329,jusikhoesa Jeongwoo 142,968-77-45661,OO City OO District 185,,Park Jihyun,2025-08-12,
+V01330,Shinkwang 76,542-70-44160,OO City OO District 7,,Lee Junho,2025-09-06,
+V01331,Woori 30,5874591713,OO City OO District 82,010-0000-1331,Jung Taehyun,2025-05-22,
+V01332,(ju) Dongbang 270,876-31-79123,OO City OO District 244,,Lee Junho,2025-07-12,
+V01333,jusikhoesa Hanbit Trading 238,626-57-94499,OO City OO District 235,,Jung Taehyun,2024-05-24,The owner likes golf
+V01334,(ju) Dongbang 117,2061473475,OO City OO District 203,010-0000-1334,Park Jihyun,2025-12-12,The owner likes golf
+V01335,㈜Hanbit Trading 54,463-99-82473,OO City OO District 298,,Kim Youngsoo,2026-06-05,History of late payment
+V01336,(ju) Woori 142,175-11-13606,OO City OO District 4,010-0000-1336,Jung Taehyun,2025-08-22,History of late payment
+V01337,Shinkwang 95,4934480119,OO City OO District 91,,Choi Mina,2025-02-22,
+V01338,Daesung Tech 20,6033733722,OO City OO District 10,010-0000-1338,Lee Junho,2025-10-28,The owner likes golf
+V01339,Hansol 166,912-30-68567,OO City OO District,010-0000-1339,Park Jihyun,2026-05-16,
+V01340,(ju) Dongbang 110,376-14-53099,OO City OO District 160,,Kim Youngsoo,2024-07-31,
+V01341,㈜Jeongwoo 148,941-25-72879,OO City OO District 140,010-0000-1341,Park Jihyun,2026-01-03,The owner likes golf
+V01342,jusikhoesa Woori 7,832-58-56821,OO City OO District 127,010-0000-1342,Park Jihyun,2024-08-17,History of late payment
+V01343,jusikhoesa Shinkwang 237,829-97-78507,OO City OO District 41,,Choi Mina,2025-01-14,
+V01344,㈜Daesung Tech 61,4289524631,OO City OO District 124,010-0000-1344,Choi Mina,2024-10-06,
+V01345,Daehan 83,5443188077,OO City OO District 119,,Kim Youngsoo,2023-11-08,
+V01346,Jeongwoo 66,4347015941,OO City OO District 217,,Jung Taehyun,2026-06-07,
+V01347,㈜Daesung Tech 41,4943177491,OO City OO District 284,010-0000-1347,Choi Mina,2025-11-02,
+V01348,jusikhoesa Woori 238,7345293656,OO City OO District 170,,Choi Mina,2025-07-05,
+V01349,(ju) Daehan 183,1741537938,OO City OO District 162,,Lee Junho,2026-07-22,
+V01350,jusikhoesa Hanbit Trading 294,819-14-48028,OO City OO District 4,,Jung Taehyun,2026-03-17,
+V01351,Sejong 202,699-26-31930,OO City OO District 123,010-0000-1351,Choi Mina,2023-08-03,History of late payment
+V01352,㈜Dongbang 91,4017832315,OO City OO District 156,010-0000-1352,Kim Youngsoo,2024-12-23,
+V01353,(ju) Mirae 207,2826315565,OO City OO District 219,,Lee Junho,2026-02-02,The owner likes golf
+V01354,Woori 94,9559179706,OO City OO District 287,010-0000-1354,Park Jihyun,2026-02-15,History of late payment
+V01355,(ju) Jeongwoo 216,206-47-46141,OO City OO District 283,,Kim Youngsoo,2026-02-24,
+V01356,jusikhoesa Shinkwang 224,120-38-77028,OO City OO District 63,010-0000-1356,Kim Youngsoo,2026-06-06,
+V01357,(ju) Woori 105,536-98-47610,OO City OO District 190,010-0000-1357,Choi Mina,2026-06-28,
+V01358,(ju) Woori 62,868-77-82478,OO City OO District 123,,Choi Mina,2025-07-12,History of late payment
+V01359,jusikhoesa Sejong 92,855-40-36800,OO City OO District 205,010-0000-1359,Choi Mina,2025-10-01,The owner likes golf
+V01360,(ju) Hanbit Trading 183,740-43-33496,OO City OO District 222,,Kim Youngsoo,2024-02-16,The owner likes golf
+V01361,jusikhoesa Shinkwang 248,3612611852,OO City OO District 297,010-0000-1361,Choi Mina,2026-08-07,
+V01362,㈜Daesung Tech 299,596-78-74446,OO City OO District 117,010-0000-1362,Lee Junho,2023-03-25,History of late payment
+V01363,Daesung Tech 278,3029842488,OO City OO District 113,010-0000-1363,Park Jihyun,2025-11-01,
+V01364,㈜Daesung Tech 266,948-36-93758,OO City OO District 150,010-0000-1364,Jung Taehyun,2024-05-16,
+V01365,(ju) Sejong 267,5304388780,OO City OO District 71,010-0000-1365,Choi Mina,2025-10-17,
+V01366,jusikhoesa Hansol 280,521-90-76006,OO City OO District 30,,Choi Mina,2026-06-14,
+V01367,(ju) Daehan 248,770-96-99043,OO City OO District 187,,Choi Mina,2026-04-26,
+V01368,㈜Woori 207,251-96-37318,OO City OO District 200,,Lee Junho,2025-11-10,
+V01369,jusikhoesa Hanbit Trading 121,807-97-13465,OO City OO District 202,010-0000-1369,Lee Junho,2026-07-29,
+V01370,jusikhoesa Hanbit Trading 286,977-63-20044,OO City OO District 208,,Jung Taehyun,2026-05-29,History of late payment
+V01371,㈜Hansol 198,226-37-67883,OO City OO District,010-0000-1371,Lee Junho,2025-06-18,
+V01372,jusikhoesa Sejong 169,392-77-72611,OO City OO District 280,,Park Jihyun,2026-06-30,
+V01373,(ju) Hanbit Trading 101,265-55-24346,OO City OO District 231,010-0000-1373,Lee Junho,2024-02-10,
+V01374,jusikhoesa Jeongwoo 225,5158566249,OO City OO District 240,,Kim Youngsoo,2026-02-01,
+V01375,㈜Jeongwoo 254,185-22-71376,OO City OO District 282,,Choi Mina,2025-01-28,
+V01376,Hansol 141,423-29-77998,OO City OO District 208,010-0000-1376,Jung Taehyun,2026-07-24,Contact person is difficult — take care
+V01377,Dongbang 233,602-55-41683,OO City OO District 150,010-0000-1377,Jung Taehyun,2025-08-23,The owner likes golf
+V01378,jusikhoesa Daesung Tech 55,254-33-49996,OO City OO District 40,010-0000-1378,Kim Youngsoo,2026-08-01,Contact person is difficult — take care
+V01379,㈜Sejong 102,498-53-88477,OO City OO District 138,010-0000-1379,Lee Junho,2025-07-31,History of late payment
+V01380,jusikhoesa Hansol 3,891-31-33511,OO City OO District 159,,Park Jihyun,2025-08-22,
+V01381,(ju) Mirae 298,511-13-70843,OO City OO District 58,,Choi Mina,2025-09-13,History of late payment
+V01382,Mirae 178,7792881587,OO City OO District 64,,Lee Junho,2025-12-15,History of late payment
+V01383,Daehan 108,630-20-16311,OO City OO District 252,010-0000-1383,Kim Youngsoo,2026-06-14,
+V01384,㈜Shinkwang 257,606-75-90943,OO City OO District 95,,Kim Youngsoo,2026-07-20,
+V01385,(ju) Daesung Tech 171,1113249918,OO City OO District 182,,Jung Taehyun,2026-02-10,
+V01386,jusikhoesa Hansol 74,664-63-42481,OO City OO District 107,010-0000-1386,Park Jihyun,2025-09-07,
+V01387,jusikhoesa Sejong 117,326-76-60440,OO City OO District 11,010-0000-1387,Choi Mina,2024-12-23,
+V01388,㈜Daesung Tech 187,373-60-44081,OO City OO District 33,,Choi Mina,2024-06-20,The owner likes golf
+V01389,jusikhoesa Jeongwoo 170,6191596311,OO City OO District 259,010-0000-1389,Jung Taehyun,2026-05-09,
+V01390,jusikhoesa Daesung Tech 237,241-33-19871,OO City OO District 57,010-0000-1390,Choi Mina,2026-07-19,The owner likes golf
+V01391,jusikhoesa Woori 109,391-98-53838,OO City OO District 19,010-0000-1391,Kim Youngsoo,2026-06-19,
+V01392,Daehan 244,692-48-87951,OO City OO District 102,010-0000-1392,Jung Taehyun,2026-08-05,History of late payment
+V01393,㈜Daehan 134,252-14-28483,OO City OO District 25,,Jung Taehyun,2026-04-29,
+V01394,Hansol 255,352-23-22724,OO City OO District 112,,Kim Youngsoo,2026-06-28,The owner likes golf
+V01395,jusikhoesa Mirae 41,9673613779,OO City OO District 251,010-0000-1395,Kim Youngsoo,2026-05-17,History of late payment
+V01396,Hanbit Trading 177,4982365708,OO City OO District 226,010-0000-1396,Choi Mina,2025-07-23,
+V01397,㈜Sejong 52,4464970872,OO City OO District 2,,Jung Taehyun,2026-01-26,History of late payment
+V01398,Hansol 237,4468263498,OO City OO District 222,,Park Jihyun,2025-11-05,
+V01399,(ju) Hanbit Trading 208,7322059545,OO City OO District 63,010-0000-1399,Park Jihyun,2025-05-12,
+V01400,jusikhoesa Dongbang 257,992-17-96168,OO City OO District 178,,Kim Youngsoo,2024-04-07,Contact person is difficult — take care
+V01401,Dongbang 127,828-37-98120,OO City OO District 31,,Choi Mina,2024-10-08,
+V01402,(ju) Woori 290,816-21-22773,OO City OO District 84,,Choi Mina,2025-11-24,
+V01403,(ju) Daesung Tech 63,645-80-19110,OO City OO District 85,,Park Jihyun,2026-03-03,The owner likes golf
+V01404,(ju) Dongbang 2,595-39-75843,OO City OO District 150,010-0000-1404,Park Jihyun,2026-02-08,
+V01405,Daesung Tech 71,841-79-75069,OO City OO District 133,,Kim Youngsoo,2025-02-09,
+V01406,㈜Hansol 38,605-95-91644,OO City OO District 270,,Jung Taehyun,2024-07-04,History of late payment
+V01407,jusikhoesa Sejong 246,443-43-46294,OO City OO District 169,,Kim Youngsoo,2025-01-01,
+V01408,Woori 17,955-50-92311,OO City OO District 281,010-0000-1408,Park Jihyun,2026-07-09,
+V01409,Hansol 1,9895837184,OO City OO District 53,010-0000-1409,Kim Youngsoo,2025-04-24,The owner likes golf
+V01410,jusikhoesa Hanbit Trading 49,442-29-86474,OO City OO District 280,010-0000-1410,Lee Junho,2022-01-01,History of late payment
+V01411,(ju) Woori 107,595-88-99454,OO City OO District 51,010-0000-1411,Lee Junho,2026-02-10,
+V01412,jusikhoesa Dongbang 44,2328231214,OO City OO District 166,,Park Jihyun,2026-06-29,History of late payment
+V01413,jusikhoesa Hansol 259,244-28-19066,OO City OO District 87,010-0000-1413,Kim Youngsoo,2026-05-21,
+V01414,Shinkwang 169,3652476603,OO City OO District 221,,Jung Taehyun,2024-03-24,
+V01415,Woori 283,7814389492,OO City OO District 287,,Lee Junho,2026-07-02,
+V01416,Daesung Tech 200,187-79-81294,OO City OO District 28,,Lee Junho,2023-03-16,
+V01417,Sejong 199,675-37-14268,OO City OO District 251,010-0000-1417,Kim Youngsoo,2025-02-21,Contact person is difficult — take care
+V01418,Sejong 240,4785984643,OO City OO District 185,010-0000-1418,Jung Taehyun,2026-06-21,The owner likes golf
+V01419,jusikhoesa Jeongwoo 74,858-22-17486,OO City OO District 65,010-0000-1419,Jung Taehyun,2025-06-17,
+V01420,jusikhoesa Woori 208,101-52-28335,OO City OO District 179,010-0000-1420,Lee Junho,2026-07-01,
+V01421,jusikhoesa Dongbang 36,718-79-26863,OO City OO District 28,010-0000-1421,Lee Junho,2025-08-15,
+V01422,(ju) Daehan 254,170-28-48520,OO City OO District 215,010-0000-1422,Choi Mina,2025-06-16,History of late payment
+V01423,㈜Sejong 242,9649642176,OO City OO District 27,010-0000-1423,Park Jihyun,2026-04-08,
+V01424,jusikhoesa Sejong 118,6157550366,OO City OO District 14,010-0000-1424,Jung Taehyun,2025-05-09,
+V01425,㈜Mirae 286,6281485974,OO City OO District 112,,Kim Youngsoo,2026-03-08,
+V01426,jusikhoesa Hansol 130,461-51-40095,OO City OO District 67,,Kim Youngsoo,2023-07-11,The owner likes golf
+V01427,Daesung Tech 239,143-23-45249,OO City OO District 88,010-0000-1427,Lee Junho,2025-12-19,Contact person is difficult — take care
+V01428,(ju) Daesung Tech 166,6941242511,OO City OO District 140,010-0000-1428,Jung Taehyun,2025-08-18,
+V01429,jusikhoesa Shinkwang 29,166-97-91545,OO City OO District 54,010-0000-1429,Kim Youngsoo,2025-12-16,The owner likes golf
+V01430,jusikhoesa Hanbit Trading 134,380-50-54459,OO City OO District 144,010-0000-1430,Kim Youngsoo,2025-09-11,
+V01431,(ju) Jeongwoo 181,238-95-51472,OO City OO District 203,010-0000-1431,Park Jihyun,2025-11-20,
+V01432,jusikhoesa Hanbit Trading 43,1838242608,OO City OO District 291,010-0000-1432,Jung Taehyun,2026-08-09,The owner likes golf
+V01433,㈜Woori 13,524-86-98248,OO City OO District 109,,Jung Taehyun,2024-11-24,
+V01434,(ju) Sejong 238,133-78-24704,OO City OO District 55,,Park Jihyun,2023-07-08,
+V01435,㈜Mirae 173,1608989224,OO City OO District 39,010-0000-1435,Kim Youngsoo,2026-07-21,
+V01436,jusikhoesa Mirae 273,2958085072,OO City OO District 230,,Choi Mina,2025-11-23,History of late payment
+V01437,Hansol 235,100-94-18797,OO City OO District 113,010-0000-1437,Kim Youngsoo,2026-06-30,
+V01438,Hanbit Trading 98,2801082168,OO City OO District 143,010-0000-1438,Jung Taehyun,2025-08-10,
+V01439,jusikhoesa Daesung Tech 145,2544979752,OO City OO District 218,,Park Jihyun,2025-04-10,
+V01440,jusikhoesa Sejong 19,687-54-31733,OO City OO District,,Lee Junho,2024-01-03,History of late payment
+V01441,jusikhoesa Daesung Tech 201,564-74-63854,OO City OO District 75,010-0000-1441,Lee Junho,2022-09-23,
+V01442,(ju) Daesung Tech 129,9666229153,OO City OO District 254,,Choi Mina,2025-01-19,
+V01443,(ju) Hanbit Trading 96,7602872858,OO City OO District 151,010-0000-1443,Kim Youngsoo,2026-02-16,History of late payment
+V01444,㈜Woori 174,438-11-36145,OO City OO District 202,,Kim Youngsoo,2025-06-19,
+V01445,㈜Hansol 297,441-30-23612,OO City OO District 30,,Choi Mina,2025-07-24,
+V01446,㈜Woori 289,5867926339,OO City OO District 222,010-0000-1446,Park Jihyun,2025-08-17,Contact person is difficult — take care
+V01447,Dongbang 258,2493517062,OO City OO District 208,010-0000-1447,Jung Taehyun,2026-01-16,
+V01448,jusikhoesa Jeongwoo 96,434-29-75438,OO City OO District 42,,Park Jihyun,2026-06-18,Contact person is difficult — take care
+V01449,jusikhoesa Daehan 179,806-67-79554,OO City OO District 104,010-0000-1449,Kim Youngsoo,2026-03-28,
+V01450,jusikhoesa Jeongwoo 49,219-21-96677,OO City OO District 143,010-0000-1450,Choi Mina,2026-07-19,History of late payment
+V01451,(ju) Hanbit Trading 26,4524436199,OO City OO District 102,,Kim Youngsoo,2025-08-07,
+V01452,(ju) Mirae 242,598-71-50339,OO City OO District 113,,Lee Junho,2026-07-04,History of late payment
+V01453,Hanbit Trading 271,260-61-84084,OO City OO District 216,010-0000-1453,Lee Junho,2025-06-24,
+V01454,Sejong 101,3815627384,OO City OO District 199,010-0000-1454,Park Jihyun,2024-02-13,
+V01455,(ju) Hansol 61,928-20-11037,OO City OO District 69,010-0000-1455,Lee Junho,2025-12-03,
+V01456,jusikhoesa Hansol 186,982-90-58840,OO City OO District 236,,Jung Taehyun,2024-02-10,
+V01457,(ju) Dongbang 280,3826289315,OO City OO District,010-0000-1457,Choi Mina,2026-04-29,History of late payment
+V01458,Sejong 221,877-26-83931,OO City OO District 22,010-0000-1458,Kim Youngsoo,2022-12-05,
+V01459,㈜Jeongwoo 177,1206468959,OO City OO District 176,010-0000-1459,Jung Taehyun,2026-04-16,History of late payment
+V01460,(ju) Hansol 11,567-62-11167,OO City OO District 226,010-0000-1460,Jung Taehyun,2026-03-23,The owner likes golf
+V01461,(ju) Daehan 91,2519376870,OO City OO District 276,,Jung Taehyun,2022-06-18,Contact person is difficult — take care
+V01462,㈜Jeongwoo 187,346-24-38317,OO City OO District 156,,Jung Taehyun,2024-07-20,
+V01463,㈜Mirae 11,259-44-33226,OO City OO District 32,,Kim Youngsoo,2025-11-25,The owner likes golf
+V01464,jusikhoesa Sejong 268,218-21-50732,OO City OO District 244,,Park Jihyun,2024-07-02,History of late payment
+V01465,㈜Dongbang 154,254-41-61448,OO City OO District 103,010-0000-1465,Lee Junho,2025-07-07,
+V01466,jusikhoesa Jeongwoo 107,230-67-72964,OO City OO District 47,010-0000-1466,Choi Mina,2024-01-26,
+V01467,Woori 170,959-92-16900,OO City OO District 161,010-0000-1467,Park Jihyun,2024-09-02,Contact person is difficult — take care
+V01468,Sejong 17,104-42-61535,OO City OO District 149,010-0000-1468,Lee Junho,2022-11-18,The owner likes golf
+V01469,jusikhoesa Woori 23,860-61-56411,OO City OO District 235,010-0000-1469,Jung Taehyun,2025-12-30,
+V01470,jusikhoesa Hanbit Trading 75,962-47-63446,OO City OO District,010-0000-1470,Jung Taehyun,2024-10-08,
+V01471,jusikhoesa Jeongwoo 136,744-32-10694,OO City OO District 36,010-0000-1471,Park Jihyun,2026-07-28,
+V01472,(ju) Hansol 18,5512472139,OO City OO District 168,,Jung Taehyun,2021-08-28,
+V01473,(ju) Sejong 234,502-17-75556,OO City OO District,,Jung Taehyun,2024-06-17,
+V01474,Hansol 178,740-19-64140,OO City OO District 41,010-0000-1474,Jung Taehyun,2024-10-07,Contact person is difficult — take care
+V01475,㈜Jeongwoo 291,5775861375,OO City OO District 206,010-0000-1475,Park Jihyun,2025-09-20,History of late payment
+V01476,(ju) Hansol 107,339-50-63580,OO City OO District 147,010-0000-1476,Lee Junho,2025-07-14,
+V01477,㈜Jeongwoo 153,9077374124,OO City OO District 175,010-0000-1477,Choi Mina,2026-07-17,The owner likes golf
+V01478,㈜Woori 258,2717744158,OO City OO District 273,010-0000-1478,Choi Mina,2024-10-07,History of late payment
+V01479,㈜Shinkwang 12,757-63-60768,OO City OO District 112,010-0000-1479,Jung Taehyun,2025-04-09,
+V01480,jusikhoesa Shinkwang 258,242-95-91240,OO City OO District 19,,Kim Youngsoo,2024-12-04,
+V01481,jusikhoesa Woori 198,911-75-52996,OO City OO District 229,010-0000-1481,Kim Youngsoo,2024-09-21,
+V01482,jusikhoesa Hansol 93,383-37-84974,OO City OO District 181,,Kim Youngsoo,2026-07-09,History of late payment

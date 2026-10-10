@@ -1,2 +1,5 @@
-one order window a month
-same vendor list for every team
+Draft sorting rules
+
+- Photos are easiest to find when split by year
+- Documents by type? By date? Try both, then decide
+- Copy the originals somewhere else before moving anything

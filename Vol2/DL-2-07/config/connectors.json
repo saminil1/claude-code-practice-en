@@ -1,0 +1,51 @@
+{
+ "connectors": [
+  {
+   "name": "doc-summarizer",
+   "provider": "external API",
+   "used_by": [
+    "Legal",
+    "Planning"
+   ],
+   "api_key": "${DOC_SUMMARIZER_API_KEY}"
+  },
+  {
+   "name": "ticket-classifier",
+   "provider": "external API",
+   "used_by": [
+    "CS"
+   ],
+   "api_key": "${TICKET_CLASSIFIER_API_KEY}"
+  },
+  {
+   "name": "code-assistant",
+   "provider": "external API",
+   "used_by": [
+    "Development"
+   ],
+   "api_key": "${CODE_ASSISTANT_API_KEY}"
+  },
+  {
+   "name": "translate-svc",
+   "provider": "external API",
+   "used_by": [
+    "Overseas Sales"
+   ],
+   "api_key": "${TRANSLATE_SVC_API_KEY}"
+  },
+  {
+   "name": "meeting-notes",
+   "provider": "built-in",
+   "used_by": [
+    "All staff"
+   ]
+  },
+  {
+   "name": "audit-automation",
+   "provider": "in-house",
+   "used_by": [
+    "Information Security"
+   ]
+  }
+ ]
+}
